@@ -1,0 +1,3 @@
+---
+title: "Économétrie : régression linéaire"
+---

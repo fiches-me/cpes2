@@ -1,0 +1,43 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.name != "README"
+properties:
+  note.title:
+    displayName: Titre (web)
+  note.draft:
+    displayName: Brouillon
+  note.finished:
+    displayName: Finie ?
+  file.basename:
+    displayName: Nom du fichier
+  file.folder:
+    displayName: Dossier
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - title
+      - draft
+      - finished
+      - file.folder
+    sort:
+      - property: draft
+        direction: DESC
+      - property: title
+        direction: ASC
+      - property: file.name
+        direction: DESC
+      - property: file.folder
+        direction: DESC
+      - property: file.path
+        direction: ASC
+      - property: finished
+        direction: ASC
+      - property: file.basename
+        direction: ASC
+      - property: file.name
+        direction: DESC
+    columnSize:
+      note.title: 418

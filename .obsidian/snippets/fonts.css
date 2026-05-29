@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+/* Apply Plus Jakarta Sans to body and general text */
+body {
+    font-family: 'Plus Jakarta Sans', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif !important;
+}

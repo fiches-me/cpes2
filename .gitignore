@@ -1,0 +1,17 @@
+.trash
+node_modules
+.vitepress/dist
+
+.vitepress/cache
+projets-solidaires.md
+work.md
+devoir.md
+
+.obsidian/themes
+.obsidian/appearance.json
+workspace-mobile.json
+workspace.json
+workspaces.json
+
+data.json.backup*
+output.pdf
