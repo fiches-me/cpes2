@@ -10,8 +10,8 @@ import mathjax3 from "markdown-it-mathjax3";
 
 // https://vitepress.dev/reference/site-config
 const vitePressConfigs: UserConfig<any> = {
-  title: "📑 FICHES.ME CPES",
-  description: "Mes super fiches ig",
+  title: "📑 FICHES.ME CPES2",
+  description: "La deuxième édition de guigui qui sauve ton année de CPES.",
   cleanUrls: true,
   lastUpdated: true,
   ignoreDeadLinks: true,
@@ -39,31 +39,26 @@ const vitePressConfigs: UserConfig<any> = {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/logo.png",
     editLink: {
-      pattern: "https://github.com/fiches-me/cpes/edit/main/:path",
+      pattern: "https://github.com/fiches-me/cpes2/edit/main/:path",
     },
     nav: [
-      { text: "🔢 Maths", link: "/maths" },
-      { text: "🖥️ Info", link: "/info" },
       { text: "💸 Eco", link: "/eco" },
-      { text: "🍃 Bio", link: "/bio" },
-      { text: "📊 Stats", link: "/stats" },
-      { text: "🎮 CPES-CRAFT", link: "/craft" },
       { text: "💖 Nous Aider", link: "/contribution" },
     ],
     footer: {
       message: "Released under the GPL-3.0 License.",
-      copyright: "Copyright © 2019-2025 FUNASITIEN",
+      copyright: "Copyright © 2019-2026 FUNASITIEN",
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/fiches-me/cpes" },
+      { icon: "github", link: "https://github.com/fiches-me/cpes2" },
       { icon: "discord", link: "https://dsc.gg/drmcld" },
     ],
   },
   sitemap: {
-    hostname: "https://cpes.fiches.me",
+    hostname: "https://cpes2.fiches.me",
   },
   transformPageData(ctx) {
-    const canonicalUrl = `https://cpes.fiches.me/${ctx.relativePath.replace(/\.(md|html)$/, "").replace(/\index$/, "")}`;
+    const canonicalUrl = `https://cpes2.fiches.me/${ctx.relativePath.replace(/\.(md|html)$/, "").replace(/\index$/, "")}`;
     ctx.frontmatter.head = ctx.frontmatter.head || [];
     ctx.frontmatter.head.push([
       "link",

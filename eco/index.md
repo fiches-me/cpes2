@@ -3,6 +3,8 @@ title: "💸 Economie : Introduction"
 finished: true
 ---
 
+<!--
+
 # Qu'est-ce que l'Économie ?
 
 ## Analyse Épistémologique
@@ -20,8 +22,8 @@ L'épistémologie est l'étude critique des sciences, de leur formation et de le
 > « L'économie est l'étude de la manière dont les sociétés utilisent des ressources rares pour produire des marchandises ayant une valeur et pour les répartir entre une multitude d’individus. »
 
 ➡ **Ajouts** : Notions de **Production**, **Valeur** et **Répartition**.
-*   **Microéconomie** : Comportement des agents individuels (ménages, entreprises).
-*   **Macroéconomie** : Étude des agrégats économiques à l'échelle nationale ou mondiale (État, inflation, chômage).
+* **Microéconomie** : Comportement des agents individuels (ménages, entreprises).
+* **Macroéconomie** : Étude des agrégats économiques à l'échelle nationale ou mondiale (État, inflation, chômage).
 
 ### 3. Edmond Malinvaud (1975)
 
@@ -36,14 +38,16 @@ L'épistémologie est l'étude critique des sciences, de leur formation et de le
 Il existe deux grandes approches méthodologiques qui s'opposent souvent :
 
 ### L'Approche Historique (Inductive)
+
 Représentée par des économistes comme Pierre Cahuc.
-*   **Méthode** : Observation des faits historiques et empiriques pour en tirer des lois générales.
-*   **Critique des modèles** : Rejet des modèles mathématiques abstraits jugés trop éloignés de la réalité complexe.
+* **Méthode** : Observation des faits historiques et empiriques pour en tirer des lois générales.
+* **Critique des modèles** : Rejet des modèles mathématiques abstraits jugés trop éloignés de la réalité complexe.
 
 ### L'Approche Hypothético-Déductive (Marginaliste)
+
 Représentée par des économistes comme Dani Rodrik.
-*   **Méthode** : Construction de modèles théoriques simplifiés (mathématiques) pour isoler des mécanismes et faire des prédictions.
-*   **Défense des modèles** : Même imparfaits, les modèles sont des outils nécessaires pour comprendre des mécanismes spécifiques.
+* **Méthode** : Construction de modèles théoriques simplifiés (mathématiques) pour isoler des mécanismes et faire des prédictions.
+* **Défense des modèles** : Même imparfaits, les modèles sont des outils nécessaires pour comprendre des mécanismes spécifiques.
 
 > [!QUOTE] Dani Rodrik (2017)
 > « Chaque modèle est comparable à une pièce de puzzle qui révèle un fragment du tableau. Pris ensemble, les modèles des économistes sont notre meilleur guide cognitif pour parcourir par monts et par vaux l’expérience sociale. »
@@ -111,3 +115,4 @@ timeline
         : Gregory Mankiw
 ```
 
+-->
