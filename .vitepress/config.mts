@@ -73,14 +73,7 @@ const vitePressConfigs: UserConfig<any> = {
 };
 
 const sections = [
-  "maths",
-  "eco",
-  "info",
-  "bio",
-  "contribution",
-  "livres",
-  "craft",
-  "stats",
+  "eco"
 ];
 
 const sidebarOptions = sections.map((section) => ({
