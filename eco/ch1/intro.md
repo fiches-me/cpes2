@@ -31,6 +31,26 @@ L'**entrepreneur** est le créateur de l'entreprise. Au début de la révolution
 L'entreprise familiale ne fonctionne plus à partir de la métalurgie : il n'y a plus assez de capital pour investir. On développe alors le cadre légal. Selon say, L'Entrepreneur devient donc l'assembleur des facteurs de production. Il ne possède plus vraiment le capital, il organise. Avec le besoin de lever des fonds, des formes juridiques d'entreprises sont créés.
 
 - Les **SNC** (Sociétés en nom collectifs) : des entrepreneurs capitalistes s'associent pour avoir plus de capital (unir des famille autrement que par le mariage)
-- Les **SC** (Société en Commandité) : équialent des SNC mais possède une *identité juridique*. *Introduction des liquidations judiciaires.*
+- Les **SC** (Société en Commandité) : équivalent des SNC mais possède une *identité juridique*. *Introduction des liquidations judiciaires.*
 - Les **SA** (Société Anonyme) : équivalent des SNC mais des personnes étrangères à l'entreprise peuvent investir dedans. *On peut alors découper le capital en actions.*
-- Les **SARL** (Société Anonyme à responsabilité limitée)
+- Les **SARL** (Société Anonyme à responsabilité limitée) : certain investisseurs sont à l’intérieur de l'entreprise. *Entre-deux entre SA et SNC.* Arrive en France en 1925.
+
+L'entrepreneur n'est donc plus la source de l'investissement. *Quel est alors son rôle ?*
+
+## L'entrepreneur innovateur
+
+L'entrepreneur innovateur est un concept créé par Joseph Schumpter en 1911. C'est un idéal type. C'est quelqu'un qui a le gout, qui vie pour l’innovation. *L'entrepreneur Schumpeterien est un élément perturbateur*
+
+**L'innovation, c'est une application commerciale d'une invention.** Elle alimente le progrès technique.
+
+Également, il y a de l'innovation **par grappes**. L'innovation entraîne de l'innovation. 
+
+Très différent de l'entrepreneur néoclassique/capitalise. Plusieurs catégories : certains sont riches (capitalistes), d'autres inventifs (innovateur).
+
+*Ces deux analyses sont focalisés sur l'individu.*
+
+## L'existence de la firme chez les néoclassiques
+
+Le passage de la fonction de production au produit lui même est abstrait. C'est *une black box*. Avec les théories des producteurs, on ne regarde pas ce qui se passe dans les entreprises. Ronald Coase, un américain, en 1937, se demande **pourquoi les entreprises existent**. Dans son article "The Nature of Firm" (Economica), il critique sa propre théorie néoclassique et en particulier les hypothèses du modèle de CPP. L'information n'est pas transparente, le marché possède des barrière. Selon lui, les consommateur choisissent entre le marché et l'entreprise. Il choisirait l'entreprise par rapport au marché car l'hypothèse de transparence n'est jamais vérifié. Il faut faire des recherches, or le temps c'est de l'argent. **Utiliser le marcher demande du temps.** Si il y a trop de coûts de transactions, les consommateurs préfèrent les entreprises. C'est ce qui explique également la limitation de la taille des entreprises : au bout d'un moment, les coûts d'organisation sont trop élevés pour être compétitifs avec les coûts de transactions
+
+### Comment la gouvernance des entreprises a évolué au fil des transformations économiques et financières depuis XIXème siècle ?
