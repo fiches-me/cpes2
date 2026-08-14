@@ -55,10 +55,10 @@ const vitePressConfigs: UserConfig<any> = {
     ],
   },
   sitemap: {
-    hostname: "https://cpes2.fiches.me",
+    hostname: "https://cpes2.fiches.funa.dev",
   },
   transformPageData(ctx) {
-    const canonicalUrl = `https://cpes2.fiches.me/${ctx.relativePath.replace(/\.(md|html)$/, "").replace(/\index$/, "")}`;
+    const canonicalUrl = `https://cpes2.fiches.funa.dev/${ctx.relativePath.replace(/\.(md|html)$/, "").replace(/\index$/, "")}`;
     ctx.frontmatter.head = ctx.frontmatter.head || [];
     ctx.frontmatter.head.push([
       "link",
