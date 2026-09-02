@@ -23,3 +23,27 @@ On va chercher les natures des séries que nous utiliseons, car une certaine nat
 Si la limite existe **et uniquement si elle existe**, on peut alors écrire $\sum_{k_0}^{+\infty} u_k$. On calculera donc les sommes partielles avant les limites complète pour s'assurer de ne pas écrire de contre sens.
 
 ### Propriétés
+
+Il existe plusieurs propriétés "de base" sur les séries :
+
+- On ne change pas la nature d'une série (convergente ou divergente) en suprimmant un nombre fini de termes. $\sum_{n \gt n_1>n_0} \sim \sum_{n \gt n_0}$ 
+- Si une série de terme général $u_n$ converge, alors $\lim_{x\to\infty} u_n = 0$ (mais pas de réciproques).
+- *La contraposée est aussi valable,* si la limite ne vaux pas 0 alors la suite est divergente (mais pas de réciproques).
+- Les séries sont linéaires à condition d'êtres réelles (donc convergentes). De plus, si la série $\sum v_n = \sum \lambda u_n$, alors $\sum v_n = \lambda \sum u_n$ et la série de $v_n$ a la même nature que celle de $u_n$.
+
+### Séries à termes positifs
+
+De plus, pour des séries strictement croissante (et inversement avec décroissant) :
+
+- Si une série possède un majorant, alors elle est convergente
+     -> on cherche alors un majorant de $u_n$ puis on le somme 
+- On également peut comparer les séries et les sommes de séries
+- Si $u_n \sim v_n$ alors leurs série sont de même nature.
+
+### Séries Alternés
+
+Il existe d'autres propriétés plus "niches"
+
+- Si $u_n$ est une suite réelle décroissante convergant vers 0, alors la série $\sum (-1)^n u_n$ est convergente.
+
+## Méthode
