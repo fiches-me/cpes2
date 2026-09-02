@@ -47,3 +47,5 @@ Il existe d'autres propriétés plus "niches"
 - Si $u_n$ est une suite réelle décroissante convergant vers 0, alors la série $\sum (-1)^n u_n$ est convergente.
 
 ## Méthode
+
+< en cours de rédaction >
