@@ -1,5 +1,8 @@
 ---
 title: Informatique - Rappels
+tags:
+  - revisions
+  - définitions
 ---
 
 # Informatique - Rappels
@@ -66,6 +69,7 @@ from pile import Pile
 
 class File:
   def __init__(self):
+    """Constructeur de la classe"""
     self.entree = Pile()
     self.sortie = Pile()
     

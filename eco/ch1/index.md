@@ -1,3 +1,3 @@
 ---
-title: Firmes, gouvernances et et organisation
+title: 🏢 Firmes, gouvernances et et organisation
 ---

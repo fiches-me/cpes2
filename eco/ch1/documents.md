@@ -14,5 +14,4 @@ order: 10
 3. **What is innovation and who is at the origin of this phenomenon?**
    L'entrepreneur est la cause.
 4. **What is the influence of an innovation on the previous equilibrium? (You can make your own research to answer this question).**
-   
 5. **How does Schumpeter defines the “entrepreneur”, and how is the concept different than the “capitalist” one?**

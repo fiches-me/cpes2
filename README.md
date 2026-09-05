@@ -1,4 +1,4 @@
-<h1><center>CPES's 2 <a href="https://cpes.fiches.me">fiche</a> repo</center></h1>
+<h1><center>CPES's 2 <a href="https://cpes2.fiches.funa.dev">fiche</a> repo</center></h1>
 <center>
 📚 CPES open-source revision sheets. Both FR & EN (as our school 😎)
 </center>
