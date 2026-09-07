@@ -71,6 +71,7 @@ const sections = [
   "eco",
   "info",
   "maths",
+  "poo",
 ];
 
 const sidebarOptions = sections.map((section) => ({
