@@ -167,5 +167,29 @@ def trie_insertion_file(tab : list[Pile]):
       
 ```
 
+### Trie Fusion (Listes)
+
+```python
+def decoupe(lst):
+    milieu = len(lst) // 2
+    return lst[:milieu], lst[milieu:]
+
+def fusion(lst1, lst2):
+    if not lst1:
+        return lst2
+    if not lst2:
+        return lst1
+    if lst1[0] > lst2[0]:
+        return [lst2[0]] + fusion(lst1, lst2[1:])
+    else:
+        return [lst1[0]] + fusion(lst1[1:], lst2)
+
+def tf(lst):
+    if len(lst) <= 1:
+        return lst
+    l1, l2 = decoupe(lst)
+    return fusion(tf(l1), tf(l2))
+```
+
 > [!INFO] Information
 > Il est aussi possible d'utiliser des files sur le trie par sélection ou des piles sur le trie par insertion. Ce ne sont que des exemples. 

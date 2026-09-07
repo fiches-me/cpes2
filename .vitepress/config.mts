@@ -11,7 +11,7 @@ import mathjax3 from "markdown-it-mathjax3";
 // https://vitepress.dev/reference/site-config
 const vitePressConfigs: UserConfig<any> = {
   title: "📑 FICHES.ME CPES2",
-  description: "La deuxième édition de guigui qui sauve ton année de CPES.",
+  description: "La deuxième édition de Guigui qui sauve ton année de CPES.",
   cleanUrls: true,
   lastUpdated: true,
   ignoreDeadLinks: true,
@@ -46,8 +46,8 @@ const vitePressConfigs: UserConfig<any> = {
       { text: "💖 Nous Aider", link: "/contribution" },
     ],
     footer: {
-      message: "Released under the GPL-3.0 License.",
-      copyright: "Copyright © 2019-2026 FUNASITIEN",
+      message: "Publié sous licence GPL-3.0.",
+      copyright: "Copyright © 2019-2026 FUNASITIEN, Guilhem C.",
     },
     socialLinks: [
       { icon: "github", link: "https://github.com/fiches-me/cpes2" },

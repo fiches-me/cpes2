@@ -2,21 +2,24 @@
 title: 🏠 Accueil
 layout: home
 hero:
-  name: FICHES.ME
-  text: Take you revision to the next level 🚀
+  name: FICHES.ME V2
+  text: La deuxième édition de Guigui qui sauve ton année de CPES 🚀
   image:
     src: /logo.png
     alt: Fiche's Logo
   actions:
     - theme: brand
+      text: 🔢 Maths
+      link: /maths/
+    - theme: brand
       text: 🖥️ Info
       link: /info/
     - theme: alt
+      text: 🖥️ POO
+      link: /poo/
+    - theme: alt
       text: 💸 Eco
       link: /eco/
-    - theme: alt
-      text: ✨ Contribute
-      link: /contribution/
 features:
   - title: Feature A
     details: This frontend is not definitive

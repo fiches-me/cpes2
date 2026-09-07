@@ -107,7 +107,7 @@
     },
     "move-footnotes-to-the-bottom": {
       "enabled": true,
-      "include-blank-line-between-footnotes": false
+      "include-blank-line-between-footnotes": true
     },
     "re-index-footnotes": {
       "enabled": true
