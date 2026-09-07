@@ -139,14 +139,14 @@ from pile import Pile
 
 def tri_selection_pile(tab : list[Pile]):
   for i in range( len(tab) - 1):
-    min = float("inf")
-    pi = None
+    min_pile  = None
+    min_index = float("inf")
     for j in range ( i, len(tab) - 1)
-      if tab[j].taille < min:
-        min = tab[j].taille
-        pi = tab[j]
-    le = tab[i]
-    tab[i] = pi
+      if tab[j].taille < min_pile.taille:
+        min_pile  = tab[j]
+        min_index = j
+    tab[min_index] = tab[i]
+    tab[i] = min_pile
   return tab
 ```
 
