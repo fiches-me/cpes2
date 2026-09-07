@@ -22,6 +22,11 @@ On va chercher les natures des séries que nous utiliseons, car une certaine nat
 
 Si la limite existe **et uniquement si elle existe**, on peut alors écrire $\sum_{k_0}^{+\infty} u_k$. On calculera donc les sommes partielles avant les limites complète pour s'assurer de ne pas écrire de contre sens.
 
+> [!important] 
+> Notre but va être de calculer cette limite pour en déduire le comportement de notre série. On va donc beaucoup étudier la suite en elle même, car si la suite stagne, la série va aussi !
+> 
+> Globalement, il faut que la suite **"stagne" vers 0** pour que la série stagne, car c'est une suite de sommes et non une suite classique :)
+
 ### Propriétés
 
 Il existe plusieurs propriétés "de base" sur les séries :
@@ -46,6 +51,53 @@ Il existe d'autres propriétés plus "niches"
 
 - Si $u_n$ est une suite réelle décroissante convergant vers 0, alors la série $\sum (-1)^n u_n$ est convergente.
 
+## Séries de références
+
+### Série **géométrique**
+
+> [!définition] 
+> Une série **géométrique** est une série de la forme $\sum q^n$
+
+Par définition, la série est **convergente** si $|q| < 1$ et dans ce cas $$\sum_{n=p}^{+\infty} q^n = \frac{q^p}{1 -q}$$
+
+### Série *géométrique dérivée première*
+
+> [!définition] 
+> Une série **géométrique dérivée première** est une série de la forme $\sum nq^{n-1}$ pour $n \ge 1$.
+
+Par définition, la série est **convergente** si $|q| < 1$ et dans ce cas $$\sum_{\color{red}n = 1}^{+\infty} nq^{n - 1} = \frac{\color{red}1}{(1 -q)^{\color{red}2}}$$
+
+### Série *géométrique dérivée deuxième*
+
+> [!définition] 
+> Une série **géométrique dérivée première** est une série de la forme $\sum n(n-1)q^{n-2}$ pour $n \ge 2$.
+
+Par définition, la série est **convergente** si $|q| < 1$ et dans ce cas $$\sum_{\color{cyan}n =2}^{+\infty} n(n-1)q^{n -2} = \frac{\color{cyan}2}{(1 -q)^{\color{cyan}3}}$$
+
+### Série **de Reimann**
+
+> [!définition] 
+> Une série **de Reimann** est une série de la forme $\sum \frac 1{n^\alpha}$
+
+Par définition, la série est **convergente** si $\alpha < 1$. *Il n'y a pas de formule générale pour calculer la somme de la série.*
+
+### Série **exponetielle**
+
+> [!définition] 
+> Une série **exponetielle** est une série de la forme $\sum \frac{x^n}{n!}$
+
+Par définition, la série est **toujours convergente** et on a : $$\sum_{n=0}^{+ \infty}\frac{x^n}{n!} = e^x$$
+
 ## Méthode
 
-< en cours de rédaction >
+Notre but est *presque toujours* de calculer la somme des séries et donc de définir leur nature.
+
+**Inversion des fractions avec les séries ?**
+
+
+## Séries absolument convergentes
+
+> [!définition]
+> Une série est **absolument convergente** si $\sum |u_n|$ est convergente.
+> 
+

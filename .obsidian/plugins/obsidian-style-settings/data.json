@@ -4,5 +4,7 @@
   "primary-theme@@interface_editor-bg": "editor-bgpattern-linegrid",
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-peach",
-  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-peach"
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-peach",
+  "primary-theme@@bold-color@@light": "#FF954F",
+  "primary-theme@@bold-color@@dark": "#FF954F"
 }
