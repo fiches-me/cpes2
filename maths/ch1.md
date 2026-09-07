@@ -94,10 +94,7 @@ Notre but est *presque toujours* de calculer la somme des séries et donc de dé
 
 **Inversion des fractions avec les séries ?**
 
-
 ## Séries absolument convergentes
 
 > [!définition]
 > Une série est **absolument convergente** si $\sum |u_n|$ est convergente.
-> 
-
