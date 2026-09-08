@@ -3,7 +3,7 @@ title: 🏠 Accueil
 layout: home
 hero:
   name: FICHES.ME V2
-  text: La deuxième édition de Guigui qui sauve ton année de CPES 🚀
+  text: La deuxième édition de Guigui qui sauve ton année de CPES
   image:
     src: /logo.png
     alt: Fiche's Logo

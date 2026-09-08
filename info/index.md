@@ -184,11 +184,11 @@ def fusion(lst1, lst2):
     else:
         return [lst1[0]] + fusion(lst1[1:], lst2)
 
-def tf(lst):
+def decoupe_fusion(lst):
     if len(lst) <= 1:
         return lst
     l1, l2 = decoupe(lst)
-    return fusion(tf(l1), tf(l2))
+    return fusion(decoupe_fusion(l1), decoupe_fusion(l2))
 ```
 
 > [!INFO] Information

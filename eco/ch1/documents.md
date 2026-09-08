@@ -1,5 +1,5 @@
 ---
-title: Documents
+title: 📰 Documents
 order: 10
 ---
 
