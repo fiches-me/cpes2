@@ -1,0 +1,219 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": false,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "useSearchKeywords": "on",
+  "maxSearchResults": 100,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "maxBackups": 1,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "bio": {
+      "icon": "🍃"
+    },
+    "bio/A4": {
+      "icon": "🩸"
+    },
+    "bio/A4/ch1": {
+      "icon": "1️⃣"
+    },
+    "bio/A4/ch2": {
+      "icon": "2️⃣"
+    },
+    "contribution": {
+      "icon": "💖"
+    },
+    "eco": {
+      "icon": "💸"
+    },
+    "eco/ch1": {
+      "icon": "1️⃣"
+    },
+    "eco/ch2": {
+      "icon": "2️⃣"
+    },
+    "eco/ch3": {
+      "icon": "3️⃣"
+    },
+    "eco/ch4": {
+      "icon": "4️⃣"
+    },
+    "eco/ch5": {
+      "icon": "5️⃣"
+    },
+    "eco/ch6": {
+      "icon": "6️⃣"
+    },
+    "eco/td": {
+      "icon": "🛠️"
+    },
+    "info": {
+      "icon": "🖥️"
+    },
+    "maths": {
+      "icon": "🔢"
+    },
+    "misc": {
+      "icon": "🗑️"
+    },
+    "poo": {
+      "icon": "🗂️"
+    },
+    "public": {
+      "icon": "🌐"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "jcClp",
+      "name": "index",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "index"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-dot"
+    },
+    {
+      "id": "LHFjP",
+      "name": "base",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "base"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-database-search"
+    },
+    {
+      "id": "96rIv",
+      "name": "PDF",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "pdf"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-newspaper"
+    },
+    {
+      "id": "fkWsj",
+      "name": "Heading > 30",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-bookmark"
+    },
+    {
+      "id": "WB9EW",
+      "name": "Heading > 20",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-bookmark"
+    },
+    {
+      "id": "CfnjI",
+      "name": "Heading > 15",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "nOs46",
+      "name": "Heading >10",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "MvqEp",
+      "name": "Heading > 5",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "md"
+        },
+        {
+          "source": "headings",
+          "operator": "countIsMore",
+          "value": "5"
+        }
+      ],
+      "enabled": true,
+      "color": "yellow"
+    },
+    {
+      "id": "ooIQq",
+      "name": "Markdown",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "md"
+        }
+      ],
+      "enabled": true,
+      "color": "red"
+    }
+  ],
+  "folderRules": []
+}

@@ -18,7 +18,7 @@ hero:
       text: 🖥️ POO
       link: /poo/
     - theme: alt
-      text: 🍃 Bio
+      text: 🍃 Santé
       link: /bio/
     - theme: alt
       text: 💸 Eco
