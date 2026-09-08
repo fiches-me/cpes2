@@ -6,17 +6,20 @@ hero:
   text: La deuxième édition de Guigui qui sauve ton année de CPES
   image:
     src: /logo.png
-    alt: Fiche's Logo
+    alt: "Fiche's Logo"
   actions:
     - theme: brand
       text: 🔢 Maths
       link: /maths/
-    - theme: brand
+    - theme: alt
       text: 🖥️ Info
       link: /info/
-    - theme: alt
+    - theme: brand
       text: 🖥️ POO
       link: /poo/
+    - theme: alt
+      text: 🍃 Bio
+      link: /bio/
     - theme: alt
       text: 💸 Eco
       link: /eco/
