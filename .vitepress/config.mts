@@ -72,6 +72,9 @@ const sections = [
   "info",
   "maths",
   "poo",
+  "bio",
+  "misc",
+  "contribution",
 ];
 
 const sidebarOptions = sections.map((section) => ({
