@@ -23,7 +23,7 @@
   "maxBackups": 1,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
+    "emojiMode": true,
     "rulePage": "file"
   },
   "appIcons": {},
@@ -82,11 +82,21 @@
     },
     "public": {
       "icon": "🌐"
+    },
+    "sdd": {
+      "icon": "🔣"
     }
   },
   "bookmarkIcons": {},
   "tagIcons": {},
-  "propertyIcons": {},
+  "propertyIcons": {
+    "contact": {
+      "icon": "lucide-mail"
+    },
+    "title": {
+      "icon": "lucide-pen-tool"
+    }
+  },
   "ribbonIcons": {},
   "fileRules": [
     {
