@@ -1,9 +1,9 @@
 ---
-title: "ℹ️ SDD: Introduction"
+title: 🔣 Science des Données
 contact: edgar.jaber@polytechnique.edu
 ---
 
-# ℹ️ SDD: Introduction
+# 🔣 Science des Données : Introduction
 
 ## Variables discrètes (qualitatives)
 
@@ -20,3 +20,15 @@ Quelques notations :
 - $k$ le nombre de modalités
 
 Ici, les variables indicatrices $\mathbb{1}$ seront notés $u_{\color{red}i\color{blue}a}$. Elle renverra $1$ si $x_{\color{red}i} = \color{blue}a$, $0$ sinon.
+
+On associe à la modalité $a$  de la variable $x$ le vecteur $u_a$ de dimension $n$ :
+$$u_a = [ u_{1a}, u_{2a}, u_{3a}, \dots, u_{na}]$$
+
+L'effectif $n_a$ de la modalitée $a$ est $$n_a = |\{i : x_i = a \}| = \sum_{i=1}^n u_{ia}$$
+
+Nous allons essayer de prouver la proposition $\sum_{a = 1}^k u_{ia} = n$:
+
+$$\sum_{a = 1}^k u_{ia} = \sum_{a = 1}^k \sum_{i=1}^n u_{ia} = \sum_{i=1}^n\sum_{a = 1}^k u_{ia} = \sum_{i=1}^n1 = n$$
+
+> [!tip] Idée ¶
+> $\sum_{a = 1}^k u_{ia}$ vaut $1$ car $u_{ia}$ ne peux avoir qu'une classe en même temps.
