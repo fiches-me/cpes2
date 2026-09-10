@@ -1,0 +1,4 @@
+---
+title: ℹ️ Tableaux
+order:
+---

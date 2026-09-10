@@ -1,5 +1,5 @@
 ---
-title: Programation Orientée Objet (Java)
+title: 🗂️ Programation Orientée Objet (Java)
 ---
 
 # Introduction
@@ -72,7 +72,7 @@ boolean test = True
 char c = "c"
 
 // Types composés
-// ⚠️ En java, les string sont des types composés de plusieurs char.
+// ⚠️ En java, les "String" sont des types composés de plusieurs "char".
 String text = "Bonjour"
 
 ```
@@ -107,7 +107,7 @@ Les types ne doivent être ajoutés devant les variables que lors de leur premi�
 > [!ATTENTION]
 > On ne confond pas `=` et `==` comme en python
 
-### Types composés
+On verra les tableaux dans [la prochaine fiche](tableaux.md).
 
 ## Structures de contrôle
 

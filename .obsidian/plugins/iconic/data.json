@@ -23,7 +23,7 @@
   "maxBackups": 1,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
+    "emojiMode": true,
     "rulePage": "file"
   },
   "appIcons": {},
@@ -68,6 +68,12 @@
     "eco/td": {
       "icon": "🛠️"
     },
+    "ens": {
+      "icon": "📊"
+    },
+    "ens/stats": {
+      "icon": "📈"
+    },
     "info": {
       "icon": "🖥️"
     },
@@ -86,7 +92,11 @@
   },
   "bookmarkIcons": {},
   "tagIcons": {},
-  "propertyIcons": {},
+  "propertyIcons": {
+    "title": {
+      "icon": "lucide-pen-tool"
+    }
+  },
   "ribbonIcons": {},
   "fileRules": [
     {

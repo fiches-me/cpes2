@@ -24,11 +24,11 @@ hero:
       text: 💸 Eco
       link: /eco/
 features:
-  - title: Feature A
-    details: This frontend is not definitive
+  - title: 📱 Responsive
+    details: Bien visible sur téléphone
   - title: Feature B
     details: We are still building this website
-  - title: Feature C
+  - title: 🤔 Au Programme ?
     details: Thanks for your patience.
 ---
 
