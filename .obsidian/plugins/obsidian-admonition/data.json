@@ -2,14 +2,15 @@
   "userAdmonitions": {
     "définition": {
       "type": "définition",
-      "color": "rgb(254, 139, 32)",
+      "color": "rgb(254, 129, 11)",
       "icon": {
         "name": "book",
         "type": "fas"
       },
       "command": false,
       "title": "Définition",
-      "injectColor": true,
+      "iconWithCss": false,
+      "injectColor": false,
       "noTitle": false,
       "copy": false
     }

@@ -26,10 +26,10 @@ order: 10
       5. Parfaite mobilité des inputs
 2. **What are the two possibilities of agents when they want to make any kind of economical exchange?** 
 3. **What assumption of the “perfect competition” model is discussed by Ronal Coase here?** 
-4. **What is the response of agents regarding the absence of the effectiveness of this assumption?** *→ Create a firm?*
-5. **What are the different costs that Coase is discussing?** The cost of using the price mechanism, organising production, the costs of negotiating and concluding a separate contract
-6. **What is the “force” determining the size of the firm?** Relations
-7. **What is eventually the nature of the firm?** Relations
+4. **What is the response of agents regarding the absence of the effectiveness of this assumption?** Looking for information → Justification to create a firm
+5. **What are the different costs that Coase is discussing?** The cost of using the price mechanism, organising production, the costs of negotiating and concluding a separate contract **→ *Transaction Costs***
+6. **What is the “force” determining the size of the firm?** The size make it complexe to organize & to manage. If too big not *rentable*
+7. **What is eventually the nature of the firm?** 
 
 ## Document 3
 

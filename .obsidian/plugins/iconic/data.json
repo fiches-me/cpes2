@@ -143,53 +143,61 @@
     },
     {
       "id": "fkWsj",
-      "name": "Heading > 30",
+      "name": "Heading > 25",
       "match": "all",
       "conditions": [
         {
-          "source": "name",
-          "operator": "contains"
+          "source": "headings",
+          "operator": "countIsMore",
+          "value": "25"
         }
       ],
       "enabled": true,
-      "icon": "lucide-bookmark"
+      "icon": "lucide-bookmark",
+      "color": "yellow"
     },
     {
       "id": "WB9EW",
-      "name": "Heading > 20",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "name",
-          "operator": "contains"
-        }
-      ],
-      "enabled": true,
-      "icon": "lucide-bookmark"
-    },
-    {
-      "id": "CfnjI",
       "name": "Heading > 15",
       "match": "all",
       "conditions": [
         {
-          "source": "name",
-          "operator": "contains"
+          "source": "headings",
+          "operator": "countIsMore",
+          "value": "15"
         }
       ],
-      "enabled": true
+      "enabled": true,
+      "icon": "lucide-bookmark",
+      "color": "green"
     },
     {
-      "id": "nOs46",
-      "name": "Heading >10",
+      "id": "CfnjI",
+      "name": "Heading > 12",
       "match": "all",
       "conditions": [
         {
-          "source": "name",
-          "operator": "contains"
+          "source": "headings",
+          "operator": "countIsMore",
+          "value": "12"
         }
       ],
-      "enabled": true
+      "enabled": true,
+      "color": "purple"
+    },
+    {
+      "id": "nOs46",
+      "name": "Heading >8",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "headings",
+          "operator": "countIsMore",
+          "value": "8"
+        }
+      ],
+      "enabled": true,
+      "color": "blue"
     },
     {
       "id": "MvqEp",
