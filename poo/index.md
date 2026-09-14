@@ -1,5 +1,6 @@
 ---
 title: 🗂️ Programation Orientée Objet (Java)
+order: 1
 ---
 
 # Introduction
@@ -14,12 +15,12 @@ Commencons le java !
 
 ```java
 public class hello {
-  // On verra ce que signifie "public" et "static" après
-  // "void" signifie que la fonction ne renvoie rien.
-  public static void main(String[] args) {
-    // Une instruction...
-    ...
-  }
+	// On verra ce que signifie "public" et "static" après
+	// "void" signifie que la fonction ne renvoie rien.
+	public static void main(String[] args) {
+		// Une instruction...
+		...
+	}
 }
 ```
 
@@ -44,7 +45,11 @@ Quelques différences :
 
 Pour executer ce code, il faut **d'abord et obligatoirement le compiler**. On utilise la commande `javac <nom du fichier>.java`. On obtient alors un fichier `hello.class` que l'on peut executer avec `java hello.class`. 
 
-> [!tip] Pour aller plus loin...
+> [!TIP] Les versions de java modernes compile automatiquement puis executent avec la commande `java Fichier.java` 
+
+Cette commande de compilation fonctionne pour le moment pour *uniquement* un fichier. < page de cours inexistante >
+
+> [!info] Pour aller plus loin...
 > Si on crée un code avec plusieurs fichiers java, on pourra compiler l'ensemble des fichiers java dans un grand fichier `.jar` executable avec `java -jar server.jar`.
 
 ## Variables & types
@@ -117,17 +122,17 @@ On peut bien entendu faire des tests booléens, avec des if, elif, else :::: cod
 
 ```java
 if (bool && True || False) {
-  //
+	//
 } else {
-  // le else est facultatif. MAIS les crochets {} soient fermés
+	// le else est facultatif. MAIS les crochets {} soient fermés
 }
 ```
 
 ```python
 if bool and True or False:
-  # ...
+	# ...
 else:
-  # ...
+	# ...
 ```
 
 :::
@@ -144,18 +149,18 @@ int n = 10
 String[] listDeClasse = new String["Guilhem", "Marcel"]
 
 while (x < n) {
-  x = 2 * x;
+	x = 2 * x;
 }
 
 // Les boucles for sans tableaux sont assez moches
 // i ++ indique que i est incrémenté à chaque tour.
 for (int i = 0; i < n; i ++) {
-  System.out.println(i)
+	System.out.println(i)
 }
 
 // Ou plus simple, avec un tableau
 for (String nom : listDeClasse) {
-  System.out.println(nom)
+	System.out.println(nom)
 }
 ```
 
@@ -165,15 +170,11 @@ n = 10
 listDeClasse = ["Guilhem", "Marcel"]
 
 while x < n:
-  x = 2 * x
+	x = 2 * x
   
 for i in range(0, n):
-  print(i)
+	print(i)
   
 for nom in listDeClasse:
-  print(nom)
+	print(nom)
 ```
-
-## Fonctions
-
-En java, définir une fonction est plus strict : il faut définir l'ensemble de ses arguments, le type de ce qu'elle retourne (**et elle ne pourra retourner rien d'autre !**)
