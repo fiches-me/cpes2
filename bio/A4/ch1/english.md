@@ -21,7 +21,7 @@ The most common blood type is **A+** in northen europe and **O+** in UK & United
 
 We can clearely see a gap between sourthen countries & european / developed countries : over a 500% increase for Germany, Greece & Sweden copared to Arbia, Qatar, UAE...
 
-![](Pasted%20image%2020260908102949.png)
+![](blood-donation-repartition.png)
 
 Poore countires have different donated blood usage than in Europe : while developed countires gives their blood to older peoples, poorer countires give it to childs under 5.
 
@@ -43,4 +43,4 @@ Poore countires have different donated blood usage than in Europe : while develo
 
 7. Conclude wether the blood donation is a sufficient solution for the blood need worldwide? **NOPE**
 
-![](Pasted%20image%2020260908111849.png)
+![](blood-challenges.png)
