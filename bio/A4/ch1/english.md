@@ -44,3 +44,21 @@ Poore countires have different donated blood usage than in Europe : while develo
 7. Conclude wether the blood donation is a sufficient solution for the blood need worldwide? **NOPE**
 
 ![](blood-challenges.png)
+
+1. Explain the existence of the different blood types from a molecular point of view. 
+
+2. What is hemagglutination and how does it occur ? 
+
+3. Interpret the results of the blood typing presented in the table. 
+
+4. Explain the necessity of blood typing before a transfusion. 
+
+5. Explain the termes "universal donor" and "universal receiver". 
+
+6. Compare the genetic sequences of the different blood type determining alleles. 
+
+7. Study the composition and the biosynthesis of the different blood antigens.
+
+8. Explain the existence of different blood types from genetic point of view. 
+
+9. Answer the overall question. 

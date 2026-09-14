@@ -95,8 +95,9 @@ body {
 }
 
 strong { color: var(--vp-c-brand-1); }
-em { color: var(--vp-c-brand-2); }
+em { color: var(--color-l-blue-30); }
 strong em, em strong { color: var(--vp-c-text-1); }
+.dark em { color: #59b6d8; }
 
 .vp-doc a {
   color: var(--color-l-green-30);

@@ -54,9 +54,9 @@ body { overflow-x: hidden; }
   background: var(--vp-c-bg-alt);
 }
 .VPDoc {
-  max-width: 960px;
-  margin: 24px auto 48px;
-  padding: 44px 58px 72px;
+  max-width: 1120px;
+  margin: 20px auto 40px;
+  padding: 34px 42px 56px;
   border: 1px solid var(--vp-c-divider);
   border-radius: var(--editor-radius);
   background: var(--vp-c-bg);
@@ -87,7 +87,7 @@ body { overflow-x: hidden; }
 @media (max-width: 768px) {
   .VPDoc {
     margin: 0;
-    padding: 28px 22px 56px;
+    padding: 28px 22px 48px;
     border: 0;
     border-radius: 0;
   }
