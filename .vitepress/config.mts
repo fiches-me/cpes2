@@ -6,6 +6,7 @@ import { withSidebar } from "vitepress-sidebar";
 const vitePressConfigs: UserConfig<any> = {
   title: "📑 FICHES.ME CPES2",
   description: "La deuxième édition de Guigui qui sauve ton année de CPES.",
+  base: '/cpes2/',
   extends: primaryThemeConfig,
   cleanUrls: true,
   lastUpdated: true,
@@ -29,7 +30,7 @@ const vitePressConfigs: UserConfig<any> = {
       pattern: "https://github.com/fiches-me/cpes2/edit/main/:path",
     },
     nav: [
-      { text: "💸 Eco", link: "/eco" },
+      { text: "💸 Eco", link: "./eco" },
       { text: "💖 Nous Aider", link: "/contribution" },
     ],
     footer: {
@@ -42,10 +43,10 @@ const vitePressConfigs: UserConfig<any> = {
     ],
   },
   sitemap: {
-    hostname: "https://cpes2.fiches.funa.dev",
+    hostname: "https://fiches.funa.dev/cpes2",
   },
   transformPageData(ctx) {
-    const canonicalUrl = `https://cpes2.fiches.funa.dev/${ctx.relativePath.replace(/\.(md|html)$/, "").replace(/\index$/, "")}`;
+    const canonicalUrl = `https://fiches.funa.dev/cpes2/${ctx.relativePath.replace(/\.(md|html)$/, "").replace(/\index$/, "")}`;
     ctx.frontmatter.head = ctx.frontmatter.head || [];
     ctx.frontmatter.head.push([
       "link",

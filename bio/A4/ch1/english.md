@@ -23,6 +23,8 @@ We can clearely see a gap between sourthen countries & european / developed coun
 
 ![](blood-donation-repartition.png)
 
+**WE COULD GIVE CELLS OR PLASMA INDIVUDUALLY INSTEAD OF FULL BLOOD**
+
 Poore countires have different donated blood usage than in Europe : while developed countires gives their blood to older peoples, poorer countires give it to childs under 5.
 
 54 countries collect more than 50% of their blood supply from family/replacement or paid donors.
