@@ -22,7 +22,7 @@ const vitePressConfigs: UserConfig<any> = {
   },
   titleTemplate: ":title - FICHES V2",
   lang: "fr-FR",
-  head: [["link", { rel: "icon", type: "image/png", href: "/logo.png" }]],
+  head: [["link", { rel: "icon", type: "image/png", href: "/cpes2/logo.png" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/logo.png",
