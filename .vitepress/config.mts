@@ -65,7 +65,7 @@ const sections = [
   "poo",
   "bio",
   "misc",
-  "contribution",
+  "ens",
 ];
 
 const sidebarOptions = sections.map((section) => ({
