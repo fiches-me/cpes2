@@ -41,6 +41,9 @@ const vitePressConfigs: UserConfig<any> = {
       { icon: "github", link: "https://github.com/fiches-me/cpes2" },
       { icon: "discord", link: "https://dsc.gg/drmcld" },
     ],
+    search: {
+      provider: 'local'
+    }
   },
   sitemap: {
     hostname: "https://fiches.funa.dev/cpes2",
