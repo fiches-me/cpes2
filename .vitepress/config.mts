@@ -14,7 +14,7 @@ const vitePressConfigs: UserConfig<any> = {
   metaChunk: true,
   markdown: {
     lineNumbers: true,
-    math: true,
+    //math: true,
     languageAlias: {
       "pseudo-code": "python",
       conf: "yaml",
