@@ -3,7 +3,6 @@ title: 🗂️ C'était dans le TD
 order: 1
 ---
 
-
 # Introduction
 
 Au dela de découvrir un nouveau language, nous découvrons aujourd'hui également la **compilation**. Pour ce premier CM, je vais mettre les équivalents en python de chaque programme pour voir les différences de structures.
@@ -14,7 +13,7 @@ Commencons le java !
 
 ::: code-group
 
-```java
+```java [hello.java]
 public class hello {
 	// On verra ce que signifie "public" et "static" après
 	// "void" signifie que la fonction ne renvoie rien.
@@ -25,7 +24,7 @@ public class hello {
 }
 ```
 
-```python 
+```python [hello.py]
 # Une instruction
 ```
 
@@ -36,7 +35,7 @@ Quelques différences :
 - Les commentaires utilisent `//` à la place de `#`.
 - L'indentation **n'est pas obligatoire** mais utiliser des **crochets `{` et `}` sont obligatoires**
 - **Toutes les lignes sans crochets finissent par un ;**.
-- La fonction `main` **doit** exister pour le moment car elle est celle utilisée quand on execute le fichier  `.class` avec la commande `java`.
+- La fonction `main` **doit** exister pour le moment car elle est celle utilisée quand on execute le fichier `.class` avec la commande `java`.
 - L'ensemble des arguments sont typés. **On ne peux pas définir d'arguments non typés**.
 
 > [!attention] 
@@ -50,7 +49,7 @@ Pour executer ce code, il faut **d'abord et obligatoirement le compiler**. On ut
 
 Cette commande de compilation fonctionne pour le moment pour *uniquement* un fichier. < page de cours inexistante >
 
-> [!info] Pour aller plus loin...
+> [!info] Pour aller plus loin…
 > Si on crée un code avec plusieurs fichiers java, on pourra compiler l'ensemble des fichiers java dans un grand fichier `.jar` executable avec `java -jar server.jar`.
 
 ## Variables & types

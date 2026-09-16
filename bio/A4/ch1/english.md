@@ -19,7 +19,7 @@ As blood carries oxygen & carbon dioxide, it's a **vital tissue for the human bo
 
 The most common blood type is **A+** in northen europe and **O+** in UK & United States
 
-We can clearely see a gap between sourthen countries & european / developed countries : over a 500% increase for Germany, Greece & Sweden copared to Arbia, Qatar, UAE...
+We can clearely see a gap between sourthen countries & european / developed countries : over a 500% increase for Germany, Greece & Sweden copared to Arbia, Qatar, UAE…
 
 ![](blood-donation-repartition.png)
 

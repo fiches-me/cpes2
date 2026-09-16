@@ -7,7 +7,7 @@ order: 1
 
 Si besoin je peux faire des textes explicatifs, envoyez moi un message sur le code qui vous pose problème :)
 
-## Degrees 
+## Degrees
 
 ```java
 import java.util.Locale;
@@ -165,7 +165,7 @@ public class Pyramide{
 
 ```
 
-## Fonctions 
+## Fonctions
 
 ```java
 public class Fonctions {

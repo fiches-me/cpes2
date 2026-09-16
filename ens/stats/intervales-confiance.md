@@ -35,7 +35,9 @@ Ces intervalles de confiances se construisent pour des v.a.i.i.d qui suivent **u
 > Soit $(\mathcal{X}_i)_{1 \ge i \ge n}$ des v.a.i.i.d selon $\mathcal{N} (\mu, \sigma^2)$ avec $(\mu, \sigma) \in \mathbb{R} \times \mathbb{R}_*^+$.
 > Soit $\alpha \in ]0 ; 1[$. Un **intervalle de confiance pour $\mu$ de niveau $1 - \alpha$** est défini par :
 >
-> $$I_n = [\bar{\mathcal{X}_n} - q_{1 - \frac\alpha2} \frac{\sigma}{\sqrt n}; \bar{\mathcal{X}_n} +  q_{1 - \frac\alpha2} \frac{\sigma}{\sqrt n}$$
+>
+
+$$I_n = [\bar{\mathcal{X}_n} - q_{1 - \frac\alpha2} \frac{\sigma}{\sqrt n}; \bar{\mathcal{X}_n} +  q_{1 - \frac\alpha2} \frac{\sigma}{\sqrt n}$$
 
 ### 2. Variance Inconnue *ou* **x**
 

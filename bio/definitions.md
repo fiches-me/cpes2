@@ -25,7 +25,7 @@ Hors du corps humain
 
 ## Lipides
 
-...
+…
 
 ## Glucides
 
@@ -35,8 +35,8 @@ $C_6H_{12}O_6$
 
 ## Protéines
 
-...
+…
 
 ## Éléctrocyte
 
-...
+…
