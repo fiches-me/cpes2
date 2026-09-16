@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       primary-vitepress:
-        specifier: ^1.1.2
-        version: 1.1.2(markdown-it@14.3.2)(vue@3.5.42)
+        specifier: ^1.1.3
+        version: 1.1.3(markdown-it@14.3.2)(vue@3.5.42)
     devDependencies:
       '@mdit/plugin-footnote':
         specifier: ^0.22.4
@@ -1193,8 +1193,8 @@ packages:
     resolution: {integrity: sha512-RRuzqDtt5Y9h3quz5hWhK+TPnsmVs6WwSU6LkJMeY4HstUEDuYTG8UJSdawMRzmzAtV+KEoG8N3Qg2qLy5vM/A==}
     engines: {node: ^10 || ^12 || >=14}
 
-  primary-vitepress@1.1.2:
-    resolution: {integrity: sha512-TuHfTvYnm8GTzU1UG/GeJ7sAxPNJcMEpkfh4MQ7yD1SBACi/wqtxBOnPqk6lx+pCRC/4fKg4aFiFHnohl3UVSQ==}
+  primary-vitepress@1.1.3:
+    resolution: {integrity: sha512-1wBrzCobLofwvf4E9TxXLyF5+gfJJ/Gx3NDVB33hldQFgPzawk60pkmy87tUULS7bTFWBdQFPc+833xijrrWBw==}
     peerDependencies:
       vue: ^3.0.0
 
@@ -2578,7 +2578,7 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  primary-vitepress@1.1.2(markdown-it@14.3.2)(vue@3.5.42):
+  primary-vitepress@1.1.3(markdown-it@14.3.2)(vue@3.5.42):
     dependencies:
       '@mdit/plugin-footnote': 1.1.1(markdown-it@14.3.2)
       markdown-it-mathjax3: 5.2.0
