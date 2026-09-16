@@ -1,38 +1,22 @@
 import { defineConfig, UserConfig } from "vitepress";
 import { withSidebar } from "vitepress-sidebar";
-import { mermaidPlugin } from "./plugins/vitepress-mermaid/index";
-import { taskCheckboxPlugin } from "./plugins/markdown-it-task-checkbox.mts";
-import mdItTaskLists from "markdown-it-task-lists";
-import mdItObsidianCallouts from "markdown-it-obsidian-callouts";
-import markdownItObsidian from "markdown-it-obsidian";
+import { primaryThemeConfig } from "primary-vitepress/config";
 
 // https://vitepress.dev/reference/site-config
 const vitePressConfigs: UserConfig<any> = {
   title: "📑 FICHES.ME CPES2",
   description: "La deuxième édition de Guigui qui sauve ton année de CPES.",
+  extends: primaryThemeConfig,
   base: '/cpes2/',
   cleanUrls: true,
   lastUpdated: true,
   ignoreDeadLinks: true,
-  metaChunk: true,
   markdown: {
+    toc: { level: [1, 2] },
     lineNumbers: true,
-    //math: true,
-    config: (md) => {
-      md.use(mermaidPlugin);
-      md.use(taskCheckboxPlugin);
-      md.use(mdItObsidianCallouts);
-      md.use(markdownItObsidian, { enabled: true });
-      md.use(mdItTaskLists, { enabled: true });
-    },
     languageAlias: {
       "pseudo-code": "python",
       conf: "yaml",
-    },
-    vite: {
-      ssr: {
-        noExternal: ["mermaid"],
-      },
     },
   },
   titleTemplate: ":title - FICHES V2",
