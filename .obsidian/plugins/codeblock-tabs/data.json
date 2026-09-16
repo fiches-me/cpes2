@@ -3,7 +3,8 @@
     "dataview": false,
     "dataviewjs": false,
     "py": true,
-    "python": true
+    "python": true,
+    "java": true
   },
   "defaultTitle": "Code"
 }

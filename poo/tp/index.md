@@ -25,7 +25,7 @@ public class hello {
 }
 ```
 
-```python
+```python 
 # Une instruction
 ```
 
@@ -71,7 +71,7 @@ Voici une liste de types communs :
 ```java
 // Types "classiques"
 int integrer = 2
-float reel = 3.323
+float reel = 3.323 // [!code warning]
 // ! NOUVEAU ! On peut faire des réels avec deux chiffres après la virgule
 double doub = 3.40
 boolean test = True

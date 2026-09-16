@@ -1,16 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 /* Apply Plus Jakarta Sans to body and general text */
 body {
-    --h1-font: 'DM Serif Text', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
-    --h2-font: 'DM Serif Text', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
-    --h3-font: 'DM Serif Text', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
-    --h4-font: 'DM Serif Text', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
-    --h5-font: 'DM Serif Text', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
-    --h6-font: 'DM Serif Text', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
+    --h1-font: 'Playfair Display', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
+    --h2-font: 'Playfair Display', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
+    --h3-font: 'Playfair Display', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
+    --h4-font: 'Playfair Display', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
+    --h5-font: 'Playfair Display', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
+    --h6-font: 'Playfair Display', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
 }
 
 /* Apply Poppins to all headings */
 h1, h2, h3, h4, h5, h6, .title {
-    font-family: 'DM Serif Text', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
+    font-family: 'Playfair Display', 'Swift3D MFFM Emoji', 'Fluent Emoji Color', 'Inter', sans-serif;
 }
