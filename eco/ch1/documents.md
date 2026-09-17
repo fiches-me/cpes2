@@ -40,3 +40,17 @@ order: 10
 5. **What are the three states of capitalism described by Chandler?**
 6. **Why does this system initially developed in the US?**
 7. **Analyse the title of the book: what does it refer to? And what does it mean?**
+
+## Document 4
+
+1. Business sector (SNF), consumers, government. 
+2. Goods produced by the SNF and consumed by the consumers. 
+3. Indirect securities, Government bonds. 
+
+## Document 5
+
+1. D'après leur modèle, (John Hicks), si le taux d’intérêt augmenter, alors c'est un signe que l'économie fonctionne car il y a beaucoup de demande de financement. 
+2. Dans ce système, selon Hicks, les politiques monétaires sont peu efficaces. Cela va augmenter la masse monétaire (type politique expansionniste), cela a pour risque de ne pas le faire bouger voir le faire baisser puis de créer une inflation à long terme car trappe à liquidités. *Dans les politiques monétaires, ce qui est important, c'est la crédibilité de la banque centrale.*
+3. La crédibilité des banques
+4. L'inflation menace les deux systèmes, elle crée de l'instabilité (premier choc pétrolier).
+5. L'inflation crée de la pression qui crée une limite de temps.

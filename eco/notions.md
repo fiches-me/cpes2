@@ -57,7 +57,7 @@ Dans un monde néoclassique (pas de sur épargne), les agents économiques équi
 
 La fonction de consommation de Keynes est vivement critiqué car instable et imprévisible sur le long terme, mécanisme nécessaire 
 
-[[auteurs#James Duesenberry|James Duesenberry]] propose l'effet de cliquet pour expliquer les imperfections de la fonction : dans des phases de dépression, la baisse de la consommation est limitée.
+[[ch1/auteurs#James Duesenberry|James Duesenberry]] propose l'effet de cliquet pour expliquer les imperfections de la fonction : dans des phases de dépression, la baisse de la consommation est limitée.
 
 [[auteurs#Thomas Brown|Thomas Brown]] propose une version plus souple de la fonction qui prend en compte la consommation passée (psychologique) : $C_t = c \times \large{y}\normalsize_t + a \times C_{t - 1} + \bar{C}$
 
