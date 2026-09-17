@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       primary-vitepress:
-        specifier: ^1.1.6
-        version: 1.1.6(markdown-it@14.3.2)(vue@3.5.42)
+        specifier: ^1.1.7
+        version: 1.1.7(markdown-it@14.3.2)(vue@3.5.42)
     devDependencies:
       '@mdit/plugin-footnote':
         specifier: ^0.22.4
@@ -1113,8 +1113,8 @@ packages:
     resolution: {integrity: sha512-RRuzqDtt5Y9h3quz5hWhK+TPnsmVs6WwSU6LkJMeY4HstUEDuYTG8UJSdawMRzmzAtV+KEoG8N3Qg2qLy5vM/A==}
     engines: {node: ^10 || ^12 || >=14}
 
-  primary-vitepress@1.1.6:
-    resolution: {integrity: sha512-h8JxwGtRBprXzEeolVZ9bQfRZfiO7d9JzP0KZXk2i88phg4XH8XJUkWGK9xMmcyQvOX20IMrQqn4o6vMyWBCig==}
+  primary-vitepress@1.1.7:
+    resolution: {integrity: sha512-RKyJymH449VGzaIu8dMvZ/GdphW1Jj5dlgfl1FBxUsDMwKd/+3/wWQNyAPjaLZBiAti8/KtB8wXoq5jBv8tN4A==}
     peerDependencies:
       vue: ^3.0.0
 
@@ -2471,9 +2471,8 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  primary-vitepress@1.1.6(markdown-it@14.3.2)(vue@3.5.42):
+  primary-vitepress@1.1.7(markdown-it@14.3.2)(vue@3.5.42):
     dependencies:
-      markdown-it-obsidian: 1.1.0
       markdown-it-obsidian-callouts: 0.3.4(markdown-it@14.3.2)
       markdown-it-task-lists: 2.1.1
       mermaid: 12.0.0

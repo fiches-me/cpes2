@@ -57,17 +57,17 @@ Dans un monde néoclassique (pas de sur épargne), les agents économiques équi
 
 La fonction de consommation de Keynes est vivement critiqué car instable et imprévisible sur le long terme, mécanisme nécessaire 
 
-[James Duesenberry](auteurs.md#James%20Duesenberry) propose l'effet de cliquet pour expliquer les imperfections de la fonction : dans des phases de dépression, la baisse de la consommation est limitée.
+[[auteurs#James Duesenberry|James Duesenberry]] propose l'effet de cliquet pour expliquer les imperfections de la fonction : dans des phases de dépression, la baisse de la consommation est limitée.
 
-[Thomas Brown](auteurs.md#Thomas%20Brown) propose une version plus souple de la fonction qui prend en compte la consommation passée (psychologique) : $C_t = c \times \large{y}\normalsize_t + a \times C_{t - 1} + \bar{C}$
+[[auteurs#Thomas Brown|Thomas Brown]] propose une version plus souple de la fonction qui prend en compte la consommation passée (psychologique) : $C_t = c \times \large{y}\normalsize_t + a \times C_{t - 1} + \bar{C}$
 
 ### La théorie du cycle de vie
 
-Selon [Franco Modigliani](auteurs.md#Franco%20Modigliani), **l'épargne peut être indépendante du revenu courant**, selon des résultats en coupes instantanées. On épargne beaucoup parce que **l'avenir est incertain**.
+Selon [[auteurs#Franco%20Modigliani|Franco Modigliani]], **l'épargne peut être indépendante du revenu courant**, selon des résultats en coupes instantanées. On épargne beaucoup parce que **l'avenir est incertain**.
 
 ### Le revenu permanent
 
-Le revenu permanent est l'idée que les consommateurs utilisent un revenu fixé peu importe les fluctuations de leurs salaires (que l'on résume avec l'équation $\large{y}\normalsize = \large{y}\normalsize_P + \large{y}\normalsize_T$). Cette idée est développé par [Friedman](auteurs.md#Friedman) et [Muth](auteurs.md#Muth) proposera une version rationnelle en 1961.
+Le revenu permanent est l'idée que les consommateurs utilisent un revenu fixé peu importe les fluctuations de leurs salaires (que l'on résume avec l'équation $\large{y}\normalsize = \large{y}\normalsize_P + \large{y}\normalsize_T$). Cette idée est développé par [[auteurs#Friedman|Friedman]] et [[auteurs#Muth|Muth]] proposera une version rationnelle en 1961.
 
 ### Lois d’Engel
 
@@ -121,14 +121,14 @@ Prenons trois individus (A, B et C) et trois situations $S_1, S_2, S_3$.:
 - $B : S_2 \succ S_3 \succ S_1$
 - $C : S_3 \succ S_1 \succ S_2$
 
-*Paradoxe de l'action collective [K. Arrow](auteurs.md#K.%20Arrow)*
+*Paradoxe de l'action collective [[auteurs#K.%20Arrow|K. Arrow]]*
 
 **Il n'y a pas de solutions.** Il faut que quelqu'un normalise pour faire primer un individu. Il peut aussi arriver qu'il y a présence **d'externalités**, que les agents soient interdépendants (*officiellement définit par une influence sans échanges monétaires de l'un à l'autre*). 
 
 Plusieurs solutions sont proposés pour prévenir le développement de ces externalités :
-1. Taxe du pollueur-payeur ([Arthur Cecil Pigou](auteurs.md#Arthur%20Cecil%20Pigou))
-2. Droit à polluer ([Ronald Coase](auteurs.md#Ronald%20Coase))
-3. Quotas ([Gareth Hardin](auteurs.md#Gareth%20Hardin))
+1. Taxe du pollueur-payeur ([[auteurs#Arthur%20Cecil%20Pigou|Arthur Cecil Pigou]])
+2. Droit à polluer ([[auteurs#Ronald%20Coase|Ronald Coase]])
+3. Quotas ([[auteurs#Gareth%20Hardin|Gareth Hardin]])
 
 Une autre défaillance peut être observé si on délimitent les biens en fonction de leurs partages et de leurs raretés :
 
@@ -138,7 +138,7 @@ Une autre défaillance peut être observé si on délimitent les biens en foncti
 | Non Rival | **Biens de Club**<br>(netflix)                | **Collectifs**<br>(éclairage publique) |
 
 1. Les **biens collectifs** doivent être financés mais leur accès **est gratuit** (**passager clandestin**, Mancur Olson)
-2. Les **biens communs** sont sujets à la sur-exploitation. [Gareth Hardin](auteurs.md#Gareth%20Hardin) propose des **quotas** et [Elinor Ostrom](auteurs.md#Elinor%20Ostrom) propose une **gestion décentralisée du commun** (car les producteurs connaissent mieux que l'État).
+2. Les **biens communs** sont sujets à la sur-exploitation. [[auteurs#Gareth%20Hardin|Gareth Hardin]] propose des **quotas** et [[auteurs#Elinor%20Ostrom|Elinor Ostrom]] propose une **gestion décentralisée du commun** (car les producteurs connaissent mieux que l'État).
 
 ### La théorie des jeux
 
@@ -150,7 +150,7 @@ Certaines stratégies sont dominantes (meilleurs peu importe les choix des autre
 
 ### Monopoles et duopoles
 
-Que ce passe t-il si les agents (producteurs) deviennent price makers ? Le producteur connait sa [fonction de production](../ch6/g2.md#Les%20fonctions%20de%20production) et les prix des inputs qu'il utilise sont données. **En revanche, il choisit le prix de son output.** *Il a donc plus de connaissances que le commissionaire priseur !* Souvent, les **recette marginale sont le coût marginal**.
+Que ce passe t-il si les agents (producteurs) deviennent price makers ? Le producteur connait sa [[g2#Les%20fonctions%20de%20production|fonction de production]] et les prix des inputs qu'il utilise sont données. **En revanche, il choisit le prix de son output.** *Il a donc plus de connaissances que le commissionaire priseur !* Souvent, les **recette marginale sont le coût marginal**.
 
 ## Chapitre 8 — Système financier
 

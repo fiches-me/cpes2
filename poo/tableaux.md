@@ -5,7 +5,7 @@ order: 2
 
 # 🍱 Tableaux & Dictionnaires
 
-Avant de continuer, vérifiez que vous contrôlez la syntaxe. [→ Voir le cours d'introduction](index.md)
+Avant de continuer, vérifiez que vous contrôlez la syntaxe. [[index|→ Voir le cours d'introduction]]
 
 ## Tableaux de longueur finie
 

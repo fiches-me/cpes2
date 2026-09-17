@@ -30,7 +30,7 @@ Les entreprises sont classés de différentes manières selon les pays :
 
 ## L'Entrepreneur Capitaliste
 
-L'**entrepreneur** est le créateur de l'entreprise. Au début de la révolution industrielles, les entreprises sont *majoritairement familiales*. [Jaques Turgot](auteurs) (un français) propose le modèle de **L'Entrepreneur Capitaliste**. A l'époque, la direction et possession de l'entreprise est fusionné. Il y a peu d'investissement car il y a peu d'économies d'échelles. **Proto-industrialisation** : petites structures, textile, marchand, manufactures (selon Mendels).
+L'**entrepreneur** est le créateur de l'entreprise. Au début de la révolution industrielles, les entreprises sont *majoritairement familiales*. [[../auteurs#Jaques Turgot|Jaques Turgot]] (un français) propose le modèle de **L'Entrepreneur Capitaliste**. A l'époque, la direction et possession de l'entreprise est fusionné. Il y a peu d'investissement car il y a peu d'économies d'échelles. **Proto-industrialisation** : petites structures, textile, marchand, manufactures (selon Mendels).
 
 L'entreprise familiale ne fonctionne plus à partir de la métalurgie : il n'y a plus assez de capital pour investir. On développe alors le cadre légal. Selon say, L'Entrepreneur devient donc l'assembleur des facteurs de production. Il ne possède plus vraiment le capital, il organise. Avec le besoin de lever des fonds, des formes juridiques d'entreprises sont créés.
 

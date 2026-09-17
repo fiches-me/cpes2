@@ -113,7 +113,7 @@ Les types ne doivent être ajoutés devant les variables que lors de leur premi�
 > [!ATTENTION]
 > On ne confond pas `=` et `==` comme en python
 
-On verra les tableaux dans [la prochaine fiche](tableaux.md).
+On verra les tableaux dans [[tableaux|la prochaine fiche]].
 
 ## Structures de contrôle
 

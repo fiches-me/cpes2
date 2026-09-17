@@ -74,7 +74,7 @@ public class MonObjet {
 }
 ```
 
-**On ne peut pas implémenter les opérations classiques, types `+`, `*`, `==`, sur des types fait main. Il faut créer des méthodes pour.** L'égalité sur des types construit correspond à *Es ce que ces deux objets sont les mêmes et donc possèdent la même adresse mémoire* (rappel du [cours 1](index.md), les types construits sont liés par des pointeurs). 
+**On ne peut pas implémenter les opérations classiques, types `+`, `*`, `==`, sur des types fait main. Il faut créer des méthodes pour.** L'égalité sur des types construit correspond à *Es ce que ces deux objets sont les mêmes et donc possèdent la même adresse mémoire* (rappel du [[index|cours 1]], les types construits sont liés par des pointeurs). 
 
 **La convention java est d'appelé la méthode d'égalité `equals()`.**
 

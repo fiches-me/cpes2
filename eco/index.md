@@ -57,7 +57,7 @@ Représentée par des économistes comme Dani Rodrik.
 
 Dani Rodrik propose des règles pour une pratique humble et rigoureuse de l'économie, mettant en garde contre l'application aveugle des modèles.
 
-Voir aussi : [Introduction à la méthode](../eco/methodo.md)
+Voir aussi : [[methodo|Introduction à la méthode]]
 
 | **Dix commandements pour les non-économistes**                                                                                                                                         | **Dix commandements pour les économistes**                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

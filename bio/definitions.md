@@ -13,7 +13,7 @@ title: 📚 Définitions
 
 Substance organique ou minérale (*à l'exception de l'eau*) d'origine [Exogène](#Exogène) qui est absorbée et utilisée/transformée par l'rgansime en fonction du besoin. 
 
-Cette définition est générale, elle fonctionne pour les algues ou les bactéries. Pour l'alimentation, on parle particulièrement de [Glucides](definitions.md#Glucides), [Lipides](definitions.md#Lipides) et [Protéines](#Protéines)
+Cette définition est générale, elle fonctionne pour les algues ou les bactéries. Pour l'alimentation, on parle particulièrement de [[definitions#Glucides|Glucides]], [[definitions#Lipides|Lipides]] et [Protéines](#Protéines)
 
 ## Vitamines
 

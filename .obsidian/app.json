@@ -1,8 +1,8 @@
 {
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
-  "showUnsupportedFiles": false,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
   "mobileToolbarCommands": [
     "editor:undo",

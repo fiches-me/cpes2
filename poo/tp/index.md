@@ -67,7 +67,7 @@ Voici une liste de types communs :
 
 ::: code-group
 
-```java
+```java [hello.java]
 // Types "classiques"
 int integrer = 2
 float reel = 3.323 // [!code warning]
@@ -96,7 +96,7 @@ tetx = "Bonjour"
 
 Il est également possible d'initialiser plusieurs variables en même temps. *Il n'est cependant pas possible de définir plusieurs variables en même temps.* **On ne peut pas redéclarer une variable !**
 
-```java
+```java [hello.java]
 String s1, s2, s3;
 
 // Les lignes suivantes NE SONT PAS POSSIBLES
@@ -112,15 +112,15 @@ Les types ne doivent être ajoutés devant les variables que lors de leur premi�
 > [!ATTENTION]
 > On ne confond pas `=` et `==` comme en python
 
-On verra les tableaux dans [la prochaine fiche](tableaux.md).
+On verra les tableaux dans [[tableaux|la prochaine fiche]].
 
 ## Structures de contrôle
 
-On peut bien entendu faire des tests booléens, avec des if, elif, else :::: code-group
+On peut bien entendu faire des tests booléens, avec des if, elif, else
 
 ::: code-group
 
-```java
+```java [hello.java]
 if (bool && True || False) {
 	//
 } else {

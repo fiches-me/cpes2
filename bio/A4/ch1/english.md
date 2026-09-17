@@ -15,7 +15,7 @@ Blood is a transport liquid pumped by the heart to all parts of the body, after 
 
 **Blood is both a tissue and a fluid.** It is a tissue because it is a collection of similar specialized cells that serve particular functions.
 
-As blood carries oxygen & carbon dioxide, it's a **vital tissue for the human body**. As we saw in ["Globules Rouges" section from last chapter](g1.md#Globules%20rouges), the human blood have a quite long regeneration time and so **need to be given in case of blood loss**.
+As blood carries oxygen & carbon dioxide, it's a **vital tissue for the human body**. As we saw in [[g1#Globules%20rouges|"Globules Rouges" section from last chapter]], the human blood have a quite long regeneration time and so **need to be given in case of blood loss**.
 
 The most common blood type is **A+** in northen europe and **O+** in UK & United States
 
