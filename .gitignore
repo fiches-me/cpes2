@@ -16,3 +16,4 @@ workspaces.json
 data.json.backup*
 
 *.pdf
+!eco/td/*.pdf
