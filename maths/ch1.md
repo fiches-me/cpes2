@@ -1,5 +1,6 @@
 ---
 title: Séries Numériques
+order: 2
 ---
 
 # Séries Numériques

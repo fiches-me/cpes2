@@ -23,7 +23,7 @@
   "maxBackups": 1,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": true,
+    "emojiMode": false,
     "rulePage": "file"
   },
   "appIcons": {},
@@ -93,6 +93,9 @@
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {
+    "authors": {
+      "icon": "lucide-circle-user-round"
+    },
     "title": {
       "icon": "lucide-pen-tool"
     }
