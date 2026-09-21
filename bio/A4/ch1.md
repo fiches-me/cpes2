@@ -1,9 +1,15 @@
 ---
-title: Composition du Sang
+title: 🩸 Composition du Sang
 order: 1
 ---
 
-# Composition du Sang
+# 🩸 Composition du Sang
+
+On a surtout étudier les tissus solides l'année dernière, composés de cellules reliés entre elles par des jonctions, membranes... Mais le sang est aussi un tissue, alors qu'il est liquide !
+
+Cela implique donc une composition particulière pour qu'il puisse être considéré comme un tissue et être liquide à certain moments
+
+Dans ce premier chapitre, nous étudiron surout la struture du sang. Nous verrons ses propriétés dans le prochain chapitre.
 
 ## Introduction
 
@@ -46,7 +52,7 @@ La lymphe a 4 fonctions principales :
 
 ## Composition du sang
 
-| Le sang est composé de<br>- *55%* de **Plasma**, un liquide de soluté variable, de l'eau (90%), avec protéines (8%)[^1]<br>- *45%* d'**Erythrocytes** (**globules rouges**) proportion d'élément figurés, donc de **celulles** type **hématrocite**<br>- Ainsi qu'une **couche tampo** forme de **leucocytes** (**globules blancs** et autre, voir si dessous) | ![](composition_sang.png) |
+| Le sang est composé de<br>- *55%* de **Plasma**, un liquide de soluté variable, de l'eau (90%), avec protéines (8%)[^1]<br>- *45%* d'**Erythrocytes** (**globules rouges**) proportion d'élément figurés, donc de **celulles** type **hématrocite**<br>- Ainsi qu'une **couche tampo** forme de **leucocytes** (**globules blancs** et autre, voir si dessous) | ![](images/composition_sang.png) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 
 Au delà des globules rouges, le tampo contient également plusieurs molécules importantes dont :
@@ -94,7 +100,7 @@ Il possède donc un noyau **non polylobés** et sont **peu granuleux**. Le noyau
 
 | Cellule                       | Fonction                                             | Durée de Dev     | Durée de vie    | Image? |
 | ----------------------------- | ---------------------------------------------------- | ---------------- | --------------- | ------ |
-| Granulocyte **neutrophile**   | Phagocytose des bactéries (pue).                     | 5 à 7 jours      | 2 mois          |        |
+| Granulocyte **neutrophile**   | Phagocytose des bactéries (pue). *Macrophage*        | 5 à 7 jours      | 2 mois          |        |
 | Granulocyte **éosinophile**   | Destruction parasites et complexe antigène-anticorps | 6 à 9 jours      | 6 à 48h         |        |
 | Granulocyte **basophile**     | Médiateurs chimiques inflammatoires                  | 3 à 7 jours      | heures ~ jours  |        |
 | **Lymphocyte** (Agranulocyte) | Défense de l'organism                                | jours ~ semaines | heures ~ années |        |
@@ -108,7 +114,7 @@ Les lymphocytes peuvent se spécialiser en deux catégories : A, les killers cel
 
 Les hémocytoblastes sont des cellules souches pluripotents, qui peuvent dériver en plusieurs cellules spécialisés.
 
-![](Pasted%20image%2020260914150109.png)
+![](images/Pasted%20image%2020260914150109.png)
 
 Il y a de la régulation à plusieurs niveaux :
 - Les **EPO** au niveau des érythrocytes
@@ -125,6 +131,19 @@ On peut former un **hématome** *bleu car oxydation du fer*. C'est un **sédimen
 Une protéine (protéine Marcel) fait une liaison faible en collagène et plaquettes. Les plaquettes libèrent ensuite d'autres médiateurs chimiques. Ils vont modifier le métabolisme et la forme d'elles même et de leurs propre protéines (**Activation Plaquettaire**) qui forme un **rappel à d'autres plaquettes**. Le $PGI_2$ et le $NO$ sont deux autres médiateurs chimiques qui vont ensuite s'enclencher pour combattre le bouchon (**inhibition**).
 
 Après la formation de clou plaquettaire, on forme un caillot sanguin sous le clou (**th…**).
-Activation d'enzymes pour la convertion de prothrombines en thrombines. Rétrocontrôle positif (en présence de vitamine K et calcium).
+Activation d'enzymes pour la convertion de prothrombines en thrombines. **Rétrocontrôle positif** (en présence de vitamine K et calcium). *C'est ce qui apporte la Fibrine, donc la coagulation.* **Trop de Thrombines = trop de Fibrines = trop de coagulation.**
+
+**Il faut, à un moment, stopper la coagulation.** Sinon, formation de caillot sanguin. Il y a 3 mécanismes et la défaillance de l'un d'entre est dangereuse.
+
+1. Inhibiteur de la voie du facteur tissulaire. Le facteur $TFPI$ est sécrété par les cellules endothéliales et va se fixer sur les protéines sur la thrombine et stopper sa réaction en chaine (**cascade enzymatique**).
+2. La Thrombine se désactive et s'inactive en se fixant sur les cellules endothéliales.
+3. L'**Antithrombine Ⅲ** empêche les Thrombines en se fixant sur les héparines (cellules endothéliales).
+
+Pour prévenir les défaillances (lors d'opérations ou le sang risque d'être en contact avec l'air par exemple), on utilise des **anticoagulants**. Il en existe plusieurs :
+
+- L’aspirine qui synthétise des inhibiteurs de protéines qui produisent la prostaglandines plaquettes
+- L'héparine inhibent l'agrégation plaquettaire (souvent donné aux patients lors d'opération à corps ouvert)
+- Médicaments activateurs du plasminogène qui devient plasmine et qui dissout la fibrine.
+- Certain médicaments oraux interfèrent avec la vitamine K, nécessaire à la coagulation.
 
 [^1]: Dont **Albumine** (pression pour préserver l'équilibre entre liquide interstitiel et plasma), **Globuline A & B** (protéines vectrices au lipides, ions métalliques, vitamines), **Globuline G** (anticorps), *Facteurs de coagulations* et autre. Voir liste complète sur le poly.

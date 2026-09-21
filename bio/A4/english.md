@@ -15,13 +15,13 @@ Blood is a transport liquid pumped by the heart to all parts of the body, after 
 
 **Blood is both a tissue and a fluid.** It is a tissue because it is a collection of similar specialized cells that serve particular functions.
 
-As blood carries oxygen & carbon dioxide, it's a **vital tissue for the human body**. As we saw in [[g1#Globules%20rouges|"Globules Rouges" section from last chapter]], the human blood have a quite long regeneration time and so **need to be given in case of blood loss**.
+As blood carries oxygen & carbon dioxide, it's a **vital tissue for the human body**. As we saw in [[ch1#Globules%20rouges|"Globules Rouges" section from last chapter]], the human blood have a quite long regeneration time and so **need to be given in case of blood loss**.
 
 The most common blood type is **A+** in northen europe and **O+** in UK & United States
 
 We can clearely see a gap between sourthen countries & european / developed countries : over a 500% increase for Germany, Greece & Sweden copared to Arbia, Qatar, UAE…
 
-![](blood-donation-repartition.png)
+![](images/blood-donation-repartition.png)
 
 **WE COULD GIVE CELLS OR PLASMA INDIVUDUALLY INSTEAD OF FULL BLOOD**
 
@@ -45,7 +45,7 @@ Poore countires have different donated blood usage than in Europe : while develo
 
 7. Conclude wether the blood donation is a sufficient solution for the blood need worldwide? **NOPE**
 
-![](blood-challenges.png)
+![](images/blood-challenges.png)
 
 1. Explain the existence of the different blood types from a molecular point of view. 
 

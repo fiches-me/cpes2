@@ -2,6 +2,7 @@
 title: 🥶 Fonctions & Classes
 order: 3
 ---
+
 # 🥶 Fonctions & Classes
 
 Avant de commencer, **pourquoi de la programmation objet ?** Quand on code, on veut souvent des objets *un poil plus compliqués* que des entiers ou des simples chaines de caractères. **On va vouloir rassembler toute ces informations dans un seul objet.** *Et le Java est super pour ça !*
@@ -76,8 +77,6 @@ public class MonObjet {
 
 **On ne peut pas implémenter les opérations classiques, types `+`, `*`, `==`, sur des types fait main. Il faut créer des méthodes pour.** L'égalité sur des types construit correspond à *Es ce que ces deux objets sont les mêmes et donc possèdent la même adresse mémoire* (rappel du [[index|cours 1]], les types construits sont liés par des pointeurs). 
 
-**La convention java est d'appelé la méthode d'égalité `equals()`.**
-
 Cette règle de surcharge permet cependant de faire également plusieurs constructeurs, donc de faciliter la copie :
 
 ```java
@@ -99,3 +98,12 @@ public class MonObjet {
 ```
 
 > [!attention] Il n'est pas possible de faire plusieurs fonctions/méthodes `main`.
+
+## Conventions & Bonnes pratiques
+
+Comme il n'y a pas de getters en Java, il existe des conventions de noms pour les méthodes. *Je vais profiter de cette section pour vous présenter du vocabulaire.*
+
+ - La **méthode d'égalité** s'écrit `equals()`.
+ - La **méthode de conversion en str** s'écrit `toString()`.
+
+Quand on crée des attributs, on veut également créer des **getters**, méthodes pour *lire un attribut*, et **setters**, méthodes pour écrire sur un attribut.
