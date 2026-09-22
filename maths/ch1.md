@@ -64,7 +64,7 @@ De plus, pour des séries strictement croissante (et inversement avec décroissa
 
 Par définition, la série est **convergente** si $|q| < 1$ et dans ce cas
 
-$$\sum_{n=p}^{+\infty} q^n = \frac{q^p}{1 -q}$$
+$$\sum_{n=0}^{+\infty} q^n = \frac{1}{1 -q}$$
 
 ### Série *géométrique dérivée première*
 

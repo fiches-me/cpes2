@@ -2,15 +2,15 @@
 
 ## More data means less info. WDYM?
 
-While we could think more data means more information, this is not forcibly true. Stats must have a meaning to bring a new information. If they dont, we increase the computing power needed to treat them. If we take, as an example, stats from a grocery store : in a small stall, where products are unique, those stats could help the stall's owner can now how to handle his stocks. But for a big supermarket, with all the references, prices, quantities, you can't do anything with thoses numbers, even with all of them. 
+While we could think more data means more information, this is not forcibly true. Stats must have a meaning to bring a new information. If they dont, we increase the computing power needed to treat them (even id its price is at an all time low). If we take, as an example, stats from a grocery store : in a small stall, where products are unique, those stats could help the stall's owner can now how to handle his stocks. But for a big supermarket, with all the references, prices, quantities, you can't do anything with thoses numbers, even with all of them. 
 
 ## What is Data Mining?
 
-Data mining is the process of making, of a huge data lake, thanks to statistics, machine learning and/or IA.
+Part of a bigger process called knwoledge kdd (knowledge discovery in database). Data mining is the process of making, of a huge data lake, thanks to statistics, machine learning and/or IA.
 
 ## Genetic Algorithm
 
-s
+Genetic Algorithm are algorithm made to solve IT issues, but inspired by biological and/or living mechanism. Artificial inteligence is a great example of a Genetic Algorithm : it mimics the behavior of a human brain with decision taking (tho it's not really an "algorithm"). Idea of creating better code (upgrade) and keeps the best version of himself.
 
 ## What are OLTPs? 
 
