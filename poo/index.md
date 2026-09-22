@@ -20,7 +20,6 @@ public class hello {
 	// "void" signifie que la fonction ne renvoie rien.
 	public static void main(String[] args) {
 		// Une instruction...
-		...
 	}
 }
 ```
@@ -70,16 +69,18 @@ Voici une liste de types communs :
 
 ```java
 // Types "classiques"
-int integrer = 2
-float reel = 3.323
+int integrer = 2;
+float reel = 3.323;
 // ! NOUVEAU ! On peut faire des réels avec deux chiffres après la virgule
-double doub = 3.40
-boolean test = True
-char c = "c"
+double doub = 3.40;
+boolean test = True;
+// " ne fonctionne pas !
+char c = 'c';
 
 // Types composés
 // ⚠️ En java, les "String" sont des types composés de plusieurs "char".
-String text = "Bonjour"
+// ' ne fonctionne pas !
+String text = "Bonjour";
 
 ```
 
