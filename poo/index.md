@@ -73,7 +73,7 @@ int integrer = 2;
 float reel = 3.323;
 // ! NOUVEAU ! On peut faire des réels avec deux chiffres après la virgule
 double doub = 3.40;
-boolean test = True;
+boolean test = true;
 // " ne fonctionne pas !
 char c = 'c';
 
@@ -118,12 +118,12 @@ On verra les tableaux dans [[tableaux|la prochaine fiche]].
 
 ## Structures de contrôle
 
-On peut bien entendu faire des tests booléens, avec des if, elif, else :::: code-group
+On peut bien entendu faire des tests booléens, avec des if, elif, else
 
 ::: code-group
 
 ```java
-if (bool && True || False) {
+if (bool && true || false) {
 	//
 } else {
 	// le else est facultatif. MAIS les crochets {} soient fermés
