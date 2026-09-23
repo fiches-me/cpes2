@@ -61,6 +61,30 @@ Poore countires have different donated blood usage than in Europe : while develo
 
 7. Study the composition and the biosynthesis of the different blood antigens.
 
-8. Explain the existence of different blood types from genetic point of view. 
+8. Explain the existence of different blood types from genetic point of view.
+
+|     | **A**  | **B**  | **O**  |
+| :-: | :----: | :----: | :----: |
+|  **A**  |   x    | 99.62% | 99.91% |
+|  **B**  | 99.62% |   x    | 99.53% |
+|  **O**  | 99.91% | 99.53% |   x    |
 
 9. Answer the overall question. 
+
+## Genotypes
+
+### Alan
+
+- Allan should have a genotype of A || B → [AB]
+- Monica should have a genotype of A || O → [A]
+- Rick should have a genotype of (A || B &&  O) → [A], [B], [AB] but NOT O (would require O type)
+
+### Biosynth of blood antigens
+
+You need, to fix fluctose, lactose and more to the blood cell **an enzyme**. An enzyme H is needed to create substance H and stick it to the blood cell (and enzyme A/enzyme B to add the last part from allele A or B)
+
+Blood type can depend on a gene while other genes are present: a or b can be here but no gene H make O
+
+(*Gene H is called Tut1*)
+
+So **A & B are dominant over O** unless enzyme H is not present (*which is not a gene from O*)
