@@ -20,7 +20,7 @@ La **base canonique** est la base la "*plus jolie* d'un certain espace vectoriel
 ### Matrices
 
 On note $\mathcal{M}_{\color{red}n, \color{lime}p} (\mathbb{K})$ l'ensemble des matrices à $\color{red}n$ lignes et $\color{lime}p$ colonnes. Son **rang** correspond à **son nombre de pivot**, *ou le nombre de colonnes linéairement indépendantes*.
-
+é
 ### Applications Linéaires
 
 Une application est dite **linéaire** si $\forall x, y \in E^2, f(x + y) = f(x) + f(y)$. 
