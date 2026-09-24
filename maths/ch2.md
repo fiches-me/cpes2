@@ -48,5 +48,5 @@ Cette matrice est **LA matrice de $f$ dans les bases $\mathcal{B}$ et $\mathcal{
 > [!DÉFINITION]
 > Soit une application $f$ linéaire de $E$ à $F$ et une application $g$ linéaire de $F$ à $E$. Alors, on a :
 > 
-> $$\mathcal{M}_{\mathcal{B}, \mathcal{B}^\prime}(g \circ f) = \mathcal{M}_{\mathcal{B}, \mathcal{B}^\prime}(f) \times \mathcal{M}_{\mathcal{B}^\prime, \mathcal{B}^{\prime\prime}}(g)$$
+> $$\mathcal{M}_{\mathcal{B}, \mathcal{B}^\prime}(g \circ f) = \mathcal{M}_{\mathcal{B}, \mathcal{B}^\prime}(g) \times \mathcal{M}_{\mathcal{B}^\prime, \mathcal{B}^{\prime\prime}}(f)$$
 
