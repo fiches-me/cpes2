@@ -54,3 +54,17 @@ order: 10
 3. La crédibilité des banques
 4. L'inflation menace les deux systèmes, elle crée de l'instabilité (premier choc pétrolier).
 5. L'inflation crée de la pression qui crée une limite de temps.
+
+## Document 6
+
+1. What are the principles of the agency theory?
+    - An agency relationship is a contract between multiple peoples to perform some service on their behalf. *But if both want to maximise profits, their goals will diverge.* 
+2. What are agency costs? *1gency costs arise in any situation involving cooperative effor*
+	1. the monitoring expenditures by the principal,
+	2. the bonding expenditures by the agent,
+	3. the residual loss: divergence we saw earlier
+3. What is the vision of the firm drawn by Jensen and Meckling?
+	- 
+4. How does the principal-agent relation can be applied in a public limited company?
+    -  
+5. Explain how the owners (the principals) make their choice regarding agency costs.
