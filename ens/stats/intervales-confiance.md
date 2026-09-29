@@ -43,7 +43,6 @@ Ces intervalles de confiances se construisent pour des v.a.i.i.d qui suivent **u
 >
 > $$\mathbb{P}(\mathcal{Z} > q_{1 - \frac \alpha 2}) = 1 - \frac \alpha 2$$
 
-
 ::: details Exemple
 
 On étudie l'âge de divorce d'une population de 100 individus divorcés une unique fois. On suppose ces individus indépendant et on suppose également qu'il existe $\mu$ et $\sigma ^2$ tel que l'individu $i \in \textlbrackdbl 1 ; 1000 \textrbrackdbl$
@@ -53,8 +52,21 @@ On étudie l'âge de divorce d'une population de 100 individus divorcés une uni
 
 On dispose de vaiid selon des $\mathcal{N}(\mu, \sigma^2)$ et on a vu que $\bar{X}_n \sim \mathcal{N}(\mu, \frac{\sigma^2}n)$.
 
+Par renormalisation, $\frac{\sqrt{n}}{\sigma} ( \bar{X_n} - \mu) \sim \mathcal{N}(0, 1)$
+
+...
+
+- Donc $\mathbb{P}(-q_{1 - \frac \alpha 2} \le \frac{\sqrt{n}}{\sigma} ( \bar{X_n} - \mu) \le q_{1 - \frac \alpha 2}) = 1 - \alpha$
+- Donc $\mathbb{P}(- \frac{\sigma}{\sqrt{n}} q_{1 - \frac \alpha 2} \le (\bar{X_n} - \mu) \le \frac{\sigma}{\sqrt{n}} q_{1 - \frac \alpha 2}) = 1 - \alpha$
+- Donc $\mathbb{P}(- \bar{X_n} \frac{\sigma}{\sqrt{n}} q_{1 - \frac \alpha 2} \le - \mu \le \bar{X_n} \frac{\sigma}{\sqrt{n}} q_{1 - \frac \alpha 2}) = 1 - \alpha$
+- Donc $\mathbb{P}(\bar{X_n} - q_{1 - \frac \alpha 2} \frac{\sigma}{\sqrt{n}} \le \mu \le \bar{X_n} +  q_{1 - \frac \alpha 2} \frac{\sigma}{\sqrt{n}}) = 1 - \alpha$
+
+On obtient donc l'intervalle de confiance :
+
+$$\mathbb{P}(\mu \in [\bar{X_n} - q_{1 - \frac \alpha 2} \frac{\sigma}{\sqrt{n}} ;\bar{X_n} +  q_{1 - \frac \alpha 2} \frac{\sigma}{\sqrt{n}}]) = 1 - \alpha$$
+
 :::
 
-### 2. Variance Inconnue *ou* **x**
+### 2. Variance Inconnue
 
 ## Intervalles de confiance pour la variance
