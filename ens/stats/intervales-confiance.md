@@ -38,6 +38,22 @@ Ces intervalles de confiances se construisent pour des v.a.i.i.d qui suivent **u
 > Soit $\alpha \in ]0 ; 1[$. Un **intervalle de confiance pour $\mu$ de niveau $1 - \alpha$** est défini par :
 >
 > $$I_n = [\bar{\mathcal{X}_n} - q_{1 - \frac\alpha2} \frac{\sigma}{\sqrt n}; \bar{\mathcal{X}_n} +  q_{1 - \frac\alpha2} \frac{\sigma}{\sqrt n}$$
+>
+> Ou $q_{1 - \frac \alpha 2}$ est le quantile de la loi **normale centrée réduite** tel que
+>
+> $$\mathbb{P}(\mathcal{Z} > q_{1 - \frac \alpha 2}) = 1 - \frac \alpha 2$$
+
+
+::: details Exemple
+
+On étudie l'âge de divorce d'une population de 100 individus divorcés une unique fois. On suppose ces individus indépendant et on suppose également qu'il existe $\mu$ et $\sigma ^2$ tel que l'individu $i \in \textlbrackdbl 1 ; 1000 \textrbrackdbl$
+:::
+
+::: details Démonstration
+
+On dispose de vaiid selon des $\mathcal{N}(\mu, \sigma^2)$ et on a vu que $\bar{X}_n \sim \mathcal{N}(\mu, \frac{\sigma^2}n)$.
+
+:::
 
 ### 2. Variance Inconnue *ou* **x**
 
