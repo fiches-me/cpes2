@@ -23,3 +23,5 @@ String[] tab = new String[12]
 ```
 
 ## Autres tableaux
+
+Il est également possible de faire des tableaux sans longeur finie. ArrayLists

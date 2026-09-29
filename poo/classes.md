@@ -107,3 +107,8 @@ Comme il n'y a pas de getters en Java, il existe des conventions de noms pour le
  - La **méthode de conversion en str** s'écrit `toString()`.
 
 Quand on crée des attributs, on veut également créer des **getters**, méthodes pour *lire un attribut*, et **setters**, méthodes pour écrire sur un attribut.
+
+---
+
+mot clef final 
+statique : pas associé à l'objet. Foncitonne aussi pour des attributs

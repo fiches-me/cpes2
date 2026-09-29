@@ -88,3 +88,22 @@ Blood type can depend on a gene while other genes are present: a or b can be her
 (*Gene H is called Tut1*)
 
 So **A & B are dominant over O** unless enzyme H is not present (*which is not a gene from O*)
+
+## Blood substitutes - a posible solution?
+
+Options :
+- Milk by Tehodor Thomas : helped a woman saved her life
+- Lot of saline solutions tried on frog, *but frog can live withouth blood solution so not really helpfull*
+- Potasium + Soduim + Milk sollution ok for *Heartbeat*
+- PFC : biologically inert materials that can dissolve about 50 times more oxygen. Accepted by FDA but not commercialized as too expenseive
+- IA usage 
+
+Advantages : 
+
+- **Faster and Better Oxygen Distribution** see PFC
+- **Longer Shelf Life** see above the conservation of blood
+- **Universal Compatibility** again above last course
+- **Prevention of transmission of agents** because not from anybody
+- **Jehovah’s Witness** ok with their religion
+
+Is it a solution to the blood shortage? *Yes and no...* Poorer countries can't make artificial celles either.
