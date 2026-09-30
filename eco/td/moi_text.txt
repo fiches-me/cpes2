@@ -1,0 +1,408 @@
+13. Moi, petite entreprise. Impacts individuels et collectifs de
+la diffusion de l’auto-entrepreneuriat
+Sarah Abdelnour
+DANS Entrepreneuriat : l'odyssée des temps modernes ? 2016/2, PAGES 192 À 203
+ÉDITIONS Regards croisés sur l'économie
+ISSN 1956-7413
+ISBN 9782707192271
+DOI 10.3917/rce.019.0192
+
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-regards-croises-sur-l-economie-2016-2-page-192?lang=fr
+
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Flashez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+
+Distribution électronique Cairn.info pour La Découverte.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre établissement.
+Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de l’organisme de
+gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+
+13
+Moi, petite entreprise. Impacts
+individuels et collectifs de la
+diffusion de l’auto-entrepreneuriat
+SARAH ABDELNOUR
+Maîtresse de conférences en sociologie
+(Université Paris-Dauphine – PSL Research Univ.)
+et chercheuse à l’IRISSO
+
+Résumé
+Qu’est-ce que la diffusion de l’auto-entrepreneuriat produit aux
+niveaux individuel et collectif ? Cet article analyse le régime
+de l’auto-entrepreneur comme un dispositif de contournement
+du salariat qui participe de la déconstruction du modèle social
+français. Le contournement du salariat ﬁgure tant dans les
+objectifs politiques des promoteurs du régime, résolus à miner
+le modèle social construit autour du salariat, que dans les usages
+qui en sont faits de la part des employeurs, privés comme
+publics, qui cherchent à externaliser une partie de leur maind’œuvre. Le dispositif produit une injonction à l’autonomie,
+notamment auprès des classes populaires, et impose alors de
+nouveaux modes de domination par l’autodiscipline et la sape
+des structures collectives.
+Abstract
+What does the spread of self-employment imply both
+individually and collectively? The article analyses the French
+“auto-entrepreneur” regime as a workaround for the wage
+system which participates in the destruction of the social
+
+Moi, petite entreprise...
+
+model. Bypassing the wage system is part of the goals of the
+political advocators of the “auto-entrepreneur” regime as well
+as it is the result of the employers’ strategies to outsource the
+workforce. The device produces an injunction to autonomy,
+especially toward the working classes. It thus functions as
+a new way of domination based on self-discipline and the
+undermining of collective structures.
+
+Introduction
+
+A
+
+près un siècle et demi de croissance quasi
+continue du salariat en France, le travail
+indépendant connaît depuis quelques années un certain
+renouveau. Numériquement d’abord, puisque la part du
+travail indépendant dans l’emploi total remonte périodiquement depuis les années 1980 dans plusieurs pays occidentaux dont la France (Arum et Müller, 2004). Symboliquement
+ensuite, le travail indépendant faisant l’objet d’un investissement renouvelé dans une société de travail déstabilisée
+par le chômage et par l’expansion des « formes particulières
+d’emploi » participant d’un effritement du salariat (Castel,
+1999). Point d’orgue de ce mouvement : la mise en place du
+régime de l’auto-entrepreneur en 2009. Cette version simpliﬁée d’entreprise individuelle est pensée comme un permis
+d’entreprendre, pour des activités réduites, sans engagement, et ouvert à tous (voir encadré). Et le dispositif s’est
+massivement diffusé puisque l’on dénombre aujourd’hui,
+et depuis quelques années déjà, environ un million d’autoentrepreneurs (Hagège et Masson, 2010 ; Omalek et Rioux,
+2015).
+
+193
+
+194
+
+Entrepreneuriat : l’odyssée des temps modernes ?
+
+Encadré : le régime de l’auto-entrepreneur depuis 2008
+Le régime de l’auto-entrepreneur a été institué dans le cadre de
+la loi de modernisation de l’économie votée le 4 août 2008, et est
+entré en vigueur au 1er janvier 2009. Il s’agit d’un régime social,
+ﬁscal et réglementaire pour lequel peuvent opter les entreprises individuelles dans les secteurs du commerce et de l’artisanat dégageant
+des chiffres d’affaires annuels inférieurs à certains seuils : 80 000 euros
+pour les activités de vente, 32 000 euros pour les activités de services
+et les professions libérales (seuils réactualisés chaque année). Dans sa
+version initiale, l’option consiste en :
+- la franchise de TVA, d’impôt sur les sociétés et de taxe professionnelle ;
+- l’absence d’immatriculation (une « déclaration » auprès d’un centre
+de formalité des entreprises, ou sur Internet, sufﬁt), ce qui signiﬁe
+l’exonération des frais d’inscription mais aussi la dispense du stage
+de préparation à l’installation pour les artisans ;
+- des cotisations sociales strictement indexées sur le chiffre d’affaires
+(12 % pour la vente, 18,3 % pour les professions libérales, 21,3 %
+pour les services), ce qui revient à supprimer le forfait incompressible de cotisations qui existait jusqu’alors ;
+- une option pour le prélèvement libératoire de l’impôt, sous conditions de ressources du foyer ﬁscal (le revenu de référence du foyer
+ﬁscal doit être inférieur à 25 926 euros par part de quotient familial).
+Dans ce cas, l’auto-entrepreneur règle l’impôt sur son activité en
+même temps que les cotisations sociales, aux taux de 1 % pour la
+vente, 1,7 % pour les services et 2,2 % pour les professions libérales.
+Le dispositif s’est ensuite modiﬁé, notamment au gré des contestations. Dans un premier temps, le régime a plutôt fait l’objet d’extensions, vers les professions libérales par exemple. Puis dans un second
+mouvement, il a fait l’objet de retours à la régulation. Les artisans ont
+par exemple été à nouveau contraints de s’immatriculer en chambres
+de métiers et les conditions d’accès à la protection sociale ont été
+durcies, puisqu’elles sont davantage soumises aux chiffres d’affaires
+réalisés. En dépit des nombreuses modiﬁcations dont il a fait l’objet, le
+dispositif jouit d’une vraie pérennité politique et a notamment résisté
+aux changements de majorité présidentielle et législative.
+
+Moi, petite entreprise...
+
+Les premières mesures d’incitation au travail indépendant apparaissent déjà à la ﬁn des années 1970, à la faveur
+d’une explosion des chiffres du chômage. Mais ce sont alors
+surtout les cadres qui sont ciblés. Dans un contexte de retournement de la conjoncture, on aide les cadres au chômage à
+monter des entreprises dont on attend qu’elles génèrent de
+l’emploi. Trente ans plus tard, alors que le contexte économique et social s’est durablement dégradé, les mêmes politiques sont réactivées mais elles sont, cette fois-ci, étendues à
+l’ensemble du corps social. Le gouvernement entend promouvoir une France du « tous entrepreneurs »1. Et l’outil mis en
+place pour cela prend le nom d’auto-entrepreneur. S’opère
+alors un glissement sémantique et symbolique des politiques
+d’encouragement à la propriété vers des politiques d’injonction à l’autonomie, renforçant la rhétorique de responsabilisation des classes populaires : la propriété est moins le fruit
+d’un choix individuel qu’elle ne devient une nécessité économique et morale face à la « crise ».
+C’est pour ce qu’il dit et symbolise de l’évolution de notre
+société salariale que le régime de l’auto-entrepreneur est particulièrement intéressant. Ce régime est conçu non seulement
+comme simpliﬁant la création d’entreprise, mais également
+comme aménageant le cumul des activités et des sources de
+revenus. Ainsi, en promouvant le travail indépendant et le
+cumul des revenus, le régime de l’auto-entrepreneur s’oppose
+au processus de construction d’un modèle social dont l’un
+des piliers est le statut de travail salarié. Il n’est pas question
+de dire que la pluriactivité avait disparu au ﬁl du XXe siècle,
+mais elle était souvent en marge d’un statut principal et
+faisait rarement l’objet d’une déclaration ou formalisation
+
+1
+
+En même temps qu’elle promeut une France du « tous propriétaires ». Sur ce
+parallèle, voir Abdelnour et Lambert, 2014.
+
+195
+
+196
+
+Entrepreneuriat : l’odyssée des temps modernes ?
+
+d’aucune sorte. Sa promotion par un dispositif de politique
+publique est alors une nouveauté – ou une résurgence désormais institutionnalisée – qui prend appui sur une déstabilisation de la société salariale, en même temps qu’elle y participe
+en retour. À partir d’une enquête de plusieurs années portant
+simultanément sur la genèse et les usages du dispositif de
+l’auto-entrepreneur2, et s’appuyant sur des entretiens et des
+données statistiques, nous verrons qu’il s’agit d’un dispositif
+de contournement du salariat qui participe de la déconstruction du modèle social français.
+
+Un dispositif de contournement
+du salariat
+En incitant les chômeurs à se mettre à leur
+compte, mais aussi les salariés, retraités et fonctionnaires à
+créer une petite entreprise en complément, l’auto-entreprise
+marque une sortie de piste par rapport au modèle du salariat
+à statut. Ce contournement du salariat ﬁgure tant dans les
+objectifs politiques des promoteurs du régime, que dans les
+usages qui en sont faits de la part des employeurs.
+La petite entreprise comme nouveau modèle
+social
+L’auteur du rapport préalable à la loi, François
+Hurel, regrette « le modèle unique du grand salariat de 1945 »3,
+tandis qu’un conseiller du secrétaire d’État Hervé Novelli,
+acteur politique central de l’auto-entrepreneur, conspue « le
+choix collectif qui a été fait en faveur du salariat »4. Les initiateurs du dispositif valorisent la petite entreprise comme base
+2
+3
+4
+
+L’enquête est exploitée plus en détail dans Abdelnour (2017).
+Entretien avec François Hurel, juillet 2009.
+Entretien avec des membres du cabinet de Hervé Novelli, juillet 2010.
+
+Moi, petite entreprise...
+
+d’une organisation sociale pensée sur le modèle américain qui
+favoriserait le développement de l’initiative individuelle et de
+la petite propriété privée. Ils visent à inverser la dynamique
+historique de construction d’un rapport salarial que l’on peut
+qualiﬁer de « fordiste »5. Or « c’est la grande entreprise qui est
+le lieu par excellence du rapport salarial moderne » (Salais,
+1985 : 342). Le régime de l’auto-entrepreneur marque en cela
+une réelle inversion de tendance puisque, comme l’indique
+François Hurel :
+On nous a fait croire pendant trente ans, quarante ans,
+que – je résume ça dans une phrase simple – que les
+grandes villes allaient mieux épanouir tout le monde
+en France, que la grande entreprise allait mieux
+employer tout le monde, que le grand hôpital allait
+mieux soigner tout le monde, que la grande université
+allait mieux former tout le monde, bref que tout ce qui
+était grand était bien. 6
+
+C’est donc à tout un modèle social, associé à la planiﬁcation de l’après-guerre, que s’oppose le régime de l’autoentrepreneur. Et si les promoteurs du régime mettent en cause
+la société salariale, c’est en tant que celle-ci est « aussi une
+société au cœur de laquelle l’État social s’est installé » (Castel,
+1999 : 603). Le groupe politique de Hervé Novelli, dit groupe
+des « réformateurs », se positionne en effet contre « les politiques publiques mises en œuvre au nom de l’État-providence
+[qui] ont conduit notre pays au bord de la ruine »7. L’horizon
+politique qui a guidé la mise en place du régime est donc
+
+5
+6
+7
+
+En suivant notamment les auteurs de la théorie de la régulation. Voir Boyer
+(2004).
+Entretien avec F. Hurel, juillet 2009.
+Afﬁche d’une réunion de Galaxie libérale (lieu de rassemblement plus ou
+moins virtuel des militants du libéralisme, mis en place par des membres des
+« réformateurs »), novembre 2011.
+
+197
+
+198
+
+Entrepreneuriat : l’odyssée des temps modernes ?
+
+ouvertement libéral et en opposition au modèle social de la
+société salariale. Mais ce qui rend la situation plus complexe,
+c’est que cet horizon est parfois présenté comme étant au
+service des exclus. Le salariat protégé étant présenté comme
+réservé à des privilégiés, l’entrepreneuriat se teinte de vertus
+sociales et se présente comme un moyen « d’absorber la
+misère du monde » selon les termes de François Hurel.
+Un contournement du salariat
+pour les employeurs, privés et publics
+Une loi n’acquiert sa force sociale que par les
+usages qui en sont faits. Pour le régime de l’auto-entrepreneur, l’objectif politique est actualisé par un usage central du
+dispositif : son utilisation par les employeurs pour éviter de
+salarier de la main-d’œuvre. À rebours des sondages insistant
+sur la volonté d’entreprendre des Français, il semble en effet
+que les plus motivés ne sont pas ceux que l’on croit. L’enquête
+révèle en effet que le dispositif est largement utilisé par les
+employeurs, et que la « motivation » des auto-entrepreneurs
+consiste alors souvent à trouver du travail. Ces situations
+peuvent être qualiﬁées de salariat déguisé, dans la mesure où
+les auto-entrepreneurs n’ont qu’un « client », qui a imposé
+le choix du statut, fournit le matériel et/ou le lieu de travail,
+déﬁnit les missions et ﬁxe la rémunération.
+Cet usage du régime de l’auto-entrepreneur par les
+employeurs s’est révélé très important dans l’enquête. Les
+statistiques peuvent donner une première indication via le
+nombre de clients, proxy imparfait mais néanmoins intéressant de la dépendance économique. On voit alors que dans
+les secteurs des activités de soutien aux entreprises (conseil)
+ou de l’information et de la communication, près de 60 %
+des auto-entrepreneurs n’ont qu’un ou deux clients (Barruel
+et al., 2012). L’enquête qualitative a ensuite permis de
+
+Moi, petite entreprise...
+
+conﬁrmer et de préciser ce phénomène, puisqu’il concerne
+environ la moitié des personnes que j’ai rencontrées. Ces
+pratiques de gestion de la main-d’œuvre se retrouvent du côté
+des employeurs privés comme publics. Dans le premier cas,
+le régime est utilisé pour embaucher des travailleurs, soit à
+titre de période d’essai plus ou moins longue, soit de manière
+plus systématique et organisée au long cours (comme c’est
+aujourd’hui le cas d’entreprises comme Uber). Le bénéﬁce
+est évident : l’employeur devenu client peut gérer la maind’œuvre de manière extrêmement ﬂexible, éviter démarches
+administratives et coûts de coordination, et éviter le paiement des cotisations patronales. L’employeur public joue
+également un rôle dans la diffusion du régime. Le dispositif
+remplace des vacations pour les missions les plus épisodiques,
+du CDD pour du travail plus continu, ou permet de maintenir
+au travail des retraités. Il s’agit alors de faire des économies et
+de contourner les limitations d’embauche, dans un contexte
+où les ﬁnancements des services publics sont largement sous
+tension.
+
+Un dispositif qui participe de la
+déconstruction du modèle social
+La dynamique impulsée par l’auto-entrepreneuriat peut être qualiﬁée de néolibérale dans le sens d’un
+retrait volontaire de l’État qui laisse la place aux mécanismes
+de marché (Denord, 2007). Et en déplaçant les frontières
+de l’intervention étatique, les politiques néolibérales transforment également les individus eux-mêmes, en modiﬁant
+leurs pratiques et leurs représentations. Selon l’intuition
+foucaldienne, en régime néolibéral, « il faut que la vie même
+de l’individu – avec par exemple son rapport à sa propriété
+privée, son rapport à sa famille, à son ménage, son rapport à
+
+199
+
+200
+
+Entrepreneuriat : l’odyssée des temps modernes ?
+
+ses assurances, son rapport à sa retraite – fasse de lui comme
+une sorte d’entreprise permanente et d’entreprise multiple »
+(Foucault, 2004 : 149). Qu’est-ce que le régime de l’auto-entrepreneur produit donc, et dans quelle mesure participe-t-il
+d’une déconstruction d’un certain modèle social ?
+Les auto-entrepreneurs sont fondamentalement seuls
+dans leur passage à l’indépendance et créent une entreprise
+avec très peu d’informations et d’accompagnement. Le dispositif marque une étape importante dans le recul des guichets
+publics dans la mesure où sa distribution a fait l’objet d’une
+véritable dématérialisation. Il est présenté comme tellement
+simple qu’il sufﬁt de se renseigner sur Internet puis de s’inscrire et de déclarer ses revenus en ligne « en trois clics ».
+Conformément à cette organisation institutionnelle, les autoentrepreneurs rencontrés se sont tous, sans exception, inscrits
+sur internet8, à domicile, et seuls donc. Mais si les enquêtés
+ont parfois vanté la facilité initiale de la démarche, une interrogation un peu plus poussée sur cette étape laisse rapidement voir les doutes et les failles de cette démarche solitaire :
+les erreurs au moment de l’inscription, les choix aléatoires
+sur l’option ﬁscale et la difﬁculté de gérer une multiplicité
+de nouveaux interlocuteurs institutionnels parmi desquels la
+répartition des tâches n’est pas évidente.
+Hormis certains usages de compléments pour salariés et
+retraités stables, les auto-entrepreneurs se retrouvent pour
+beaucoup prisonniers des fragilités inhérentes au travail indépendant, renforcées par les faibles ressources à leur disposition pour gérer cette nouvelle situation socioprofessionnelle.
+Ainsi, bien qu’éloignés d’une démarche proprement capitaliste, leur quotidien devient néanmoins envahi d’une tension
+8
+
+Plus largement, un des enquêtés, haut fonctionnaire de Bercy, évoquait le
+chiffre de 80 % des inscriptions en ligne.
+
+Moi, petite entreprise...
+
+constante quant à la réalisation de travail et l’obtention de
+revenus. En effet, sans certitude de revenus et désormais
+privés d’une assurance contre le chômage, leur niveau de
+revenu relève désormais exclusivement de leur responsabilité. Si les auto-entrepreneurs interrogés ont eu tendance à
+valoriser une forme d’autonomie nouvelle dans leur travail,
+l’enquête plus précise sur leurs pratiques de travail met au
+jour l’emprise de l’indépendance : horaires étendus, perméabilité très forte des temps et espaces professionnels et domestiques, et très forte autodiscipline au travail. Et cela même
+lorsque le travail s’inscrit dans le cadre d’une activité organisée par une entreprise, ce qui est le cas aujourd’hui des
+chauffeurs de VTC (voiture de transport avec chauffeur). Ils
+travaillent pour le compte de plateformes mais sont payés à la
+course et n’ont donc aucune garantie ni protection de la part
+d’entreprises comme Uber. On assisterait alors à une nouvelle
+étape du passage des sociétés disciplinaires vers les sociétés
+de contrôle et d’auto-contrôle décrit par Foucault et Deleuze.
+Ce faisant, le régime de l’auto-entrepreneur remet en cause
+une des conquêtes centrales du salariat : « l’affranchissement
+de l’hégémonie du travail. C’est [en effet] lorsque le travail
+est précaire, non protégé, entièrement livré au marché, que
+le travailleur est complètement immergé dans l’ordre du
+travail » (Castel, 1998). Les auto-entrepreneurs sont ainsi pris
+dans un ordre du travail devenu incontestable en tant qu’il
+semble être le fruit d’un choix autonome.
+
+Conclusion
+Cette nouvelle forme de mise au travail participe donc d’une forme d’individualisation et de libéralisation
+des consciences, qui a un impact collectif fort. Le recours au
+régime de l’auto-entrepreneur repose parfois sur une certaine
+
+201
+
+202
+
+Entrepreneuriat : l’odyssée des temps modernes ?
+
+résignation à trouver un emploi salarié, et en particulier à
+obtenir un emploi salarié concordant au niveau de qualiﬁcation, stable et bien rémunéré. Et cette expérience renforce
+la distance prise avec le salariat, dans les pratiques effectives comme dans les représentations. D’une part, les autoentrepreneurs n’attendent plus rien du salariat, et d’autre
+part, ils s’éloignent des formes d’organisation collective qui
+structurent les rapports de forces de la société salariale. La
+revendication salariale devient à la fois moins nécessaire (on
+se débrouille seul), peu légitime (chacun peut s’en sortir) et
+impossible matériellement (aux marges du droit du travail et
+des collectifs organisés). Le modèle social est donc attaqué
+tant par l’évitement des cotisations patronales qui vident les
+caisses sociales que par l’atomisation des travailleurs et une
+idéologie de la débrouille individuelle.
+
+Bibliographie
+ABDELNOUR Sarah (2017), Moi, petite entreprise. Les autoentrepreneurs de l’utopie, Paris, PUF.
+ABDELNOUR Sarah et LAMBERT Anne (2014), « “L’entreprise
+de soi”, un nouveau mode de gestion politique des
+classes populaires ? Analyse croisée de l’accession à la
+propriété et de l’auto-emploi (1977-2012) », Genèses,
+2(95), p. 27-48.
+ARUM Richard et MÜLLER W. (dir.) (2004), The reemergence of self-employment: a comparative study of selfemployment dynamics and social inequality, Princeton,
+Oxford, Princeton University Press.
+BARRUEL Frédéric, PENAUD Nadine, THOMAS Stéphane
+(2012), « Créations et créateurs d’entreprises sous le
+régime de l’auto-entrepreneur », Insee Résultats n° 57.
+BOYER Robert (2004), La théorie de la régulation, Paris, La
+Découverte.
+
+Moi, petite entreprise...
+
+CASTEL Robert (1998), « Travail et utilité au monde »,
+dans SUPIOT Alain, Le travail en perspectives, LGDJ /
+Montchrestien.
+CASTEL Robert (1999), Les métamorphoses de la question
+sociale : une chronique du salariat, Paris, Gallimard.
+FOUCAULT Michel (2004), Naissance de la biopolitique :
+cours au Collège de France, 1978-1979, Paris, Gallimard
+Seuil.
+HAGÈGE Claire et MASSON Clotilde (2010), « La création
+d’entreprises en 2009 dopée par les auto-entrepreneurs », INSEE Première, 1277.
+OMALEK Laure et RIOUX Laurence (2015), « Panorama
+de l’emploi et des revenus des non-salariés », Emploi
+et revenus des indépendants - Insee Références - Édition
+2015.
+SALAIS Robert (1985), « La formation du chômage
+comme catégorie : le moment des années 1930 »,
+Revue économique, 36(2), p. 321-366.
+
+203
+
+

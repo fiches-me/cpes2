@@ -240,25 +240,6 @@ Piotet relève également un **paradoxe ultime** : pour moraliser et réguler ce
 
 ---
 
-## 5. Prolongement Théorique : La Firme et l'Économie chez Niklas Luhmann
-
-La seconde partie du recueil [[Sociologie générale - Fichier 2.pdf#page=13|p. 268-273]] présente la théorie des systèmes de Niklas Luhmann (*Die Gesellschaft der Gesellschaft*), analysée par **Jean Clam**. Elle apporte un contrepoint épistémologique saisissant à la sociologie de la justification de Boltanski et Chiapello :
-
-- **L'économie comme sous-système autopoïétique clos :**
-  Pour Luhmann, l'économie de la société moderne est un sous-système fonctionnellement différencié, fondé sur le médium de communication spécifique qu'est **l'argent** et le code binaire **paiement / non-paiement** [[Sociologie générale - Fichier 2.pdf#page=14|p. 269]].
-- **L'autonomisation par le *self-interest* :**
-  Le système économique s'est autonomisé via le concept d'intérêt individuel (*self-interest*), s'affranchissant de toute tutelle morale ou religieuse globale [[Sociologie générale - Fichier 2.pdf#page=17|p. 272]].
-- **L'illusion du pilotage moral ou politique central :**
-  Contrairement à B & C qui espèrent reconstruire une « convention de justice » pour encadrer le capitalisme, Luhmann affirme qu'il n'existe **aucun « supercode » moral** capable de chapeauter la société. La société moderne est « polycontexturale » : elle est acentrée et ne possède pas « d'adresse » à laquelle adresser des injonctions normatives [[Sociologie générale - Fichier 2.pdf#page=16|p. 271-272]].
-- **Application aux organisations :**
-  Les firmes ne changent pas par conversion morale à une cité de justice, mais par **leur propre « irritabilité » interne** face aux fluctuations de leur environnement (prix, lois, crises, communications concurrentes).
-
-> [!TIP] Lien avec le Texte 3 : L'indexation directe sur le code Paiement / Non-paiement
-> Le régime de l'auto-entrepreneur incarne l'élimination des amortisseurs sociaux pour soumettre directement l'individu au code binaire luhmannien **paiement / non-paiement** :
-> - Dans le statut d'auto-entrepreneur, les cotisations sociales sont « strictement indexées sur le chiffre d'affaires » ([[Moi, Petite Entreprise - Fichier 3.pdf#page=4|p. 194]]) : pas de chiffre d'affaires = pas de cotisation = **pas de droits sociaux**.
-> - Le salariat fordiste constituait précisément un découplage institutionnel entre le travailleur et les soubresauts immédiats du marché. L'auto-entrepreneuriat réaligne de manière autopoïétique le travail sur la communication monétaire pure, dénuée de toute convention morale collective.
-
----
 
 ## 6. Texte 3 : « Moi, petite entreprise » (Sarah Abdelnour, 2016) — L'Auto-entrepreneuriat ou le Contournement du Salariat
 
