@@ -1,8 +1,8 @@
 ---
 title: Quelle gouvernance d’entreprise pour la transition énergétique et écologique ?
 authors: Rhama, Rhapaël, Noémie
+draft: true
 ---
-
 # Quelle gouvernance d’entreprise pour la transition énergétique et écologique ?
 
 Michel Aglietta et Renaud du Tertre discuss in their article how to regulate firms in prevention of the Climate Change.

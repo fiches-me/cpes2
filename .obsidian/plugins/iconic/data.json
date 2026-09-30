@@ -139,6 +139,18 @@
       "icon": "lucide-newspaper"
     },
     {
+      "id": "nimT7",
+      "name": "draft",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:draft",
+          "operator": "isTrue"
+        }
+      ],
+      "enabled": true
+    },
+    {
       "id": "fkWsj",
       "name": "Heading > 25",
       "match": "all",

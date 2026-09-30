@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 ## Introduction: The Capitalist Enigma and the Promise of Autonomy
 
 ### Slide 1

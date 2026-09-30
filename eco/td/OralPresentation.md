@@ -1,3 +1,8 @@
+---
+title: 🗨️ Oral Presentaion
+draft: true
+---
+
 # Oral Presentaion
 
 ## Introduction: The Capitalist Enigma and the Promise of Autonomy
