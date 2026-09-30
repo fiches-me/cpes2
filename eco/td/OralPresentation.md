@@ -23,9 +23,21 @@ We will back up our *presentation?* on the work of 3 Sociology authors:
 
 ### Slide 3: Luc Boltanski
 
+> [!NOTE] À écrire
+> Anarcho-communiste, sociologue à l’EHESS
+
 ### Slide 4: Ève Chiapello
 
+> [!NOTE] À écrire
+> HEC + EHESS + Paris-Dauphine, Sociologue
+
 ### Slide Sarah Abdelnour
+
+> [!NOTE] À écrire
+> - Prof Chercheuse Sociologue à Paris Dauphine  
+> - Deux livres sur le travail + auto-entrepreneur : Moi, petite entreprise & idées reçues sur le travail.  
+> - ENS de Cachan et agrégée de sciences économiques et sociales EHESS
+> - Au programme d’agreg SES
 
 ### Summary
 
@@ -290,29 +302,11 @@ Neither Boltanski and Chiapello’s grand theoretical model nor Abdelnour’s em
 
 In her incisive review, the sociologist of labor **Françoise Piotet** raises several profound epistemological objections against *The New Spirit of Capitalism*:
 
-- **The Managerialist Bias (*Le biais managérialiste*):** 
-  Boltanski and Chiapello base their entire empirical thesis on an analysis of **prescriptive management textbooks** from the 1960s and 1990s. As Piotet rightly objects, management literature consists of normative self-help books written by consultants for an elite cadre of corporate executives. Treating these prescriptive slogans as an accurate description of what actually happens on the shop floor or in ordinary offices is a massive methodological leap!
-- **A Highly Selective, Ideologically Biased Corpus:**
-  The corpus of texts analyzed by Boltanski and Chiapello is extremely narrow. They consciously selected texts that confirmed their narrative while ignoring reactionary employers' manifestos, conservative managerial factions, and the complex, heterogeneous positions of diverse labor unions.
-- **The Erasure of Material Constraints and Labor Sociology:**
-  Their approach is deeply idealist—it assumes that philosophical ideas, justification polities, and artistic critiques are what move the economic world. In doing so, they neglect the hard, material variables of economics and industrial relations: demographic pressures, international raw material prices, real power balances, and institutional collective bargaining (as analyzed by sociologists like Jean-Daniel Reynaud).
-- **The Glaring Blind Spot of the State:**
-  Boltanski and Chiapello portray the development of capitalism almost entirely as an autonomous dialogue between managers and social critics. They completely overlook the central, coercive role of the State, labor legislation, and institutional regulations in structuring economic markets.
-- **The Theoretical Paradox:**
-  Piotet highlights a stunning paradox on page 266: in the final part of their book, when Boltanski and Chiapello propose solutions to tame the precarity of the project city (such as universal basic income or portable activity contracts), their proposed reforms would ultimately **abolish the wage-earning contract** (*le salariat*)—the very pillar that they declared was a non-negotiable constitutive element of capitalism in their opening chapter!
-
 #### 2. Methodological Critique of Abdelnour’s "Moi, Petite Entreprise"
 
 `[SLIDE 17: Critical Evaluation - Abdelnour & General Reflexivity]`
 
 What about Sarah Abdelnour’s article? While exceptionally sharp in its political economy, it also invites critical nuance:
-
-- **Over-focusing on the Dark Side of the Status:**
-  Abdelnour’s text focuses almost exclusively on precarity, bogus self-employment, and corporate exploitation. While these dynamics are undeniably real, the article tends to minimize the genuine, subjective desire for autonomy experienced by many individuals. For thousands of people—such as working mothers, second-career professionals, craftspeople, or those fleeing toxic corporate environments—the ability to escape managerial harassment and manage their own time represents a meaningful improvement in quality of life, even with lower financial predictability.
-- **The Question of Secondary Activities (*Complément de revenu*):**
-  A significant portion of *auto-entrepreneurs* do not rely on the status as their primary livelihood. For many, it is simply a secondary, weekend activity alongside a stable, full-time salaried job. Lumping all self-employed workers into the single category of an exploited, gig-economy underclass risks flattening the immense sociological diversity of the self-employed population.
-- **Sampling Boundaries:**
-  Her qualitative interview sample focuses heavily on specific urban service sectors (transport, consulting, communications), which may over-represent the most acute forms of platform dependence and bogus self-employment compared to rural or traditional artisanal activities.
 
 #### 3. General Reflexivity: Navigating Sociology and Political Lenses
 
@@ -322,26 +316,52 @@ Finally, as students presenting this work, we must maintain epistemological humi
 
 ---
 
+-->
+
+# [...]
+
 ## Conclusion: Tying It All Together
 
-`[SLIDE 18: Conclusion & Key Takeaways]`
+### SLIDE xX: Conclusion
 
-To bring our presentation to a close, let us return to our foundational question: *how does capitalism renew its legitimacy while transferring its structural risks onto ordinary workers?*
+To finish our presentation, let us return to our foundational question: *how does capitalism renew its legitimacy while transferring its structural risks onto ordinary workers?*
 
-The historical trajectory we have traced today tells a coherent, fascinating story:
 1. Capitalism is an amoral, endless process of accumulation that cannot survive without borrowing an external **"spirit"** that legitimizes voluntary subordination.
 2. In the mid-20th century, the **Second Spirit** achieved social peace through the **Fordist Compromise**—offering strong job security, predictable careers, and welfare state solidarity in exchange for hierarchical obedience.
 3. When the **Artistic Critique of May 1968** demanded personal freedom and an end to bureaucratic boredom, capitalism performed a brilliant historic trade-off: it granted autonomy, flexibility, and network connections (the **Third Spirit**), but systematically liquidated collective protections and stable contracts.
 4. Finally, as Sarah Abdelnour demonstrates, the institutionalization of the **Sole Trader (*auto-entrepreneur*)** pushed this logic to its absolute extreme. The state and employers transformed the emancipatory dream of "being one's own boss" into an **injunction to autonomy**, legitimizing bogus self-employment, fueling the precarious gig economy, and dismantling the solidarity of the wage-earning society.
 
-`[PAUSE]`
+### SLIDE xX: Key Takeaways
 
 Ultimately, the contemporary worker has indeed been liberated from the physical factory foreman. But in exchange, we have been thrust into the society of control—where each individual is tasked with becoming an "enterprise of the self," carrying the entire weight of economic risk alone upon their own shoulders.
 
-Thank you very much for your attention. I am now delighted to open the floor and welcome any questions or discussion.
+### SLIDE xX: Text Critics
 
-`[SLIDE 19: Q&A - Thank You!]`
+While our analysis seems pretty solid, we need to contrast it with some important warnings:
 
----
+- In the analysis proposed by Françoise PIOTET, we can outline some strange bibliography choices by Boltansky & Chiapello, *which F. PIOTET will neither justify*.
+	1. 
+		- **The Managerialist Bias (*Le biais managérialiste*):** 
+			  Boltanski and Chiapello base their entire empirical thesis on an analysis of **prescriptive management textbooks** from the 1960s and 1990s. As Piotet rightly objects, management literature consists of normative self-help books written by consultants for an elite cadre of corporate executives. Treating these prescriptive slogans as an accurate description of what actually happens on the shop floor or in ordinary offices is a massive methodological leap!
+		- **A Highly Selective, Ideologically Biased Corpus:**
+			  The corpus of texts analyzed by Boltanski and Chiapello is extremely narrow. They consciously selected texts that confirmed their narrative while ignoring reactionary employers' manifestos, conservative managerial factions, and the complex, heterogeneous positions of diverse labor unions.
+		- **The Erasure of Material Constraints and Labor Sociology:**
+			  Their approach is deeply idealist—it assumes that philosophical ideas, justification polities, and artistic critiques are what move the economic world. In doing so, they neglect the hard, material variables of economics and industrial relations: demographic pressures, international raw material prices, real power balances, and institutional collective bargaining (as analyzed by sociologists like Jean-Daniel Reynaud).
+		- **The Glaring Blind Spot of the State:**
+			  Boltanski and Chiapello portray the development of capitalism almost entirely as an autonomous dialogue between managers and social critics. They completely overlook the central, coercive role of the State, labor legislation, and institutional regulations in structuring economic markets.
+		- **The Theoretical Paradox:**
+			  Piotet highlights a stunning paradox on page 266: in the final part of their book, when Boltanski and Chiapello propose solutions to tame the precarity of the project city (such as universal basic income or portable activity contracts), their proposed reforms would ultimately **abolish the wage-earning contract** (*le salariat*)—the very pillar that they declared was a non-negotiable constitutive element of capitalism in their opening chapter!
+	2. 
+		- **Over-focusing on the Dark Side of the Status:**
+		  Abdelnour’s text focuses almost exclusively on precarity, bogus self-employment, and corporate exploitation. While these dynamics are undeniably real, the article tends to minimize the genuine, subjective desire for autonomy experienced by many individuals. For thousands of people—such as working mothers, second-career professionals, craftspeople, or those fleeing toxic corporate environments—the ability to escape managerial harassment and manage their own time represents a meaningful improvement in quality of life, even with lower financial predictability.
+	- **The Question of Secondary Activities (*Complément de revenu*):**
+		  A significant portion of *auto-entrepreneurs* do not rely on the status as their primary livelihood. For many, it is simply a secondary, weekend activity alongside a stable, full-time salaried job. Lumping all self-employed workers into the single category of an exploited, gig-economy underclass risks flattening the immense sociological diversity of the self-employed population.
+	- **Sampling Boundaries:**
+		  Her qualitative interview sample focuses heavily on specific urban service sectors (transport, consulting, communications), which may over-represent the most acute forms of platform dependence and bogus self-employment compared to rural or traditional artisanal activities.
+- Thoses two Sociology analysis are very left handed (as sociology is majoritarely left handed in general).
+	1. For "*Sociologie Générale*", ???
+	2. The same reasoning applies for the second text: while some reference of the GIG, the shortcomings of sole-traders, are made, we still have to extrapolate with other texts & researchs to show negative asspects.
 
--->
+### SLIDE xX: TY & Sources
+
+Thank you very much for your attention!
