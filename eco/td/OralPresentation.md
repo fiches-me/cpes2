@@ -47,31 +47,33 @@ Boltanski and Chiapello formulate a definition that is both precise and delibera
 
 Notice something crucial here: following the great French economic historian **Fernand Braudel**, we must establish a radical conceptual distinction between **Capitalism** and the **Market Economy**. **Capitalism is the behavior, while Market Economy is the system supporting it.**
 
-A market economy is merely an ancient, localized mechanism of trade and exchange—it is the horizontal infrastructure where goods and services meet demand. Capitalism, by contrast, is a specific *behavior*: a relentless, vertical drive toward the unlimited accumulation of abstract capital & the usage of **wage employment**, *and you should keep in mind this second point for later*.
+A market economy is merely an ancient, localized mechanism of trade and exchange—it is the horizontal infrastructure where goods and services meet demand. Capitalism, by contrast, is a specific *behavior*:
 
-<!--
-
-### SLIDE 4: The Two Pillars & The Kantian Dove
-
-Sociologically speaking, modern capitalism stands upon **two structural pillars**:
+Sociologically speaking, this behavior stands on **two structural pillars**:
 1. **The imperative of unlimited capital accumulation pursued through formally peaceful means** (as opposed to brute conquest, piracy, or feudal pillage).
 2. **The wage-earning employment system** (*le salariat*)—which means the legal, contractual subordination of human labor to the owners of capital.
 
-Now, take a moment to look at that second pillar. From the perspective of pure individual rationality, **the wage-labor contract is an absurdity**. Why would an autonomous human being voluntarily forfeit their time, surrender the surplus value of their labor, and submit to the command of a boss in exchange for a wage, while the owners reap the endless profits? 
+### SLIDE 4: The Two Pillars & The Kantian Dove
+
+Now, take a moment to look at that second pillar. From the perspective of pure individual rationality, **the wage-labor contract is an absurdity**. *Why would an autonomous human being voluntarily forfeit their time, surrender the surplus value of their labor, and submit to the command of a boss in exchange for a wage, while the owners reap the endless profits?*
 
 Furthermore, as Boltanski and Chiapello point out:
 
-> *"Capitalism is an ordering form of collective practices perfectly detached from the moral sphere, in the sense that it finds its quality purely within itself."*
+> *"le capitalisme est une forme ordonnatrice de pratiques collectives parfaitement détachées de la sphère morale au sens où elle trouve sa qualité en elle-même"*
 
-Capitalism has no internal morality. It has no intrinsic sense of justice, brotherhood, or decency. Its only mathematical imperative is: *M – C – M’*—money generating more money.
+Capitalism has no internal morality. It has no intrinsic sense of justice, brotherhood, or decency. *Money generating more money.*
 
-To explain the vulnerability of this amoral system, the authors invoke a famous metaphor from the philosopher **Immanuel Kant**: **the metaphor of the dove**. 
+<!--
+
+To explain the vulnerability of this amoral system, the authors invoke a famous metaphor from the philosopher **Kant**: **the metaphor of the dove**. 
 
 `[PAUSE]`
 
 Kant observed that a dove, feeling the friction and air resistance against its wings as it flies, might imagine that if only it could fly in an absolute vacuum, it could soar infinitely faster and higher without any drag. But of course, Kant reminds us, if you remove the air and place the dove in a vacuum, the bird plummets to the ground and dies. The very air that resists its flight is the only medium that supports its wings.
 
 Boltanski and Chiapello argue that **capitalism is exactly like Kant’s dove**. Capitalism constantly dreams of a moral vacuum—a deregulated world free of labor unions, free of environmental laws, free of ethical friction. But if it ever operated in a total vacuum, it would self-destruct through social revolt and nihilism. To fly and endure, capitalism must find a supportive atmosphere outside of itself.
+
+<!--
 
 `[SLIDE 5: The Need for an "Esprit" and the Two Rationalities]`
 
