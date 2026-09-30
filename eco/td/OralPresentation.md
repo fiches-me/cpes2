@@ -110,34 +110,34 @@ And how does this spirit evolve over time? It evolves through a dialectic driven
 
 As we will now see, whenever capitalism faces a crisis of legitimacy, it survives by absorbing, co-opting, and neutralizing these critiques, giving birth to a succession of historical spirits.
 
----
+-->
+
+# [...]
 
 ## Part 2: The Three Historical Spirits of Capitalism
 
-`[SLIDE 6: Comparative Overview of the 3 Spirits]`
+### SLIDE 6: Comparative Overview of the 3 Spirits
 
 In their historical inquiry, Boltanski and Chiapello identify three distinct stages in the evolution of capitalism and corporate organization. Each stage corresponds to a unique corporate architecture, an idealized hero, a dominant moral code, and what they term "justification polities" or "cities" (*les cités de justification*).
 
-Let us walk through this remarkable organizational metamorphosis.
+Thoses three states are called "Spirits". Let's quickly take a look at each of them: 
 
-#### 1. The First Spirit: The Bourgeois Patriarch (Late 19th Century to 1930)
-
-`[SLIDE 7: The 1st Spirit - The Domestic & Market Cities]`
+#### 1. The First Spirit: The Bourgeois Patriarch (Late 19th Century to 1930) - The Domestic & Market Cities
 
 The first spirit corresponds to the early phase of industrial expansion, running from the late 19th century up to the Great Depression of the 1930s.
 
-- **The Heroic Figure:** The central character here is the **Bourgeois Entrepreneur**—the family patriarch celebrated by Werner Sombart.
-- **The Corporate Morphology:** Small workshops, family-owned factories, and early manufacturing establishments. Ownership and executive management are concentrated in the very same hands.
+- **The Heroic Figure:** The central character here is the **Bourgeois Entrepreneur**—the family patriarch celebrated by Werner Sombart. *If we go back to our course, it's the Capitalist Entrepreneur.*
+- **The Corporate Morphology:** Small workshops, family-owned factories, and early manufacturing establishments. Ownership and executive management are concentrated in the very same hands. 
 - **The Prevailing Morality:** The virtues of this spirit are **frugality, personal savings, probity, and the intergenerational accumulation of family patrimony**.
 - **Justification Polities:** This era merges the **Domestic City** with the **Market City**. 
   - Why *Domestic*? Because the factory is managed like an extended patriarchal family. Authority is direct, personalized, and paternalistic. The patron promises protection and moral guidance to his workers, in exchange for absolute obedience.
   - The liberation it promised back then was the legal choice of one’s social estate, breaking free from feudal and aristocratic servitudes.
 
 However, this paternalistic capitalism suffered from cronyism, vulnerability to market panics, and brutal working conditions that sparked ferocious social conflict.
+ 
+ <!--
 
-#### 2. The Second Spirit: The Managerial Firm and the Fordist Pact (1930s to 1960s/70s)
-
-`[SLIDE 8: The 2nd Spirit - Industrial & Civic Cities]`
+#### 2. The Second Spirit: The Managerial Firm and the Fordist Pact (1930s to 1960s/70s) - Industrial & Civic Cities
 
 Following the catastrophic crisis of 1929 and the Second World War, capitalism underwent a structural revolution. Family workshops were replaced by the **Classical Managerial Firm**—what Alfred Chandler famously termed the **U-Firm** (the Unitary, vertically integrated bureaucracy).
 
@@ -159,6 +159,8 @@ Look at the extraordinary quote cited in our plan:
 > *"Hierarchy is not challenged, but it is henceforth grounded on merit and responsibility. Decentralization and Management by Objectives (MBO) foster autonomy, all the more so because this autonomy is linked to job security. The corporation is entrusted with a central role in social progress, and management serves democracy, with the Welfare State completing this arrangement in perfect harmony."* *(p. 8)*
 
 `[EMPHASIS]` This was the golden age of the **Fordist Compromise** and the Welfare State (*l'État-providence*). Workers submitted to repetitive assembly lines, but in return, they received permanent employment contracts (*CDI*), predictable career ladders, expanding pensions, paid vacations, and institutional union representation. Autonomy and job security were mutually reinforcing.
+
+<!--
 
 #### 3. The Crisis of May 1968 and the Great Managerial Co-optation
 
