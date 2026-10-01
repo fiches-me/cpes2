@@ -65,7 +65,7 @@ Sociologically speaking, this behavior stands on **two structural pillars**:
 1. **The imperative of unlimited capital accumulation pursued through formally peaceful means** (as opposed to brute conquest, piracy, or feudal pillage).
 2. **The wage-earning employment system** (*le salariat*)—which means the legal, contractual subordination of human labor to the owners of capital.
 
-### SLIDE 4: The Two Pillars & The Kantian Dove
+### SLIDE 4: The Kantian Dove
 
 Now, take a moment to look at that second pillar. From the perspective of pure individual rationality, **the wage-labor contract is an absurdity**. *Why would an autonomous human being voluntarily forfeit their time, surrender the surplus value of their labor, and submit to the command of a boss in exchange for a wage, while the owners reap the endless profits?*
 
@@ -129,6 +129,8 @@ The first spirit corresponds to the early phase of industrial expansion, running
 - **The Heroic Figure:** The central character here is the **Bourgeois Entrepreneur**—the family patriarch celebrated by Werner Sombart. *If we go back to our course, it's the Capitalist Entrepreneur.*
 - **The Corporate Morphology:** Small workshops, family-owned factories, and early manufacturing establishments. Ownership and executive management are concentrated in the very same hands. 
 - **The Prevailing Morality:** The virtues of this spirit are **frugality, personal savings, probity, and the intergenerational accumulation of family patrimony**.
+
+
 - **Justification Polities:** This era merges the **Domestic City** with the **Market City**. 
   - Why *Domestic*? Because the factory is managed like an extended patriarchal family. Authority is direct, personalized, and paternalistic. The patron promises protection and moral guidance to his workers, in exchange for absolute obedience.
   - The liberation it promised back then was the legal choice of one’s social estate, breaking free from feudal and aristocratic servitudes.

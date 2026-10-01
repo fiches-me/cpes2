@@ -91,14 +91,14 @@ Face à ces contestations, le capitalisme et ses firmes peuvent réagir de trois
 
 À chaque grand cycle historique du capitalisme correspond une morphologie organisationnelle spécifique de la firme, une figure héroïque, un mode de coordination et des principes de justification [[Sociologie générale - Fichier 2.pdf#page=6|p. 261]].
 
-| Dimension d'analyse | 1er Esprit (Fin XIXe siècle) | 2e Esprit (1930 - 1960/70) | 3e Esprit (Années 1990...) |
-| :--- | :--- | :--- | :--- |
-| **Structure de la firme** | Firme patronale et familiale, ateliers et premières manufactures | **Grande entreprise bureaucratique intégrée** (modèle fordiste/fayolien) | **Firme-réseau**, organisation par projets, entreprise « maigre » (*lean*) |
-| **Figure centrale** | Le bourgeois entrepreneur (Sombart) | **Le directeur salarié et le « cadre »** | **L'entrepreneur de soi**, le travailleur nomade et autonome |
-| **Mode de contrôle** | Domination personnalisée, autorité patriarcale | Hiérarchie formelle, règles bureaucratiques, **direction par objectifs (DPO)** | **Contrôle marchand**, évaluation permanente sur résultats et réputation |
-| **Principes moraux** | Épargne, probité, accumulation patrimoniale | Compétence technique, dévouement à l'organisation, fidélité | **Flexibilité, employabilité, connectivité**, polyvalence |
-| **Cités de référence** | Cité domestique & Cité marchande | **Cité industrielle** (efficacité) & **Cité civique** (progrès social) | **Cité par projets** (connexionnisme, réseau) |
-| **Compromis salarial** | Statut social choisi, paternalisme patronal | **Sécurité de l'emploi**, carrières stables, État-providence | **Autonomie au travail contre précarisation** des statuts |
+| Dimension d'analyse       | 1er Esprit (Fin XIXe siècle)                                     | 2e Esprit (1930 - 1960/70)                                                     | 3e Esprit (Années 1990...)                                                 |
+| :------------------------ | :--------------------------------------------------------------- | :----------------------------------------------------------------------------- | :------------------------------------------------------------------------- |
+| **Structure de la firme** | Firme patronale et familiale, ateliers et premières manufactures | **Grande entreprise bureaucratique intégrée** (modèle fordiste/fayolien)       | **Firme-réseau**, organisation par projets, entreprise « maigre » (*lean*) |
+| **Figure centrale**       | Le bourgeois entrepreneur (Sombart)                              | **Le directeur salarié et le « cadre »**                                       | **L'entrepreneur de soi**, le travailleur nomade et autonome               |
+| **Mode de contrôle**      | Domination personnalisée, autorité patriarcale                   | Hiérarchie formelle, règles bureaucratiques, **direction par objectifs (DPO)** | **Contrôle marchand**, évaluation permanente sur résultats et réputation   |
+| **Principes moraux**      | Épargne, probité, accumulation patrimoniale                      | Compétence technique, dévouement à l'organisation, fidélité                    | **Flexibilité, employabilité, connectivité**, polyvalence                  |
+| **Cités de référence**    | Cité domestique & Cité marchande                                 | **Cité industrielle** (efficacité) & **Cité civique** (progrès social)         | **Cité par projets** (connexionnisme, réseau)                              |
+| **Compromis salarial**    | Statut social choisi, paternalisme patronal                      | **Sécurité de l'emploi**, carrières stables, État-providence                   | **Autonomie au travail contre précarisation** des statuts                  |
 
 > [!TIP] Lien avec le Texte 3 : Prolongement de la typologie vers « l'auto-emploi » et les plateformes
 > Le texte d'Abdelnour montre l'aboutissement contemporain de cette trajectoire :
