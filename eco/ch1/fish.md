@@ -1,36 +1,179 @@
-# Fisher Mi-S1
+---
+draft: true
+title: 🐟 Fish Mi-S1
+---
+
+# 🐟 Fish Mi-S1
 
 ## Chapitre 1 : Entreprises et Gouvernances
 
 ### Intro :
-- entrepreneur capitaliste (Jaques Turgot)
-- entrepreneur innovateur (Schumpter)
-- neoclassique black box (Ronald Coase) -> Utiliser le marcher demande du temps. 
 
-### G1:
+#### Premiers éléments de définitions
+
+- **unité légales de décision autonomes**
+- **profit** (pas focément maximisé)
+- **production marchande**
+
+| 🇫🇷 France (Insee)                                              | 🇬🇧 United Kingdom (ONS)                               |
+| ---------------------------------------------------------------- | ------------------------------------------------------- |
+| Microentreprises (-10e et -2M€/ans)                              | Micro entreprises (-10e)                                |
+| Petites entreprises (-50e)                                       | Small entreprises (-50e)                                |
+| PME<br>(Petites et Moyennes Entreprises)<br>(-250e et -50M€/ans) | SMEs<br>(Small and Medium-Sized entreprises)<br>(-250e) |
+| Entreprises de Taille intermédiaires (ETI)                       |                                                         |
+| Grandes Entreprises (GE)                                         | Large entreprises                                       |
+
+#### L’entrepreneur capitaliste
+
+> Jaques Turgot
+
+- Chef de famille (patriarcat)
+- Sous sous
+
+À partit de l'age de la métallurgie, il faut réunir plus de capital (famille + famille). On crée alors de nouveaux statuts légaux :
+
+- Les **SNC** (Sociétés en nom collectifs) : des entrepreneurs capitalistes s'associent pour avoir plus de capital (unir des famille autrement que par le mariage)
+- Les **SC** (Société en Commandité) : équivalent des SNC mais possède une *identité juridique*. **Introduction des liquidations judiciaires.**
+- Les **SA** (Société Anonyme) : équivalent des SNC mais des personnes étrangères à l'entreprise peuvent investir dedans. *On peut alors découper le capital en actions.*
+  → *En anglais : Public Limited Company*
+- Les **SARL** (Société Anonyme à responsabilité limitée) : certain investisseurs sont à l’intérieur de l'entreprise. *Entre-deux entre SA et SNC.* Arrive en France en 1925.
+
+#### L’entrepreneur innovateur/**Schumpeterien**
+
+> Schumpter
+
+- Importance de l'idée, de l'innovation, de la prise de risque
+- Innovations par « grappes »
+
+#### L’existence de la firme chez les néoclassiques
+
+> Ronald Coase
+
+- L’entreprise comme une « boîte noire » dans la théorie néoclassique (modèle du
+producteur).
+     → On ne regarde que l'output, pas comment il est fait   
+ - Utiliser le marcher demande du temps
+ - 
+
+### I – Le développement de la grande entreprise et de sa gouvernance
+
+#### La division du travail au sein des entreprises
+
+##### L’organisation scientifique du travail
 
 - fordisme
-- toyotisme
-- firmes unitaires et multidivisionelles
+- toyotisme et règle des 5 zéros
+	1. 0 défaut (*pas de retours*)
+	2. 0 papiers (*bureaucratie/managérial*)
+	3. 0 arrêt (*pas d'arrêt de la chaîne de travail*)
+	4. 0 stock *(production directe, donc pas de coût d'entrepôt)*
+	5. 0 délais (*production en fonction de la demande*)
+
+##### Les formes d’organisation de l’entreprise productive : **Unitaires** et **Multidivisionelles** 
+
+```mermaid
+flowchart TB
+    D["Direction générale"]
+
+    D --> T1["Production"]
+    D --> T2["Administration"]
+    D --> T3["Commerciaux"]
+    D --> T4["R&D"]
+
+    T2 --> P21["Activité/Produit 1"]
+    T2 --> P22["Activité/Produit 2"]
+    
+    classDef director fill:#eef2ff,stroke:#818cf8,stroke-width:2px
+    classDef team fill:#f0fdfa,stroke:#2dd4bf,stroke-width:2px
+    classDef person fill:#f5f3ff,stroke:#a78bfa
+
+    class D director
+    class T1,T2,T3,T4 team
+    class P21,P22 person
+```
+
+```mermaid
+flowchart LR
+    D["Direction générale"] --> M["Manager"]
+
+    M --> T1["Division 1"]
+    M --> T2["Division 2"]
+    M --> T3["Division 3"]
+    M --> T4["Division 4"]
+    
+    T1 --> P1["..."]
+
+    T2 --> P21["RH"]
+    T2 --> P22["Experts"]
+    T2 --> P23["Commerciaux"]
+    T2 --> P24["R&D"]
+    
+    T3 --> P3["..."]
+    T4 --> P4["..."]
+    
+    classDef director fill:#eef2ff,stroke:#818cf8,stroke-width:2px
+    classDef team fill:#f0fdfa,stroke:#2dd4bf,stroke-width:2px
+    classDef person fill:#f5f3ff,stroke:#a78bfa
+    classDef manager fill:#f5f3ff,stroke:#ff5555
+
+    class D director
+    class M manager
+    class T1,T2,T3,T4 team
+    class P1,P21,P22,P23,P24,P3,P4 person
+```
+
+#### Le rôle de la hiérarchie
+
+##### L’arbitrage entre making et buying
+
 - coûts de transaction et coût d'organisation interne
+
+![[Pasted image 20261003104731.png|376]]
+
+|                                  | **Marché**    | *Hybride*      | **Hiérarchie**    |
+| -------------------------------- | ------------- | -------------- | ----------------- |
+| Capacité d'adaptation autonome   | ++            | +              | 0                 |
+| Capacité d'adaptation coordonnée | 0             | +              | ++                |
+| Intensité de l'incitation        | ++            | +              | 0                 |
+| Degré de contrôle administratif  | 0             | +              | ++                |
+| **Type de contrat**              | **Classique** | *Néoclassique* | **Subordination** |
+
+##### Les managers dans l’entreprise
+
+> Alfred Chandler (1977) The Visible Hand
+
+Ces différentes approches préparent l'analyse *incontournable* de **Adolf Berle & Gardiner Means** sur les **managers**.
 
 Paul Delorme (puis Jean Delorme), patron d'Air Liquide, possède 80 % des actions au XXe siècle. Il perd peu à peu le capital, jusqu'à finalement être expulsé de l'entreprise en 1953.
 
-On observe donc un passage de pouvoir du propriétaire familial au manager.
+**On observe donc un passage de pouvoir du propriétaire familial au manager.**
 
-### G2: Les différents modes de financement des entreprises et leur gouvernance
+### II: Les différents modes de financement des entreprises et leur gouvernance
+
 #### Modes de financement et structures économiques
+
 ##### Le développement du financement externe au XIXème siècle
+
 ###### Le développement du financement indirect
+
 - financement direct et indirect
 
-Au XIXe siècle, le financement extérieur est peu utilisé, pour des raisons d'éthique et de manque d'offre (et de demande). Mais la révolution industrielle demande à être financée : les « high banks » se développent au Royaume-Uni. Des banques centrales sont créées, la première en Europe sera la Banque de Belgique. Des banques mixtes collectent l'épargne et la réinvestissent.
+- XIXe siècle: **financement extérieur peu utilisé** pour des raisons d'éthique et de manque d'offre (et de demande).
+- La révolution industrielle **demande à être financée**
+	- les « high banks » se développent au Royaume-Uni. 
+	- Création de banque centrales (Belgique first en europe)
+	- Des banques mixtes collectent l'épargne et la réinvestissent.
 
 En France, on a rejeté ce système pendant longtemps. Henry Germain, le fondateur du Crédit lyonnais (LCL), banque de dépôt uniquement, dit que la sécurité d'une banque de dépôt est incompatible avec celle des entreprises industrielles. Les banques mixtes arrivent à la fin du XIXe siècle.
 
 ###### Le développement du financement direct
 
+x
+
 ##### La justification économique du recours aux modes de financement externes
+
+x
+
 ##### Quel mode de financement pour quelle structure de l’économie ?
 
 > [!info] Rappel
@@ -44,23 +187,108 @@ En France, on a rejeté ce système pendant longtemps. Henry Germain, le fondate
 > Il existe deux approches :
 > - **M0** → **M3** :
 > - **M3** → **M0** : *Diviseur monétaire Keynésien*. Approche par la demande qui se répercute sur la banque centrale.
+
+x
+
 #### Les limites de la séparation entre la propriété et la gestion de l'entreprise
+
 ##### La divergence des objectifs entre les acteurs de l’entreprise
+
+x
+
 ##### La théorie de l’agence
+
+x
+
 ##### Manager ou contrôler ?
-### Grandes transformations depuis les années 70 et la financiarisation de l'économie
+
+x
+
+### III: Grandes transformations depuis les années 70 et la financiarisation de l'économie
+
 #### Les grandes ruptures du système financier
-##### Rappels sur les crises associées aux chocs pétroliers des années 1970
-##### La grande période de concentration et l'apogée du modèle taylorofordiste
-##### Le New Deal post-crise de 1929 et l'internationalisation de la production mondiale
+
+##### Éléments historiques : les Trente Glorieuses et leur chute
+
+- Rappels sur les crises associées aux chocs pétroliers des années 1970
+	- Guerre israélo-arabe de 1973 (guerre du Kippour/Ramadan).
+	- Révolution iranienne de 1979.
+- La grande période de concentration et l'apogée du modèle taylorofordiste
+	- Influence de l’économie de guerre
+- Le New Deal post-crise de 1929 et l'internationalisation de la production mondiale
+	- GATT (General Agreement on Tariffs and Trade) en 1947.
+	- CEE (Communauté Économique Européenne) en 1957.
+
+**Début du libéralisme économique avec la réforme Debré-Haberer en France.**
+
 #### La gouvernance des entreprises dans un capitalisme financiarisé
 
-##### Historique du néolibéralisme
+##### Le néolibéralisme et la financiarisation de l’économie
 
-##### L'analyse d'Henri Bourguinat (1992, *Finance internationale*)
+- Historique du néolibéralisme
+	- Rappel : Néolibéralisme → moins de participation de l'état
+	- 1980 : **Ronald Reagan** (US) & **Margaret Thatcher** (UK) → dérégulation financière, affaiblissement des syndicats, baisse des impots 
+	- France : 83, Relance Mauroy échoue, **tournant de la rigueur** → engagement dans la dérégulation financière 
+- L'analyse d'Henri Bourguinat (1992, *Finance internationale*)
+	- Règle des 3-D
+		1. Dérégulation
+		2. Décloisonnement
+		3. Désintermédiation
+
+Baisse du taux d'intermédiation → plus de financement via bourse (autres marchés, voir juste après).
+
 #### Une nouvelle division du travail entre petites et grandes entreprises
+
 ##### Le fonctionnement des marchés de capitaux en France
+
+1. **Marché monétaire** : échange de liquidités
+2. **Marché des TCN** : dettes privés ou publiques
+3. **Marché financier au sens strict** : capitaux à long terme
+	1. *Marché primaire* : actions non vendus
+	2. *Marché secondaire (ou Bourse)* : échange d'actions
+	3. *Marché obligataire* : émission et échange de titres de créance à long terme (ou obligations).
+	4. *Open market* : régulation de la banque centrale
+4. **Marché des dérivés** : Échange de contrats sur d'autres actifs.
+   → Forte croissance après sa dérégulation.
+
 ##### Tendances récentes sur les structures financières
+
+![[Pasted image 20261003110019.png]]
+
+Plus d'aglomérations d'entreprises →Moins d'entreprises cotés → **moins d'information**
+
 ##### Conséquences sur la gouvernance des entreprises
+
+Ce mode de financement met fin au **capitalisme managérial** pour laisser place au **capitalisme financier**. 
+
+> Le Nouvel Esprit du Capitalisme, TP 2
+
+| Cité               | Principes supérieurs communs                      | « Grand »                        |
+| :----------------- | :------------------------------------------------ | :------------------------------- |
+| Domestique         | - Tradition<br>- Famille<br>- Hiérarchie          | Le père, l'ancien, le patron     |
+| Industrielle       | - Efficacité<br>- Savoir<br>- Savoir-faire        | Le professionnel, l'expert       |
+| Civique            | - Représentativité<br>- Collectif<br>- Démocratie | Le délégué, l'élu                |
+| Inspirée           | - Créativité<br>- Authenticité<br>- Imagination   | Le poète, l'artiste, l'enfant    |
+| Marchande          | - Interet<br>- Egosime<br>- Rivalite              | L'homme d'affaire, le challenger |
+| De l’opinion       | - Renommée<br>- Gloire<br>- Notoriété             | la vedette, le médiatisé         |
+| **Cité de projet** | Surplante la critique artistique                  |                                  
+
 ##### Le rôle des PME dans l'innovation
+
+- Ecosystème propice : profiter de l'innovation local pour innover 
+- Trop de risque pour une grande entreprise, délégué aux PME (ex: Toyota → Kayaba)
+- Bcp d'emplois (2/3 en 2007) jeunes
+
 ### Conclusion
+
+Dans tout le III et globalement tout le chapitre, nous avons vu le corporate governance model, ou *shareholders model*. Ce modèle a fait l'objet de critiques, à partir des années 80 et de la dérégulation de la sphère financière. Les crises économiques, la bulle internet, la crise de 2007... Dans l'entreprise, on remet donc en cause ce modèle pour le système *stakeholder* (**parti-prenante**). Les salariés, mais aussi les partenaires, fournisseurs voir même impactés (type pollution) pourrait être impliqués. Il faut éviter la poursuite des objectifs individuels et faire converger tout ses intérêts vers un intérêt collectif.
+
+Cela vient donc combattre la théorie de l'agence, et propose donc des méchanismes pour motiver cette implication. *C'est le succès de son efficience.*
+
+La santé de l'entreprise ne devrait pas uniquement être financière mais aussi environmental/sociétal 
+
+## TD #1
+
+## TD #2
+
+> Voir notes d'oral.
