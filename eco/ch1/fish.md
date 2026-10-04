@@ -9,34 +9,6 @@ title: 🐟 Fish Mi-S1
 
 ### Intro :
 
-#### Premiers éléments de définitions
-
-- **unité légales de décision autonomes**
-- **profit** (pas focément maximisé)
-- **production marchande**
-
-| 🇫🇷 France (Insee)                                              | 🇬🇧 United Kingdom (ONS)                               |
-| ---------------------------------------------------------------- | ------------------------------------------------------- |
-| Microentreprises (-10e et -2M€/ans)                              | Micro entreprises (-10e)                                |
-| Petites entreprises (-50e)                                       | Small entreprises (-50e)                                |
-| PME<br>(Petites et Moyennes Entreprises)<br>(-250e et -50M€/ans) | SMEs<br>(Small and Medium-Sized entreprises)<br>(-250e) |
-| Entreprises de Taille intermédiaires (ETI)                       |                                                         |
-| Grandes Entreprises (GE)                                         | Large entreprises                                       |
-
-#### L’entrepreneur capitaliste
-
-> Jaques Turgot
-
-- Chef de famille (patriarcat)
-- Sous sous
-
-À partit de l'age de la métallurgie, il faut réunir plus de capital (famille + famille). On crée alors de nouveaux statuts légaux :
-
-- Les **SNC** (Sociétés en nom collectifs) : des entrepreneurs capitalistes s'associent pour avoir plus de capital (unir des famille autrement que par le mariage)
-- Les **SC** (Société en Commandité) : équivalent des SNC mais possède une *identité juridique*. **Introduction des liquidations judiciaires.**
-
-Dans tout le III et globalement tout le chapitre, nous avons vu le corporate governance model, ou *shareholders model*. Ce modèle a fait l'objet de critiques, à partir des années 80 et de la dérégulation de la sphère financière. Les crises économiques, la bulle internet, la crise de 2007... Dans l'entreprise, on remet donc en cause ce modèle pour le système *stakeholder* (**parti-prenante**). Les salariés, mais aussi les partenaires, fournisseurs voir même impactés (type pollution) pourrait 
-
 #### Premiers éléments de définition
 
 - **unités légales de décision autonomes**
@@ -80,6 +52,7 @@ Dans tout le III et globalement tout le chapitre, nous avons vu le corporate gov
 - L’entreprise comme une « boîte noire » dans la théorie néoclassique (modèle du producteur).
   → On ne regarde que l'output, pas comment il est fait
 - Utiliser le marché demande du temps
+  **→ coûts de transaction** : le marché n'est pas gratuit ! temps, négo, contrats...
 
 ### I – Le développement de la grande entreprise et de sa gouvernance
 
@@ -87,13 +60,15 @@ Dans tout le III et globalement tout le chapitre, nous avons vu le corporate gov
 
 ##### L’organisation scientifique du travail
 
-- fordisme
-- toyotisme et règle des 5 zéros
+- taylorisme (one best way)
+- fordisme (travail à la chaine)
+- toyotisme (règle des 5 zéros)
 	1. 0 défaut (*pas de retours*)
 	2. 0 papier (*bureaucratie/managérial*)
 	3. 0 arrêt (*pas d'arrêt de la chaîne de travail*)
 	4. 0 stock *(production directe, donc pas de coût d'entrepôt)*
 	5. 0 délai (*production en fonction de la demande*)
+    → Avis de l'ouvrier
 
 ##### Les formes d’organisation de l’entreprise productive : **unitaires** et **multidivisionnelles**
 
@@ -206,7 +181,8 @@ Entreprises en bourses
 
 ##### La justification économique du recours aux modes de financement externes
 
-- - rapide que les banques, car moins d'informations à avoir/demander (une banque prête pas à n'importe qui)
+- 
+- +rapide que les banques, car moins d'informations à avoir/demander (une banque ne prête pas à n'importe qui)
 - défaut : pas d'info = freerider. Bulles de spéculations.
 
 ##### Quel mode de financement pour quelle structure de l’économie ?
@@ -220,7 +196,7 @@ Entreprises en bourses
 > 4. **M3** : monnaie mobilisable en moins de 2 ans.
 >
 > Il existe deux approches :
-> - **M0** → **M3** :
+> - **M0** → **M3** : Multiplicateur de crédit
 > - **M3** → **M0** : *Diviseur monétaire keynésien*. Approche par la demande qui se répercute sur la banque centrale.
 
 x
@@ -228,13 +204,15 @@ x
 #### Les limites de la séparation entre la propriété et la gestion de l'entreprise
 
 ##### La divergence des objectifs entre les acteurs de l’entreprise
-ntérêts divergents entre les managers et les actionnaires
+
+Intérêts divergents entre les managers et les actionnaires
 
 ##### La théorie de l’agence
 
 - conflit d'interet
 - changement d'avis après contrat (divergence morale)
 - asymétrie d'informations
+
 ##### Manager ou contrôler ?
 
 Équilibre pour ne pas exclure ni actionnaires ni managers
@@ -245,6 +223,7 @@ ntérêts divergents entre les managers et les actionnaires
 |        *Ratification*         |     *Control*      |    *Board of directors*     |
 |        Implementation         |      Decision      |     Executive Managers      |
 |         *Monitoring*          |     *Control*      |    *Board of directors*     |
+
 ### III – Grandes transformations depuis les années 70 et la financiarisation de l'économie
 
 #### Les grandes ruptures du système financier
