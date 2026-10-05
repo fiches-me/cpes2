@@ -65,3 +65,58 @@ Un dioxygène perdu/gagné permet de changer de forme et d’entraîner les autr
 Le sang transporte donc mieux le dioxygène de carbone quand il est désoxygéné (voir graphs). C'est ce qu'on appel **effet Haldane**. Le hb, désoxy-hémoglobine (hémoglobine sans O2) a une affinité supperieur que l'oxy-hémoglobine (l'affinité n'est pas nul mais presque).
 
 > Équipement protéique transport de gaz.
+
+> Rappel Hématite
+
+Cellules biconcaves avec amincissement au milieu donc plus efficace
+Cellules plus abondantes du sang
+Déformabilité réversible qui permet de se faufiler dans les ptit capilaires
+
+L'équipement protéique au sein de la cellule permet 
+
+> Voir Eléa, chlorure shift, effet hamburger
+
+L'anhydrase carbonique permet la réaction (**rapide**) de H2CO3 vers CO2 vers les alvéoles pour expulser le CO2. *L'enzyme est donc disponible dans le sang.* Mais elle catalyse dans les deux sens
+![[Pasted image 20261005143600.png]]
+
+Forme relaché vers tendu 
+
+Protéines effet tampon pour aspirer des H+ et faire tampon sur l'acidification
+
+BILAN
+1. L'hémoglobine (structure et fonctionnement): molécule de transport qui assure les gaz (O2 et CO2) et sans elle inefficace
+
+2. Quantité de transporteurs, aka d'hémoglobines, limite la quantité de dioxygène transportable. Relier la concentration de globule rouge, *diverses anémies* à cette diminution de capacité du sang à transporter de l'O2 et donc essoufflement et tt
+
+3. La quantité de gaz échangé est largement modulable dans l'oganisme. Control possible de variations par la **convenction**, *mise en route du fluide*, mais aussi convection de l'air
+
+![[Pasted image 20261005145313.png]]
+
+### Transport des nutriments
+
+Transport de glucose, acide gras et acides amniés pour les ammener ou il faut. Le glucose et les acides gras dans le sang, les acides amniés dans la lymphe.
+
+Perméases GLUT : transport passif dans le sens du gradient de concentration
+- Exemple : GLUT4 dans certains tissus sensibles à l’insuline
+Passage du sang veineux par le foie (veine porte hépatique) :
+- Le foie sert de plateforme métabolique centrale
+- Transformation et mise en réserve de certains nutriments (glucides,
+acides aminés, vitamines)
+
+### Transports de déchets
+
+Certaines protéines defectueuses ou plus utile sont déversés dans le sang
+
+Si trop de protéines dans le sang, cela veux dire qu'un truc marche pas très bien
+
+Dangereux car remplis la concentration d'acide aminées.
+
+![[Pasted image 20261005150554.png]]
+
+Filtration du sang, **ultrafiltration**, avec désabsorbtion de l'eau puis réabsorbtion partielle. Filtratrion des nutriments,  H2O, Sels (type lactate) réabsorbés partiellement. Urée dégagée complètement, et Sels, H2O en partie envoyé dans l'urée
+
+Néogucogénèse : reformation de glucose dans le foix réinjécté dans le sang ou sotcké sous forme de glycogène 
+
+## Fonctions de communications
+
+Le sang est également utilisé comme medium de communication entre les organes. 

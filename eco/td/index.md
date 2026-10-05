@@ -15,11 +15,11 @@ title: "✒️ Économie : TDs"
 
 ### Résumé / explication globale
 
-Apports du text
+Apports du texte
 
-### Enjeux → Qu'es ce qui implique ?
+### ==Enjeux → Qu'est ce cela implique ?==
 
-Lien avec l'actualitée
+Lien avec l'actualité
 
 ### Limites/critiques
 

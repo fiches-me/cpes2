@@ -22,6 +22,15 @@ int[] tab = new int[10]
 String[] tab = new String[12]
 ```
 
-## Autres tableaux
+## Tableaux de longueur infinie : **ArrayLists**
 
-Il est également possible de faire des tableaux sans longeur finie. ArrayLists
+Les **ArrayLists** sont des listes sans longueur spécifique. On les initialise avec new (type composé) et un type (les éléments de la liste doivent tous être du même type) :
+
+```java
+private ArrayLists<String> noms;
+this.nom = new ArrayLists<String>();
+```
+
+Quelques points importants :
+- **Il y a des parenthèses via le `new`, mais pas autre part.**
+- **Le type à l’intérieur de l'`ArrayList` doit être un type composé. Pour les `int`, on utilise `Integrer`.** 
