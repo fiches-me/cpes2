@@ -69,4 +69,23 @@ $$\mathbb{P}(\mu \in [\bar{X_n} - q_{1 - \frac \alpha 2} \frac{\sigma}{\sqrt{n}}
 
 ### 2. Variance Inconnue
 
+On va utiliser la même formule mais avec une estimation de la variance
+
+> [!définition] Définition : Écart Type Corrigé
+> L'écart type corrigé d'une série de réalisation $(X_i)_{1 \le i \le n}$ es
+> 
+> $$S_n^2 = \frac{1}{n-1} \sum_{i = 1}^n (X_i - \bar{X_n})$$
+
+Il faut maintenant étudier la loi que suit $(\bar{X_n} - \mu ) \frac{\sqrt n}{S_n}$ pour pouvoir appliquer notre preuve précédente.
+
+> [!définition] Loi du **chi-2** 
+> Soit $(X_i)_{1 \le i \le n}$ des vaaid selon des $\mathcal{N}(0, 1)$. Alors la loi de $\mathcal{Z} = \sum_{i=1}^n X_i^2$ est appelé loi du $\chi ^2$ à n degrés de libertés et on note $\mathcal{Z} \sim \chi_n^2$.
+> 
+> Cette loi vérifie $\mathbb{E} = n$ et $\mathbb{V} = 2n$
+
+On admet que, avec $(X_i)_{1 \le i \le n}$ vaaid $\sim \mathcal{N}(\mu, \sigma^2)$, $\color{red}\frac{n - 1}{\sigma ^2} S_n^2 \sim \chi^2_{n - 1}$
+
+> [!définition] Loi de **Student**
+> Soient $\mathcal{Z} \sim \mathcal{N}(0, 1)$ et $\mathcal{Z}_n \sim \chi^2_n$. La loi de la variable aléatoire $T_n = \frac{\mathcal{Z}}{\mathcal{Z}_n/n}$
 ## Intervalles de confiance pour la variance
+
