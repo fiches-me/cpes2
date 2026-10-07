@@ -165,7 +165,7 @@ Paul Delorme (puis Jean Delorme), patron d'Air Liquide, possède 80 % des action
 	- Création de banques centrales (Belgique, première en Europe)
 	- Des banques mixtes collectent l'épargne et la réinvestissent.
 
-En France, on a rejeté ce système pendant longtemps. Henry Germain, le fondateur du Crédit lyonnais (LCL), banque de dépôt uniquement, dit que la sécurité d'une banque de dépôt est incompatible avec celle des entreprises industrielles. Les banques mixtes arrivent à la fin du XIXe siècle.
+En France, on a rejeté ce système pendant longtemps. **Henry Germain**, le fondateur du **Crédit lyonnais (LCL)**, *banque de dépôt uniquement*, dit que la sécurité d'une banque de dépôt est incompatible avec celle des entreprises industrielles. Les banques mixtes arrivent à la fin du XIXe siècle.
 
 ###### Le développement du financement direct
 
