@@ -1,0 +1,316 @@
+---
+tags:
+  - maths
+  - analyse
+  - series_numeriques
+  - CPES2
+---
+
+# FICHE DE COURS N°1 - LES SÉRIES NUMÉRIQUES
+
+Dans ce chapitre, nous considérons des suites $(u_n)$ à valeurs dans $\mathbb{R}$.
+
+## I. SÉRIES NUMÉRIQUES
+
+### A. DÉFINITIONS
+
+>[!définition] Définition 1
+> Étant donnée une suite $(u_n)_{n \ge n_0}$, on appelle **série de terme général** $u_n$, notée $\sum_{n \ge n_0} u_n$ ou $\sum u_n$ lorsque $n_0 = 0$, la suite des sommes partielles $(S_n)_{n \ge n_0}$ où pour tout entier naturel $n \ge n_0$, on a : 
+>
+> $$S_n = \sum_{k=n_0}^n u_k$$
+
+> [!example] Exemple 1
+> Soit $(u_n)$ la suite définie pour tout $n \ge 1$ par $u_n = \frac{1}{n}$.
+> La série de terme général $u_n$ est notée $\sum_{n \ge 1} \frac{1}{n}$, et est appelée la **série harmonique**.
+> Les premières sommes partielles sont :
+>
+> $$S_1 = 1,\; S_2 = 1 + \frac{1}{2} = \frac{3}{2},\; S_3 = 1 + \frac{1}{2} + \frac{1}{3} = \frac{11}{6},\; \dots$$
+
+>[!définition] Définition 2
+> On dit que $\sum u_n$ **converge** si la suite $(S_n)$ admet une limite finie dans $\mathbb{R}$.
+> Dans ce cas, la limite de la suite $(S_n)$ est appelée **somme de la série**, et est notée $\sum_{k=0}^{+\infty} u_k$.
+> On a ainsi :
+>
+> $$\sum_{k=0}^{+\infty} u_k = \lim_{n \to +\infty} \sum_{k=0}^n u_k$$
+>
+> Dans le cas contraire, on dit que la série **diverge**.
+
+> [!example] Exemple 2
+> Soit $(u_n)$ la suite définie pour tout entier naturel $n$ par $u_n = 0,5^n$.
+> Alors $\forall n \in \mathbb{N},\; S_n = \sum_{k=0}^n 0,5^k = \frac{1-0,5^{n+1}}{1-0,5} = 2(1 - 0,5^{n+1})$.
+> Puisque $-1 < 0,5 < 1$, on a $\lim_{n \to +\infty} 0,5^{n+1} = 0$, donc la série $\sum_{n \ge 0} 0,5^n$ converge vers 2 car $\lim_{n \to +\infty} S_n = \sum_{k=0}^{+\infty} 0,5^k = 2$.
+
+> [!info] Remarque 1
+> Étudier la **nature** d'une série, c'est déterminer si la série converge ou diverge.
+
+> [!warning] Attention
+> Les sommes infinies ne se manipulent pas comme les sommes finies (puisqu'en réalité, ce sont des limites, et il faut donc toujours s'assurer de la convergence). En effet, l'écriture $\sum_{k=0}^{+\infty} u_k$ n'a de sens que si la série converge, alors que l'écriture $\sum u_n$ a bien un sens, puisqu'elle désigne une suite.
+> C'est pourquoi on calculera (presque) toujours les sommes partielles, qui sont des sommes finies, avant de passer à la limite.
+
+> [!example] Exemple 3
+> Montrer que la série harmonique, de terme général $\frac{1}{n}$ est divergente.
+> Pour tout $n \ge 1$, notons $H_n = \sum_{k=1}^n \frac{1}{k}$, et soit $k \in \mathbb{N}^*$ :
+>
+> $$\ln(k+1) - \ln(k) = \ln\left(\frac{k+1}{k}\right) = \ln\left(1 + \frac{1}{k}\right) \le \frac{1}{k}$$
+>
+> Ainsi, pour tout $k \ge 1$, $\ln(k+1) - \ln(k) \le \frac{1}{k}$
+> En additionnant ces inégalités membre à membre, on obtient :
+>
+> $$\sum_{k=1}^n \ln(k+1) - \ln(k) \le \sum_{k=1}^n \frac{1}{k}$$
+>
+> La somme de gauche étant une somme télescopique, on a :
+>
+> $$\sum_{k=1}^n \ln(k+1) - \ln(k) = \ln(n+1) - \ln 1 = \ln(n+1)$$
+>
+> Ainsi, pour tout $n \ge 1$, $H_n \ge \ln(n+1)$.
+> Puisque $\lim_{n \to +\infty} \ln(n+1) = +\infty$, par comparaison on a $\lim_{n \to +\infty} \sum_{k=1}^n \frac{1}{k} = +\infty$.
+
+---
+
+### B. PROPRIÉTÉS
+
+> [!abstract] Proposition 1
+> 1. On ne change pas la nature d'une série (convergente ou divergente) en supprimant un nombre fini de termes.
+> 2. Si la série $\sum_{n \ge n_0} u_n$ converge alors $\lim_{n \to +\infty} u_n = 0$.
+
+> [!success]- Démonstration partielle (Point 2)
+> Pour tout $n$, notons $S_n = \sum_{k=0}^n u_k$.
+> Alors, pour tout $n \ge 1$, on a $u_n = S_n - S_{n-1}$.
+> Si la série $\sum u_n$ converge, alors la suite $(S_n)$ admet, par définition, une limite que l'on note $S$. Mais alors $\lim_{n \to +\infty} S_n = \lim_{n \to +\infty} S_{n-1} = S$, et donc $\lim_{n \to +\infty} u_n = S - S = 0$.
+
+> [!warning] Attention
+> La réciproque de cette proposition est **fausse**. En effet, on a vu que la série harmonique diverge, alors que $\lim_{n \to +\infty} \frac{1}{n} = 0$.
+
+> [!info] Remarque 2
+> La contraposée de cette proposition dit que si $\lim_{n \to +\infty} u_n \ne 0$, alors la série $\sum_{n \ge n_0} u_n$ diverge. (On parle de divergence grossière).
+
+> [!example] Exemple 4
+> La série $\sum \frac{2n}{n+1}$ diverge car $\lim_{n \to +\infty} \frac{2n}{n+1} = 2 \ne 0$.
+
+> [!abstract] Proposition 2 (admise)
+> 1. Si les séries $\sum_{n \ge n_0} u_n$ et $\sum_{n \ge n_0} v_n$ convergent alors $\sum_{n \ge n_0} (u_n + v_n)$ converge et dans ce cas : 
+>
+>    $$\sum_{n \ge n_0} (u_n + v_n) = \sum_{n \ge n_0} u_n + \sum_{n \ge n_0} v_n$$
+>
+> 2. Soit $\lambda \in \mathbb{R}^*$, les séries $\sum_{n \ge n_0} u_n$ et $\sum_{n \ge n_0} \lambda u_n$ sont de même nature, et si la série $\sum_{n \ge n_0} u_n$ converge alors :
+>
+>    $$\sum_{n=n_0}^{+\infty} \lambda u_n = \lambda \sum_{n=n_0}^{+\infty} u_n$$
+
+> [!warning] Attention
+> La réciproque du 1er point est fausse. En effet, les séries $\sum_{n \ge 1} \frac{1}{n}$ et $\sum_{n \ge 1} -\frac{1}{n}$ sont toutes deux divergentes alors que la série $\sum_{n \ge 1} \left(\frac{1}{n} - \frac{1}{n}\right)$ converge vers 0.
+
+---
+
+### C. SÉRIES À TERMES POSITIFS
+
+*Dans toute cette partie $(u_n)$ et $(v_n)$ désignent deux suites à termes positifs.*
+
+> [!abstract] Proposition 3
+> La série $\sum_{n \ge n_0} u_n$ est convergente, si et seulement si, la suite des sommes partielles $(S_n)$ est majorée.
+
+> [!success]- Démonstration
+> Notons $S_n = \sum_{k=0}^n u_k$.
+> On a alors $S_{n+1} - S_n = u_{n+1}$ et $u_{n+1} > 0$. La suite $(S_n)$ est donc croissante.
+> D'après les théorèmes sur les suites monotones, $(S_n)$ converge si et seulement si la suite $(S_n)$ est majorée.
+
+> [!tip] Remarque 3
+> Pour majorer $(S_n)$, on commence en général par majorer $(u_n)$. On somme alors ces majorants pour en déduire un majorant de $(S_n)$. On dispose ainsi du théorème suivant :
+
+> [!abstract] Proposition 4 (Théorèmes de comparaison)
+> Si pour tout $n \ge n_0$, on a $0 \le u_n \le v_n$, alors :
+> - si la série $\sum v_n$ converge, la série $\sum u_n$ est également convergente. Dans ce cas, $\sum_{k=n_0}^{+\infty} u_k \le \sum_{k=n_0}^{+\infty} v_k$.
+> - si la série $\sum u_n$ diverge, alors la série $\sum v_n$ est également divergente.
+
+> [!success]- Démonstration
+> Si on note $S_n = \sum_{k=n_0}^n u_k$ et $T_n = \sum_{k=n_0}^n v_k$, on a, pour tout $n \ge n_0$ :
+> $S_n \le T_n$ (addition des inégalités). De plus, la suite $(T_n)$ est également croissante, de limite $T$. Donc pour tout $n \ge n_0$, $T_n \le T$.
+> Donc $\forall n \ge n_0$, $S_n \le T_n \le T$. La suite $(S_n)$ est donc majorée, et d'après le théorème précédent, la série $\sum u_n$ converge. L'inégalité précédente donne alors $\sum_{n=n_0}^{+\infty} u_n = \lim_{n \to +\infty} S_n \le T = \lim_{n \to +\infty} T_n = \sum_{n=n_0}^{+\infty} v_n$.
+
+> [!abstract] Proposition 5 (admise)
+> Si $u_n \underset{+\infty}{\sim} v_n$ alors $\sum_{n \ge n_0} u_n$ et $\sum_{n \ge n_0} v_n$ sont de même nature.
+
+> [!example] Exemple 5
+> La série $\sum_{n \ge 1} \frac{n+1}{3n^2+n+1}$ est à termes positifs. De plus $\frac{n+1}{3n^2+n+1} \underset{+\infty}{\sim} \frac{1}{3n}$ et $\sum_{n \ge 1} \frac{1}{3n}$ est une série divergente donc la série $\sum_{n \ge 1} \frac{n+1}{3n^2+n+1}$ diverge.
+
+> [!abstract] Proposition 6 (Règle de d'Alembert)
+> Soit $(u_n)$ une suite réelle tel que $u_n > 0$ pour tout entier naturel $n$. On suppose $\lim_{n \to +\infty} \frac{u_{n+1}}{u_n} = \ell$. On a alors les assertions suivantes :
+> - Si $\ell < 1$, la série de terme général $u_n$ est convergente.
+> - Si $\ell > 1$, la série de terme général $u_n$ est divergente.
+> - Si $\ell = 1$, nous ne pouvons pas conclure.
+
+> [!success]- Démonstration
+> $\forall \varepsilon > 0, \exists N \in \mathbb{N}$ tel que $\forall n \ge N$, $\left|\frac{u_{n+1}}{u_n} - \ell\right| < \varepsilon$.
+> On en déduit que $\forall \varepsilon > 0, \exists N \in \mathbb{N}$ tel que $\forall n \ge N$, $(\ell - \varepsilon)u_n < u_{n+1} < (\ell + \varepsilon)u_n$.
+> On en déduit encore que :
+> $\forall \varepsilon > 0, \exists N \in \mathbb{N}$ tel que $\forall n \ge N$, $(\ell - \varepsilon)^{n-N}u_N < u_n < (\ell + \varepsilon)^{n-N}u_N$.
+> 
+> Supposons maintenant que $\ell < 1$, et soit $\varepsilon = \frac{1-\ell}{2}$. Alors $\varepsilon > 0$, il existe donc $N \in \mathbb{N}$ tel que $\forall n \ge N$, $u_n < (\ell + \varepsilon)^{n-N}u_N$. Or la série de terme général $(\ell + \varepsilon)^{n-N}u_N = \left(\frac{\ell+1}{2}\right)^{n-N}u_N$ est convergente (on reconnaît le terme général d'une série géométrique convergente), donc la série de terme général $u_n$ est convergente.
+> 
+> Si $\ell > 1$, on raisonne de même avec $\varepsilon = \frac{\ell-1}{2} > 0$, et on a $\exists N \in \mathbb{N}$ tel que $\forall n \ge N$, $\left(\frac{\ell+1}{2}\right)^{n-N}u_N < u_n$. Or la série de terme général $\left(\frac{\ell+1}{2}\right)^{n-N}u_N$ est divergente (on reconnaît le terme général d'une série géométrique divergente), donc la série de terme général $u_n$ est divergente.
+
+> [!example] Exemple 6
+> $\sum \frac{2^n n!}{n^n}$ est une série à termes positifs, et $\frac{u_n}{u_{n+1}} = \frac{2^n n!}{n^n} \times \frac{(n+1)^{n+1}}{2^{n+1}(n+1)!} = \frac{1}{2}\left(\frac{n+1}{n}\right)^n$.
+> Or $\lim_{n \to +\infty} n \ln\left(1 + \frac{1}{n}\right) = 1$, donc $\lim_{n \to +\infty}\left(\frac{u_n}{u_{n+1}}\right) = \frac{e}{2}$ et donc $\lim_{n \to +\infty}\left(\frac{u_{n+1}}{u_n}\right) = \frac{2}{e} < 1$.
+> Ce qui prouve que la série converge et donc $\lim_{n \to +\infty}\left(\frac{2^n n!}{n^n}\right) = 0$.
+
+> [!abstract] Proposition 7 (Théorème de Fubini)
+> Soit $(u_{ij})_{(i,j) \in \mathbb{N}^2}$ une suite double positive.
+> On suppose que $\forall i \in \mathbb{N}, \sum_{j \in \mathbb{N}} u_{ij}$ converge et $\sum_{i \in \mathbb{N}} \left(\sum_{j=0}^{+\infty} u_{ij}\right)$ converge. On a alors :
+> $\forall j \in \mathbb{N}, \sum_{i \in \mathbb{N}} u_{ij}$ converge, $\sum_{j \in \mathbb{N}} \left(\sum_{i=0}^{+\infty} u_{ij}\right)$ converge et $\sum_{i=0}^{+\infty} \sum_{j=0}^{+\infty} u_{ij} = \sum_{j=0}^{+\infty} \sum_{i=0}^{+\infty} u_{ij}$.
+
+> [!info] Remarque 4
+> Ce théorème signifie que l'on peut échanger deux limites, ce qui n'est pas possible en règle générale.
+
+> [!example] Exemple 7
+> On pose pour tout $(i,j) \in \mathbb{N}^2$, 
+>
+> $$a_{ij} = \begin{cases} 1 & \text{si } i = j \\ -1 & \text{si } j = i + 1 \\ 0 & \text{sinon} \end{cases}$$
+>
+> $\forall i \in \mathbb{N}, \sum_{j \in \mathbb{N}} a_{ij}$ converge et vaut 0, donc $\sum_{i \in \mathbb{N}} \left(\sum_{j=0}^{+\infty} a_{ij}\right)$ converge et vaut 0.
+
+---
+
+### D. SÉRIES ALTERNÉES
+
+> [!abstract] Proposition 8
+> Soit $(u_n)$ une suite réelle décroissante convergeant vers 0. Alors la série $\sum (-1)^n u_n$ est convergente.
+
+> [!success]- Démonstration
+> Soit $n \in \mathbb{N}$.
+> Les relations $S_{2n+2} = S_{2n} - u_{2n+1} + u_{2n+2}$ et $S_{2n+3} = S_{2n+1} + u_{2n+2} - u_{2n+3}$, ainsi que la décroissance de la suite $(u_n)$ entraînent : $S_{2n+2} \le S_{2n}$ et $S_{2n+1} \le S_{2n+3}$.
+> La suite $(S_{2n+1})$ est donc croissante et $(S_{2n})$ est décroissante. Par ailleurs, on a :
+> $\forall n \in \mathbb{N}, S_{2n} - S_{2n+1} = u_{2n+1}$, donc $\lim_{n \to +\infty} (S_{2n} - S_{2n+1}) = 0$.
+> Les suites $(S_{2n})$ et $(S_{2n+1})$ sont ainsi adjacentes, donc convergent vers un même réel $S$. Cela prouve la convergence de la suite $(S_{2n})$ et donc de la série $\sum (-1)^n u_n$.
+
+> [!example] Exemple 8
+> Pour tout $\alpha > 0$, la série $\sum_{n \ge 1} \frac{(-1)^{n-1}}{n^\alpha}$ converge.
+
+---
+
+## II. SÉRIES DE RÉFÉRENCE
+
+### A. SÉRIES GÉOMÉTRIQUES ET DÉRIVÉES
+
+>[!définition] Définition 3
+> Pour tout entier $q$, la série $\sum q^n$ s'appelle **série géométrique** de raison $q$.
+
+> [!abstract] Proposition 9
+> La série $\sum q^n$ est convergente si et seulement si $|q| < 1$.
+> Dans ce cas, $\sum_{n=0}^{+\infty} q^n = \frac{1}{1-q}$.
+> Plus généralement, la série $\sum_{n \ge p} q^n$ est convergente si et seulement si $|q| < 1$, et dans ce cas, $\sum_{n=p}^{+\infty} q^n = \frac{q^p}{1-q}$.
+
+> [!success]- Démonstration
+> La suite $(q^n)$ converge vers 0 si et seulement si $|q| < 1$.
+> Par condition nécessaire de convergence, la série $\sum q^n$ ne peut pas converger si $|q| > 1$.
+> Supposons alors que $|q| < 1$. Notons $S_n = \sum_{k=0}^n q^k$. On a $S_n = \frac{1-q^{n+1}}{1-q}$. Or, $\lim_{n \to +\infty} q^{n+1} = 0$ car $|q| < 1$, donc la suite $(S_n)$ converge vers $\frac{1}{1-q}$ : la série converge, et sa somme vaut $\frac{1}{1-q}$.
+
+> [!abstract] Proposition 10
+> 1. La série $\sum_{n \ge 1} n q^{n-1}$ converge si et seulement si $|q| < 1$. Dans ce cas, $\sum_{n=1}^{+\infty} n q^{n-1} = \frac{1}{(1-q)^2}$ (série géométrique dérivée première).
+> 2. La série $\sum_{n \ge 2} n(n-1) q^{n-2}$ converge si et seulement si $|q| < 1$. Dans ce cas, $\sum_{n=2}^{+\infty} n(n-1) q^{n-2} = \frac{2}{(1-q)^3}$ (série géométrique dérivée deuxième).
+
+> [!success]- Démonstration (Point 1)
+> Si $|q| > 1$, la suite $(n q^{n-1})$ ne converge pas vers 0, donc la série $\sum_{n \ge 1} n q^{n-1}$ ne peut converger.
+> Pour tout $x \in ]-1; 1[$, notons $T_n(x) = \sum_{k=0}^n x^k$.
+> $T_n$ est une fonction dérivable sur $]-1; 1[$, et on a $T_n'(x) = \sum_{k=1}^n k x^{k-1}$.
+> D'autre part, $T_n(x) = \frac{1-x^{n+1}}{1-x}$.
+> On a donc également : 
+>
+> $$T_n'(x) = \frac{-(n+1)x^n(1-x)+(1-x^{n+1})}{(1-x)^2} = \frac{1-(n+1)x^n+n x^{n+1}}{(1-x)^2}$$
+>
+> $$\lim_{n \to +\infty} |n x^n| = \lim_{n \to +\infty} n |x|^n = \lim_{n \to +\infty} n e^{n \ln |x|} = \frac{1}{\ln |x|} \lim_{X \to -\infty} X e^X$$
+>
+> En posant $X = n \ln |x|$ ($\lim_{n \to +\infty} X = -\infty$ car $\ln |x| < 0$).
+> Or $\lim_{X \to -\infty} X e^X = 0$, donc $\lim_{n \to +\infty} |n x^n| = 0$.
+> On en déduit que $\lim_{n \to +\infty} n x^n = 0$.
+> Ce qui prouve que $\lim_{n \to +\infty} (n+1) x^n = \lim_{n \to +\infty} n x^n + \lim_{n \to +\infty} x^n = 0$ et que :
+> $\lim_{n \to +\infty} n x^{n+1} = x \lim_{n \to +\infty} n x^n = 0$.
+> On en déduit que $\lim_{n \to +\infty} T_n'(x) = \frac{1}{(1-x)^2}$.
+> Ainsi, la série $\sum_{n \ge 1} n x^{n-1}$ converge, et on a bien $\sum_{n \ge 1} n x^{n-1} = \frac{1}{(1-x)^2}$.
+
+> [!info] Remarque 5
+> On remarque que $n q^n = q n q^{n-1}$ et que $n(n-1) q^n = q^2 n(n-1) q^{n-2}$.
+> Ainsi, si $|q| < 1$, les séries $\sum n q^n$ et $\sum n(n-1) q^n$ convergent également, et :
+>
+> $$\sum_{n=1}^{+\infty} n q^n = \frac{q}{(1-q)^2} \quad \text{et} \quad \sum_{n=1}^{+\infty} n(n-1) q^n = \frac{2 q^2}{(1-q)^3}$$
+
+### B. SÉRIES DE RIEMANN
+
+>[!définition] Définition 4
+> La série de terme général $\frac{1}{n^\alpha}$ ($\alpha \in \mathbb{R}$, $n \in \mathbb{N}^*$) est appelée **série de Riemann**.
+
+> [!abstract] Proposition 11 (admise)
+> La série de Riemann $\sum_{n \ge 1} \frac{1}{n^\alpha}$ converge si et seulement si $\alpha > 1$.
+
+> [!example] Exemple 9
+> La série $\sum_{n \ge 1} \frac{1}{n^2}$ est une série de Riemann convergente.
+
+### C. SÉRIE EXPONENTIELLE
+
+>[!définition] Définition 5
+> La série de terme général $\frac{x^n}{n!}$ ($x \in \mathbb{R}$, $n \in \mathbb{N}$) est appelée **série exponentielle**.
+
+> [!abstract] Proposition 12 (admise)
+> Pour tout réel $x$, la série exponentielle $\sum \frac{x^n}{n!}$ converge, et on a : $\sum_{n=0}^{+\infty} \frac{x^n}{n!} = e^x$.
+
+> [!tip] Méthode
+> Pour déterminer si une série converge ou non, et éventuellement calculer sa limite, on essaiera de la comparer à une des séries usuelles (géométriques, Riemann ou exponentielle).
+
+> [!example] Exemple 10
+> Déterminer la nature de la série de terme générale $u_n = \frac{(-3)^{n+1}}{n!}$.
+> Remarquons tout d'abord que $u_n = -3 \frac{(-3)^n}{n!}$.
+> La série $\sum_{n \ge 0} \frac{(-3)^n}{n!}$ converge puisqu'il s'agit de la série exponentielle, et sa somme vaut $e^{-3}$.
+> La série $\sum_{n \ge 0} u_n$ converge donc, et $\sum_{n=0}^{+\infty} \frac{(-3)^{n+1}}{n!} = -3 e^{-3}$.
+
+> [!info] Remarque 6
+> Par décalage d'indice, on a également, pour tout réel $x$, $\sum_{n \ge 1} \frac{x^{n-1}}{(n-1)!}$ converge et,
+>
+> $$\sum_{n=1}^{+\infty} \frac{x^{n-1}}{(n-1)!} = e^x$$
+
+---
+
+## III. SÉRIES ABSOLUMENT CONVERGENTES
+
+>[!définition] Définition 6
+> On dit que la série $\sum u_n$ est **absolument convergente**, ou converge absolument, si la série à terme réels positifs $\sum |u_n|$ est convergente.
+
+> [!abstract] Proposition 13
+> Toute série absolument convergente est convergente.
+
+> [!success]- Démonstration
+> Soit $(u_n)$ telle que la série $\sum |u_n|$ converge.
+> Pour tout $n \in \mathbb{N}$, les réels $u_n^+ = \frac{|u_n| + u_n}{2}$ et $u_n^- = \frac{|u_n| - u_n}{2}$ sont positifs et vérifient $u_n = u_n^+ - u_n^-$ et $|u_n| = u_n^+ + u_n^-$.
+> En particulier, $0 \le u_n^+ \le |u_n|$ et $0 \le u_n^- \le |u_n|$.
+> La convergence de la série de terme général $|u_n|$ entraîne donc la convergence des séries à termes positifs $\sum u_n^+$ et $\sum u_n^-$.
+> Par suite, $\sum u_n^+ - u_n^-$ est une série convergente, en tant que différence de séries convergentes, donc $\sum u_n$ converge.
+
+> [!warning] Attention
+> La réciproque est fausse. La série $\sum_{n \ge 1} \frac{(-1)^n}{n}$ converge alors qu'elle ne converge pas absolument.
+
+> [!abstract] Proposition 14 (admise)
+> Si $u_n = o(v_n)$, alors la convergence absolue de $\sum v_n$ entraîne celle de $\sum u_n$.
+
+> [!example] Exemple 11
+> La série $\sum_{n \ge 1} \frac{\ln n}{n 2^n}$ est convergente.
+> En effet, comme par croissance comparée, $\lim_{n \to +\infty} \frac{\ln n}{n} = 0$, donc $\frac{\ln n}{n 2^n} = o\left(\frac{1}{2^n}\right)$.
+> Comme la série géométrique, à termes positifs, est convergente, la série $\sum_{n \ge 1} \frac{\ln n}{n 2^n}$ converge (absolument).
+
+---
+
+## English Vocabulary
+
+> [!quote] Asymptotics and Sequences
+> - If $f$ is **asymptotically equivalent** to **$g$ for $x$ tending to $c$**, we use the notation $f \sim g$, $x \to c$.
+> - If $f$ is **negligible with respect to $g$ when $x$ goes to $c$**, the symbol $f = o(g)$, $x \to c$, is used, spoken « **$f$ is little o of $g$ for $x$ tending to $c$** ».
+> - $\{u_n\}$ ($u_n$ is in braces) represents the **sequence** that can be generated by using $u_n$ as the $n$th term.
+> - The sum $S = \sum_{i=1}^{+\infty} a_i$ is an **infinite series**. Its value, if one exists, is the limit of the sequence of **partial sums** $\{s_n\}$ with $s_n = \sum_{i=1}^n a_i$. In that case, the series is said to be convergent. If not, the series is divergent.
+> - For example, the series $\sum_{n \ge 1} a r^{n-1}$, where $a$ and $r$ are constant, is a **geometric series**.
+> - The series $\sum_{n \ge 1} \frac{1}{n^p}$, where $p$ is a constant, are called **$p$ series**.
+> - The series with $p = 1$ is called **harmonic series**.
+
+> [!quote] Sums, Products and Limits
+> - The sum $a_1 + a_2 + \dots + a_n$ can be written more compactly using **sigma notation**. We write it as $\sum_{r=1}^n a_r$ (read "the sum for $r$ equals 1 up to $n$ of $a_r$" or "the sum of all the terms $a_r$ where $r$ takes the values from 1 to $n$" or "the sum of $a_r$ as $r$ goes from 1 to $n$").
+> - The sum $\sum_{k=p}^n f(k+1) - f(k)$ is called a **telescoping sum**.
+> - The **pi symbol** is used in the same way as the sigma symbol described above, except that succeeding terms are multiplied instead of added.
+> - $\lim_{x \to x_0} f(x) = \ell$ : "the number $\ell$ **is the limit of $f(x)$ as $x$ approaches $x_0$**".
+> - $\lim_{x \to x_0^+} f(x) = \ell_1$ : "the number $\ell_1$ **is the right-hand limit of $f$ at $x_0$**".
+> - $\lim_{x \to x_0^-} f(x) = \ell_2$ : "the number $\ell_2$ **is the left-hand limit of $f$ at $x_0$**".
