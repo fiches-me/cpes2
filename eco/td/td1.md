@@ -3,6 +3,7 @@ title: Quelle gouvernance d’entreprise pour la transition énergétique et éc
 authors: Rhama, Rhapaël, Noémie
 draft: true
 ---
+
 # Quelle gouvernance d’entreprise pour la transition énergétique et écologique ?
 
 Michel Aglietta et Renaud du Tertre discuss in their article how to regulate firms in prevention of the Climate Change.
@@ -66,8 +67,58 @@ Volswagen lied to still be top1. So
 How to tax carbon dioxide? Firms can just cheat. Same thing for bonus. 
 
 *Why measuring everything? Is it the job of economists? Same thing for the deal of climate change.*
+
 ## Conclusion
 
 The climate crisis demands a radical break 
 
 A true transition requires a new systemic "institutional compromise"
+
+---
+
+## 1. Les limites des systèmes de notation et de reporting extra-financier
+
+L’article met en lumière les failles des dispositifs actuels d'évaluation et de reporting extra-financier (ESG - Environnemental, Social et de Gouvernance) :
+
+- **Le manque d'impact et de comparabilité :** Les premières normes issues du monde anglo-saxon (comme celles de l'IISB) manquent souvent de portée mesurable et souffrent d'une grande fragmentation méthodologique.
+
+- **Le risque de greenwashing et la bureaucratisation :** Sans un contrôle strict, les indicateurs ESG risquent de devenir un exercice de style purement formel (« reporting fatigue ») plutôt qu'un véritable moteur de changement.
+
+- **La vision unilatérale (simple vs double matérialité) :** Les standards purement financiers (portés par l'ISSB anglo-saxon) se concentrent uniquement sur les risques climatiques *pour* l'entreprise, en oubliant l'impact négatif de l'entreprise *sur* le climat.
+
+## 2. L'urgence écologique face aux impasses du capitalisme financier
+
+- **La dictature de la valeur actionnariale :** Le modèle dominant (fondé sur le rendement des fonds propres ou **ROE**) pousse les entreprises à privilégier le court terme, le versement de dividendes massifs et le rachat d'actions au détriment des investissements d'avenir.
+
+- **La défaillance des marchés :** Les marchés financiers sont incapables d'évaluer par eux-mêmes les risques existentiels à long terme liés au changement climatique, à la perte de biodiversité et à l'épuisement des ressources.
+
+- **L'aggravation des inégalités :** Les trajectoires de réduction des émissions de gaz à effet de serre génèrent des effets indésirables (ex. vagues de chaleur en zones urbaines denses) qui pénalisent lourdement les groupes sociaux vulnérables.
+
+## 3. Les solutions proposées par les auteurs
+
+Pour surmonter ces blocages, les auteurs plaident pour une refonte systémique articulant gouvernance d'entreprise et écologie politique :
+
+- **Passer de la gouvernance actionnariale à la gouvernance partenariale :**
+
+    - S'inspirer du modèle de codétermination (type allemand ou scandinave) en intégrant les salariés, les parties prenantes et des actionnaires de long terme au conseil d'administration.
+
+    - Utiliser la **RSE (Responsabilité Sociale des Entreprises)** comme un « traducteur » microéconomique des Objectifs de Développement Durable (ODD) de l'ONU.
+
+- **Instaurer un cadre réglementaire européen robuste :**
+
+    - Appliquer la directive européenne **CSRD** et le référentiel de l'EFRAG imposant la **double matérialité** (mesurer à la fois l'impact du climat sur l'entreprise et de l'entreprise sur le climat).
+
+    - Garantir la certification des données par des Organismes Tiers Indépendants (OTI) pour éliminer le greenwashing.
+
+- **Mettre en place une double valorisation du carbone :**
+
+    - **Le malus (carbone incorporé) :** Alourdir progressivement le coût des biens polluants pour dissuader leur consommation.
+
+    - **Le bonus (carbone évité) :** Fixer un prix social de l'abattement suffisamment élevé (au moins 100 € par tonne de $\text{CO}_2$ équivalent) pour stimuler les investissements verts, adossé à des certificats carbone et à un verdissement de la politique monétaire.
+
+- **Planification écologique et changements structurels :**
+
+    - Coordonner les stratégies microéconomiques des entreprises avec la planification publique macroéconomique.
+
+    - Agir sur les écosystèmes (reforestation, protection des sols, des mangroves) et imposer des ruptures culturelles (lutte contre l'obsolescence programmée, recherche de frugalité).
+        
