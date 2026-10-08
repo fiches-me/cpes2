@@ -4,7 +4,7 @@ With a set of observations $\mathcal{D} = {x_i}_{1 \le i \le n}$ an observation 
 
 **How could be summarise the whole observation $x$ by a single typical "central" value?**
 
-*We will take a look at two datasets : [geo.api.gouv.fr] for the population of ***communes*** *&* ***departments****.* In total, we saw $n = 34875$ observations for communes & $n = 101$ for departments. 
+*We will take a look at two datasets : [geo.api.gouv.fr] for the population of ***communes*** *&* ***departments****.* In total, we saw $n = 34875$ observations for communes & $n = 101$ for departments.
 
 We can have criteria for centrality. The **absolute deviation** at value $u$ is
 
@@ -12,7 +12,7 @@ $$C_1 (u) = \sum_{i=1}^n |x_i - u|$$
 
 We can also use **quadratic deviation**:
 
-$$C_2 : \mathbb{R} \longrightarrow \mathbb{R}; \space\space\space\space\space\space C(u) = \sum_{i=1}^n (x_i - u)^2 = ||x - (\mathbb{1} \times u)||^2$$
+$$C_2 : \mathbb{R} \longrightarrow \mathbb{R}; \space\space\space\space\space\space C_2(u) = \sum_{i=1}^n (x_i - u)^2 = ||x - (\mathbb{1} \times u)||^2$$
 
 Where $\mathbb{1} \times u$ is the $n$ vector of $u$ : $(u, u, \dots, u)$. 
 

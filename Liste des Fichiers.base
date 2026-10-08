@@ -41,3 +41,5 @@ views:
         direction: DESC
     columnSize:
       note.title: 418
+  - type: kanban
+    name: Vue
