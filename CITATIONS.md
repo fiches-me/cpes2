@@ -164,3 +164,7 @@ Anila? Bon écoute j'ai fait un mélange entre Ali et Tanina
 ## Firens
 
 Epstein, come back! But not as Epstein.
+
+## Najam
+
+Vous êtes des étudiants, je ne suis que là pour vous encadrer [pas pour vous faire cours]
