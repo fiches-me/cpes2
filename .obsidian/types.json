@@ -5,6 +5,7 @@
     "tags": "tags",
     "order": "number",
     "weight": "number",
-    "finished": "checkbox"
+    "finished": "checkbox",
+    "authors": "multitext"
   }
 }
