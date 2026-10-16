@@ -29,9 +29,9 @@ const vitePressConfigs: UserConfig<any> = {
       pattern: "https://github.com/fiches-me/cpes2/edit/main/:path",
     },
     nav: [
-      { text: "🖥️ POO", link: "./poo" },
-      { text: "🍃 Santé", link: "./bio" },
-      { text: "💸 Eco", link: "./eco" },
+      { text: "🖥️ POO", link: "/poo" },
+      { text: "🍃 Santé", link: "/bio" },
+      { text: "💸 Eco", link: "/eco" },
       { text: "💖 Nous Aider", link: "https://fiches.funa.dev/contribution" },
     ],
     footer: {

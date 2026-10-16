@@ -150,7 +150,7 @@ Certaines stratégies sont dominantes (meilleurs peu importe les choix des autre
 
 ### Monopoles et duopoles
 
-Que ce passe t-il si les agents (producteurs) deviennent price makers ? Le producteur connait sa [[g2#Les%20fonctions%20de%20production|fonction de production]] et les prix des inputs qu'il utilise sont données. **En revanche, il choisit le prix de son output.** *Il a donc plus de connaissances que le commissionaire priseur !* Souvent, les **recette marginale sont le coût marginal**.
+Que ce passe t-il si les agents (producteurs) deviennent price makers ? Le producteur connait sa [[ch1/g2#Les%20fonctions%20de%20production|fonction de production]] et les prix des inputs qu'il utilise sont données. **En revanche, il choisit le prix de son output.** *Il a donc plus de connaissances que le commissionaire priseur !* Souvent, les **recette marginale sont le coût marginal**.
 
 ## Chapitre 8 — Système financier
 

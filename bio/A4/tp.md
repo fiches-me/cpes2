@@ -14,7 +14,8 @@ Les PRR sont des récepteurs membranaires ou intracellulaires qui reconnaissent 
 
 ### 2. Réaliser une visualisation moléculaire en 3D...
 
-*(À compléter selon vos observations sur logiciel de modélisation moléculaire)*
+![Schéma Libom](libmol.png)
+En bleu et en violet : deux PRR. En noir : résidus d'une bactérie.
 
 ### 3. Repérer le rôle et le mode d'action des récepteurs TLR...
 
@@ -60,11 +61,14 @@ La phagocytose est déclenchée par la reconnaissance directe ou indirecte des *
 
 ## Bilan
 
-Lors d'une inflammation, des agents pathogènes rentre dans notre milieu extra-cellulaire. Au contact des Mastocytes, on observe une libération de différents médiateurs chimiques (TNF/histamine) qui vont appeler les autres globules blancs (leucocytes) sur le lieu de l'inflamation. L'histamine permet un flux sanguin plus rapide. La cytokine permet l'appel des leucocytes dans les vaiseaux sanguins par un double message : les protéines sur les parroies des vaiseaux (cellules epithéliales) appellent des leucocytes, qui vont se coller et se déplacer sur le long de la parroie jusqu'à trouver un espace pour s'y glisser et sortir dans l'espace intracellulaire. C'est ensuite les chimiokines qui attirent les leucocytes vers le lieu d'inflamation pour qu'ils réalisent la phagocytose. Ces sécrétions de médiateurs chimiques entraines cependant des réactions secondaires  
-Pour se débarasser des bactéries, les macrophages effectuent de la phagocytose : ils abosrbent les pathogènes pour les disoudres dans leurs cytosole (vacuoles & enzymes) et 
+Lors d'une inflammation, des agents pathogènes pénètrent dans notre milieu extracellulaire. Au contact des mastocytes, on observe une libération de différents médiateurs chimiques (TNF et histamine) qui vont mobiliser les leucocytes (globules blancs) sur le site de l'inflammation. L'histamine permet notamment d'augmenter le flux sanguin local. Les cytokines envoient un double message au niveau des vaisseaux sanguins : les protéines situées sur les parois des cellules épithéliales captent les leucocytes circulants, qui viennent s'y coller et rouler le long de la paroi jusqu'à trouver un espace pour s'y glisser et sortir dans l'espace extracellulaire. Ce sont ensuite les chimiokines qui guident chimiquement ces leucocytes vers le foyer inflammatoire afin qu'ils y réalisent la phagocytose. Cependant, ces sécrétions de médiateurs chimiques entraînent des réactions secondaires caractéristiques : rougeurs et gonflements (dus à l'afflux sanguin), ainsi que de la fièvre et des douleurs (effets directs des médiateurs).
 
-> Les bactéries, mastocytes et macrophages sont notés avec des cercles, rectangles et carrés.
+Pour se débarrasser des bactéries, les macrophages effectuent la phagocytose : ils englobent et absorbent les pathogènes pour les détruire dans leur cytosol grâce à des vacuoles et des enzymes, puis présentent des fragments de ces cellules aux lymphocytes T pour déclencher une réponse adaptative personnalisée.
+
+> Dans le cadre de ce schéma, les bactéries, mastocytes et macrophages sont représentés respectivement par des cercles, des rectangles et des carrés
 
 ![Schéma Bilan](schema.jpg)
 
-> [!quote] Fiche rédigé par Guilhem CANIS. Compilé par [fiches.me](https://fiches.funa.dev/cpes2/bio/td) le 12 Octobre 2026 à 16h06.
+> [!info] Fiche rédigé par Guilhem CANIS.
+
+> [!quote] [Compilé par fiches.me le 12 Octobre 2026 à 16h12.](https://fiches.funa.dev/cpes2/bio/td)

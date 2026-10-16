@@ -151,3 +151,33 @@ Les hormones existent sous différents groupes :
 Les mêmes hormones peuvent déclencher différents types de réactions même avec le même récepteur. Le protéome, les enzymes dans la cellule font des actions différentes. *Et il est aussi possible d'avoir des récepteurs différents*
 
 L'adrénaline peut diminuer/augmenter le diamètre et donc influencer l'absorption d'O2.
+
+## Fonctions immunitaires
+
+Il y a beaucoup de composants imunnitaire dans le corps humain. Les réactions ont lieu au niveau de organe, des cellule, et des molécule. Nous ne verrons qu'une partie cette année.
+
+On veut éviter la Septicemie : présence de micro-organismes dans le sang. D'abord, il y a les protections physiques (type la peau). Ensuite, certaines cellules forment un filtre à pH élevé/faible. Il y a également une barrière biologique qui accepte ce pH. 
+
+### Réaction inflamatoire
+
+Pour que la réaction puisse ce produire, la molécule doit être connu et pouvoir être combattu par le corps humain.
+
+> [!summary] Voir le [[tp|TP complet]].
+
+La détection se fait via différent récepteurs immunitaires dont les granulocytes. **Cellules sentinelles**. *Toujours présentes dans les tissues.* Ils possèdent des TLR/PLR qui leurs permettent de détecter certaines catégories d'agents pathogènes. 
+
+![[Pasted image 20261013104742.png]]
+
+La réaction face à un virus est la suivante
+
+- **Reconnaissance** des récepteurs cellulaires préexistants situés à la surface (TLR2, TLR4) ou dans les endosomes (TLR3, TLR7, TLR8, TLR9) reconnaissent des motifs viraux déjà connus (protéines d'enveloppe, ARN simple brin, ADN viral).
+- **Transduction du signal** : cette liaison active des protéines adaptatrices intracellulaires (**MyD88**, **TRIF**) qui recrutent des cascades enzymatiques (IRAK, TRAF, complexe IKK, TBK1).
+- **Réponse nucléaire** : les facteurs de transcription activés (**NF-κB**, **IRF3**, **IRF7**) migrent dans le noyau pour déclencher l'expression de cytokines pro-inflammatoires (IL-1β, TNF-α, IL-6...) et d'interférons (IFN de type I et III) afin de neutraliser l'infection.
+
+### Phagocytose
+
+Tout ce qui peut faire la phagocytose font la phagocytoses : Granulocyte, Cellules Macrophages et cellules dendritiques. 
+
+### Réparations
+
+La plupart du temps, la plaie est comblée entièrement et il n'y a aucune trace d'agression. 

@@ -10,3 +10,10 @@
      -> Systèmes en couches 
 - Level Design
 	 -> Anticiper les réactions du joueurs 
+**=> MDA: Mechanics-Dynamics-Aesthetics**
+
+## Deuxième séance
+
+On repart de la MDA
+
+Game Designer: Head des artistes
