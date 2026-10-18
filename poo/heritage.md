@@ -12,19 +12,24 @@ order: 3
 La première manière de faire des fonctions hérités est d'utiliser des **interfaces**. Cela consiste à écrire une liste de fonction (avec paramètres d'entrées et de sorties). Chaque classe qui veux hérité de cette classe principale **doit** implémenter **exactement toutes ces fonctions**. Voici un petit exemple avec des personnages :
 
 ```java
+// Personnage.java
 
 public interface Personnage {
 	String getName();
 	int getAge();
 }
 
+```
+
+```java
+// Guilhem.java
 public class Guilhem implements Personnage {
 
 	public String getName() {
 		return "Guilhem";
 	}
 	
-	public String getAge() {
+	public int getAge() {
 		return 19;
 	}
 }
