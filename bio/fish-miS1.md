@@ -173,7 +173,7 @@ Le sang est un vecteur pour les cellules et molécules immunitaires, permettant 
 - **Modes de signalisation** : paracrine, juxtacrine, intracrine
 - Récepteurs spécifiques (ex : TLR pour PAMPs) permettant la reconnaissance
 
-> [DÉFINITION]-
+> [!DÉFINITION]-
 > ### 1. Milieu intérieur et compartiments extracellulaires
 > * **Milieu intérieur :** Ensemble des **liquides extracellulaires** de l'organisme (sang, lymphe et liquide interstitiel) dans lesquels baignent les cellules et dont la stabilité garantie la survie cellulaire.
 > * **Homéostasie :** Maintien de la **stabilité des paramètres physico-chimiques** du milieu intérieur (pH, glycémie, pression osmotique, température) malgré les variations de l'environnement extérieur.
