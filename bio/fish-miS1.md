@@ -172,3 +172,54 @@ Le sang est un vecteur pour les cellules et molécules immunitaires, permettant 
 - Cytokines et chimiokines : régulent la prolifération, la différenciation, la mort cellulaire
 - **Modes de signalisation** : paracrine, juxtacrine, intracrine
 - Récepteurs spécifiques (ex : TLR pour PAMPs) permettant la reconnaissance
+
+> [DÉFINITION]-
+> ### 1. Milieu intérieur et compartiments extracellulaires
+> * **Milieu intérieur :** Ensemble des **liquides extracellulaires** de l'organisme (sang, lymphe et liquide interstitiel) dans lesquels baignent les cellules et dont la stabilité garantie la survie cellulaire.
+> * **Homéostasie :** Maintien de la **stabilité des paramètres physico-chimiques** du milieu intérieur (pH, glycémie, pression osmotique, température) malgré les variations de l'environnement extérieur.
+> * **Sang :** Tissu conjonctif spécialisé et **tissu intégrateur** circulant en circuit fermé dans le système cardiovasculaire, composé d'une fraction liquide (plasma) et d'éléments figurés.
+> * **Plasma :** Fraction **liquide aqueuse** (environ 90 % d'eau) du sang contenant des solutés dissous (électrolytes, nutriments, déchets, hormones) et des protéines plasmatiques.
+> * **Liquide interstitiel :** Liquide extracellulaire formé par la **filtration du plasma** à travers la paroi des capillaires sanguins, baignant directement les cellules des tissus.
+> * **Lymphe :** Liquide extracellulaire dérivé du liquide interstitiel, circulant dans les vaisseaux lymphatiques, **dépourvu d'érythrocytes** et riche en lymphocytes et lipides absorbés.
+> 
+> ---
+> 
+> ### 2. Composition et hématologie
+> * **Éléments figurés :** Cellules et fragments cellulaires en suspension dans le plasma, représentant environ **45 % du volume sanguin total**.
+> * **Hématocrite :** Pourcentage du volume sanguin total occupé presque exclusivement par les **globules rouges (érythrocytes)** (environ 42 % chez la femme, 45 % chez l'homme).
+> * **Érythrocyte (Globule rouge / Hématie) :** Cellule anucléée en forme de **disque biconcave**, déformable et remplie d'hémoglobine, spécialisée dans le transport des gaz respiratoires (\\(O_2\\) et \\(CO_2\\)).
+> * **Hémoglobine :** Protéine quaternaire formée de 4 sous-unités possédant chacune un **groupement hème** avec un ion fer (\\(Fe^{2+}\\)), fixant le dioxygène de manière réversible et allostérique.
+> * **Leucocyte (Globule blanc) :** Cellule nucléée du sang et des tissus assurant la **défense immunitaire**, répartie entre granulocytes (neutrophiles, éosinophiles, basophiles) et agranulocytes (monocytes/macrophages et lymphocytes).
+> * **Plaquette (Thrombocyte) :** Fragment cytoplasmique anucléé issu des **mégacaryocytes** de la moelle osseuse, jouant un rôle central dans l'hémostase.
+> 
+> ---
+> 
+> ### 3. Hémostase, coagulation et résolution
+> * **Hémostase :** Ensemble des mécanismes physiologiques (vasoconstriction, clou plaquettaire, coagulation) visant à **prévenir ou arrêter les pertes sanguines** après une lésion vasculaire.
+> * **Clou plaquettaire (Réaction primaire) :** Amas temporaire de plaquettes qui **adhèrent au collagène exposé** via le facteur von Willebrand, s'activent et s'agrègent pour obturer la plaie.
+> * **Coagulation (Réaction secondaire) :** Passage du sang de l'état liquide à un **gel solide** grâce à la transformation enzymatique en cascade du fibrinogène en fibrine.
+> * **Thrombus (Caillot) :** Bouchon solide constitué d'un **réseau insoluble de fibrine** piègeant des globules rouges, des leucocytes et des plaquettes au niveau de la lésion.
+> * **Prothrombine et Thrombine :** La prothrombine est un facteur plasmatique inactif (synthétisé par le foie via la vitamine K) converti en **thrombine**, enzyme active qui catalyse la transformation du fibrinogène en fibrine.
+> * **Fibrinolyse :** Processus physiologique de **dissolution du caillot** par la plasmine (activée à partir du plasminogène par le tPA) permettant de restaurer la lumière vasculaire après cicatrisation.
+> 
+> ---
+> 
+> ### 4. Immuno-hématologie et réaction immunitaire
+> * **Antigène (ou Agglutinogène) :** Molécule ou motif de surface (ex. glycophorines membranaires) capable d'être **reconnu spécifiquement par le système immunitaire** ou par un anticorps.
+> * **Anticorps (ou Agglutinine / Immunoglobuline) :** Protéine soluble produite par les plasmocytes/lymphocytes B, capable de se **fixer spécifiquement à un antigène** pour le neutraliser.
+> * **Agglutination (Hémagglutination) :** Réaction immunologique d'**amassage visible de cellules** (comme les hématies) causée par la fixation simultanée d'anticorps sur leurs antigènes de surface.
+> * **Cellule présentatrice d'antigène (CPA) :** Cellule (macrophage, cellule dendritique, lymphocyte B) qui ingère un pathogène et expose ses fragments (**épitopes**) sur sa membrane pour activer les lymphocytes T.
+> * **PAMP et PRR :** Motifs moléculaires universels portés par les microbes (**PAMP**) reconnus par des récepteurs innés (**PRR**, tels que les *Toll-Like Receptors* ou TLR) des cellules sentinelles.
+> 
+> ---
+> 
+> ### 5. Communication chimique et hormonale ("Classiques")
+> * **Hormone :** Messager chimique sécrété dans le sang par une **glande endocrine** (ou des cellules spécialisées), circulant à faible concentration pour modifier l'activité d'une cellule cible distante.
+> * **Glande endocrine / Exocrine / Amphicrine :**
+>   * *Endocrine :* Sécrète ses produits (hormones) **directement dans la circulation sanguine** (ex. hypophyse, thyroïde).
+>   * *Exocrine :* Déverse ses sécrétions dans un **conduit vers le milieu extérieur** ou une cavité digestive (ex. glandes sudoripares).
+>   * *Amphicrine :* Possède à la fois une **fonction endocrine et exocrine** (ex. pancréas, gonades).
+> * **Cellule cible et Récepteur hormonal :** Cellule exprimant un **récepteur protéique spécifique** (membranaire pour les hormones hydrosolubles, ou nucléaire/intracellulaire pour les hormones stéroïdes liposolubles) recevant le signal hormonal.
+> * **Neurohormone :** Messager chimique produit par un **neurone neurosécréteur** et déversé dans le sang pour agir à distance (ex. GnRH de l'hypothalamus).
+> * **Rétrocontrôle (Feedback) :** Mécanisme de régulation où la variation du produit final ou de l'effet **module en retour l'activité de l'organe sécréteur** (négatif pour maintenir la consigne, positif pour amplifier la réponse).
+> * **Cytokine / Chimiokine :** Protéines de signalisation servant de médiateurs cellulaires ; les chimiokines orientent spécifiquement le déplacement des leucocytes (**chimiotactisme**) le long d'un gradient de concentration.
