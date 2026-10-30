@@ -1,29 +1,29 @@
 # Article
 
-## More data means less info. WDYM?
+## L4: More data means less info. Explain this sentence.
 
 While we could think more data means more information, this is not forcibly true. Stats must have a meaning to bring a new information. If they dont, we increase the computing power needed to treat them (even id its price is at an all time low). If we take, as an example, stats from a grocery store : in a small stall, where products are unique, those stats could help the stall's owner can now how to handle his stocks. But for a big supermarket, with all the references, prices, quantities, you can't do anything with thoses numbers, even with all of them. 
 
 ## What is Data Mining?
 
-Part of a bigger process called knwoledge kdd (knowledge discovery in database). Data mining is the process of making, of a huge data lake, thanks to statistics, machine learning and/or IA.
+Data mining is the analysis step of the **Knowledge Discovery in Databases (KDD)** process. It uses statistics, machine learning, and pattern recognition to discover non-obvious patterns, correlations, anomalies, and predictive models within large, complex datasets.
 
-## Genetic Algorithm
+## What is a Genetic Algorithm
 
-Genetic Algorithm are algorithm made to solve IT issues, but inspired by biological and/or living mechanism. Artificial inteligence is a great example of a Genetic Algorithm : it mimics the behavior of a human brain with decision taking (tho it's not really an "algorithm"). Idea of creating better code (upgrade) and keeps the best version of himself.
+A Genetic Algorithm is a heuristic search and optimization algorithm inspired by Charles Darwin’s theory of natural evolution. Operating within artificial intelligence, it iteratively tests a population of candidate solutions against a fitness function, applying biological operators like selection, crossover (recombination), and mutation to evolve increasingly optimal solutions over successive generations.
 
-## What are OLTPs? 
+## What does OLTP stand for and what is the connection between OLTP and the article ?
 
-OLTP stands for **On-line transaction processing systems**. Thoses are systems that execute a bunch of small "*transactions*", so computations. It
+OLTP stands for **On-line transaction processing**. It is use to handle a lot of data and store it in databases, using **short** transactions (SQL queries such as `INSERT`, `UPDATES`, `QUERIES`...)
+In the article, OLTP is used to generate this kind of databases. 
+In the article, OLTP is used to generate this kind of databases. Data is later extracted and structured as binary trees for analysis.
 
-## What are the two mining techniques mentioned?
+## What are the two mining techniques mentionned at the beginning of the article ? How are they different ?
 
-The article mentioned two big techniques, one fixing the lacks of the other.
+The two mining techniques are **Prediction** and **Knowledge Discovery**.
 
-The first one is **Regression** analytics (and even *multi regression*). But those techniques reveals some weaknesses in data minging :
-
-- This technique require **quantitative data** and can't manage *qualitative* one.
-- It's also unable to detect interaction **further than one level**. Relations between two, three or more variables are impossible with such a tool.
+- Prediction focus on existing data to forecast future outcomes from modles (like linear regressions) -> *What will happen next?*
+- Knowledge Discovery looks for unknown patterns, relationships or structure within existing data -> *What pattern is hidden inside the data? What data could we create?* 
 
 ## What are decision trees?
 
