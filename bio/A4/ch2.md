@@ -81,7 +81,7 @@ L'équipement protéique au sein de la cellule permet
 
 L'anhydrase carbonique permet la réaction (**rapide**) de H2CO3 vers CO2 vers les alvéoles pour expulser le CO2. *L'enzyme est donc disponible dans le sang.* Mais elle catalyse dans les deux sens
 
-![[Pasted image 20261005143600.png]]
+![[images/Pasted image 20261005143600.png]]
 
 Forme relâchée vers tendue
 
@@ -95,7 +95,7 @@ BILAN
 
 3. La quantité de gaz échangée est largement modulable dans l'organisme. Contrôle possible de variations par la **convection**, *mise en route du fluide*, mais aussi convection de l'air
 
-![[Pasted image 20261005145313.png]]
+![[images/Pasted image 20261005145313.png]]
 
 ### Transport des nutriments
 
@@ -117,7 +117,7 @@ Si trop de protéines dans le sang, cela veut dire qu'un truc marche pas très b
 
 Dangereux car remplit la concentration d'acides aminés.
 
-![[Pasted image 20261005150554.png]]
+![[images/Pasted image 20261005150554.png]]
 
 Filtration du sang, **ultrafiltration**, avec désabsorption de l'eau puis réabsorption partielle. Filtration des nutriments, H2O, Sels (type lactate) réabsorbés partiellement. Urée dégagée complètement, et Sels, H2O en partie envoyés dans l'urée
 
@@ -166,7 +166,7 @@ Pour que la réaction puisse ce produire, la molécule doit être connu et pouvo
 
 La détection se fait via différent récepteurs immunitaires dont les granulocytes. **Cellules sentinelles**. *Toujours présentes dans les tissues.* Ils possèdent des TLR/PLR qui leurs permettent de détecter certaines catégories d'agents pathogènes. 
 
-![[Pasted image 20261013104742.png]]
+![[images/Pasted image 20261013104742.png]]
 
 La réaction face à un virus est la suivante
 
