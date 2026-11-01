@@ -1,22 +1,55 @@
 import { defineConfig, UserConfig } from "vitepress";
 import { withSidebar } from "vitepress-sidebar";
-import { primaryThemeConfig } from "primary-vitepress/config";
+import {
+  mermaidPlugin,
+  taskCheckboxPlugin,
+  obsidianWikilinksPlugin,
+} from "primary-vitepress/config";
+import mdItTaskLists from "markdown-it-task-lists";
+import mdItObsidianCallouts from "markdown-it-obsidian-callouts";
+import path from "node:path";
+import fs from "node:fs";
 
 // https://vitepress.dev/reference/site-config
 const vitePressConfigs: UserConfig<any> = {
   title: "📑 FICHES.ME CPES2",
   description: "La deuxième édition de Guigui qui sauve ton année de CPES.",
-  extends: primaryThemeConfig,
   base: '/cpes2/',
   cleanUrls: true,
   lastUpdated: true,
   ignoreDeadLinks: true,
   markdown: {
+    math: true,
     toc: { level: [1, 2] },
     lineNumbers: true,
     languageAlias: {
       "pseudo-code": "python",
       conf: "yaml",
+    },
+    config(md) {
+      md.use(mermaidPlugin);
+      md.use(taskCheckboxPlugin);
+      md.use(mdItObsidianCallouts);
+      md.use(obsidianWikilinksPlugin, {
+        resolveLink(target: string, fromFile?: string) {
+          if (fromFile && !target.startsWith("/")) {
+            const fromDir = path.dirname(fromFile.replace(/\\/g, "/"));
+            const resolved = path.join(fromDir, target).replace(/\\/g, "/");
+            if (fs.existsSync(resolved)) {
+              return "/" + resolved;
+            }
+            if (fs.existsSync(resolved + ".md")) {
+              return "/" + resolved;
+            }
+          }
+        },
+      });
+      md.use(mdItTaskLists, { enabled: true });
+    },
+  },
+  vite: {
+    ssr: {
+      noExternal: ["primary-vitepress", "mermaid"],
     },
   },
   titleTemplate: ":title - FICHES V2",
