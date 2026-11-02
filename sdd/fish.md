@@ -1,3 +1,7 @@
+---
+title: 🐟 Fish SDD IPP Mi-S1
+---
+
 # Fish SDD IPP Mi-S1
 
 ## 1. Variables Qualitatives (Discrètes)

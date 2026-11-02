@@ -100,6 +100,7 @@ const sections = [
   "bio",
   "misc",
   "ens",
+  "sdd",
 ];
 
 const sidebarOptions = sections.map((section) => ({
