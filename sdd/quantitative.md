@@ -80,7 +80,7 @@ $$F_n (x_{(j)}) = \frac jn$$
 
 ### Dispersion **Variance**
 
-- $\mathbb{V} = var(x) = \frac 1n C_2(x)$, $mad(x) = \frac 1n C_1(m)$
+- $\mathbb{V} = var(x) = \frac 1n C_2(x)$ , $mad(x) = \frac 1n C_1(m)$
 - Std. dev. = $\sqrt{var}$, homogeneous with $x$
 - $var(y) = b^2var(x)$; MAD more robust
 - z-score $(x_i − \bar{x})/s$: mean $0$, variance $1$
