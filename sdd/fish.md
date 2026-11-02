@@ -4,6 +4,18 @@ title: 🐟 Fish SDD IPP Mi-S1
 
 # Fish SDD IPP Mi-S1
 
+# 0. Notations & Conventions
+
+- **Typographie** :
+  - **Scalaires** ($x_i, n, k, \ell, \bar{x}, s, a, b$) : Valeurs individuelles, effectifs, moyennes, écarts-types ou indices.
+  - **Vecteurs en gras** ($\mathbf{x}, \mathbf{y}, \mathbf{u}_a, \mathbf{v}_b, \mathbf{e}, \mathbf{b}$) : Vecteurs colonnes de dimension $n$ (ou de dimension $p+1$ pour les coefficients), regroupant l'ensemble des observations d'une variable ou d'indicateurs.
+  - **Matrices en gras** ($\mathbf{X}$) : Matrice de données de taille $n \times (p+1)$ regroupant les variables explicatives.
+  - **Vecteur unité** ($\mathbf{1}$) : Vecteur colonne de dimension $n$ composé uniquement de $1$ ($\mathbf{1} = [1, 1, \dots, 1]^\top$).
+- **Variables indicatrices vectorielles** :
+  - $\mathbf{u}_a \in \mathbb{R}^n$ : Vecteur dont la composante $u_{ia} = 1$ si $x_i = a$, et $0$ sinon.
+  - $\mathbf{v}_b \in \mathbb{R}^n$ : Vecteur dont la composante $v_{ib} = 1$ si $y_i = b$, et $0$ sinon.
+  - $\langle \mathbf{u}_a, \mathbf{v}_b \rangle = \mathbf{u}_a^\top \mathbf{v}_b = \sum_{i=1}^n u_{ia} v_{ib} = n_{ab}$ (Effectif conjoint).
+
 ## 1. Variables Qualitatives (Discrètes)
 
 Une variable qualitative décrit une qualité ou un attribut non numérique (ex. : couleur des yeux, catégorie socio-professionnelle, classe à bord du Titanic).
@@ -22,11 +34,11 @@ Une variable qualitative décrit une qualité ou un attribut non numérique (ex.
 
     $$\sum_{a=1}^k f_a = 1$$
 
-- **Représentation graphique** : On représente la distribution d'une variable qualitative à l'aide de diagrammes en barres (la hauteur des barres est proportionnelle aux effectifs ou fréquences) ou de diagrammes circulaires.
+- **Représentation graphique** : On représente la distribution d'une variable qualitative à l'aide de **diagrammes circulaires**.
 
 ### Analyse Bivariée (Deux variables qualitatives)
 
-- **Table de contingence (ou fréquences conjointes)** : Croise deux variables $x$ (à $k$ modalités) et $y$ (à $\ell$ modalités). L'effectif conjoint $n_{ab}$ compte les individus ayant à la fois la modalité $a$ pour $x$ et $b$ pour $y$ :
+- **Table de contingence (ou fréquences conjointes)** : Croise deux variables $x$ (à $k$ modalités) et $y$ (à $\ell$ modalités). *Nombres d'individus avec a et b.* L'effectif conjoint $n_{ab}$ compte les individus ayant à la fois la modalité $a$ pour $x$ et $b$ pour $y$ :
 
     $$n_{ab} = \vert{}\{i : x_i = a \text{ et } y_i = b\}\vert{} = \langle \mathbf{u}_a, \mathbf{v}_b \rangle$$
 
