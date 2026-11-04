@@ -31,15 +31,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Not needed if lastUpdated is not enabled
+          fetch-depth: 1 # Not needed if lastUpdated is not enabled
 
       - name: Setup Node & PNPM
-        uses: pnpm/setup@v1
-        with:
-          version: 11
-          runtime: node@22
-          cache: true
-
+        uses: pnpm/setup@v3
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
