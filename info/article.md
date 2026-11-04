@@ -28,3 +28,17 @@ The two mining techniques are **Prediction** and **Knowledge Discovery**.
 ## What are decision trees?
 
 Decision trees are a way to store data using a tree structure. Each data is bound to another thanks to an edge, and make, at the end, a tree structure with one "big" data being the central point of the tree (also called **root**). Those trees are labeled, both on nodes & edges. A decision is then made depending on multiples factors : this decision is the path that will, according the the factors, be possible and lead to a leaf.
+
+---
+
+## What is the relative position of a node in a binary tree?
+
+## What does fitness means for a binary tree?
+
+## Describe how binary trees are represented in this article.
+
+## How is a complete tree defined in this article?
+
+## What does AiD stands for? How does it work?
+
+## Describe the issues with AiD in this article.
