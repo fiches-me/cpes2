@@ -1,5 +1,8 @@
 # Article
 
+> [!NOTE]
+> La plupart de ces réponses sont rédigés sans sources extérieures ni IA. N'hésitez donc pas à creuser un peu plus :) 
+
 ## L4: More data means less info. Explain this sentence.
 
 While we could think more data means more information, this is not forcibly true. Stats must have a meaning to bring a new information. If they dont, we increase the computing power needed to treat them (even id its price is at an all time low). If we take, as an example, stats from a grocery store : in a small stall, where products are unique, those stats could help the stall's owner can now how to handle his stocks. But for a big supermarket, with all the references, prices, quantities, you can't do anything with thoses numbers, even with all of them. 
@@ -33,12 +36,29 @@ Decision trees are a way to store data using a tree structure. Each data is boun
 
 ## What is the relative position of a node in a binary tree?
 
+> Objects are classified by following a path down the tree, taking the edges corresponding to the values of the attributes in an object
+
 ## What does fitness means for a binary tree?
 
 ## Describe how binary trees are represented in this article.
 
+Each tree contain:
+- at least a leaf
+- can have internal (also called non-terminal) nodes with **two or more** child nodes.
+
+Nodes contains *splits*, mathematical operations applied to each child's value and shown on the edge label.
+
 ## How is a complete tree defined in this article?
 
-## What does AiD stands for? How does it work?
+## What does AID stands for? How does it work?
 
-## Describe the issues with AiD in this article.
+AID stands for **automatic interaction detection**.
+
+> The AID-technique is a mechanical, or automatic, system that mimics the steps taken by an experienced data analyst to determine strong data interaction effects.
+
+We choose a list of *predictor variable* and apply the strongest one to make two classes, and then repeat, to build a binary tree.
+
+## Describe the issues with AID in this article.
+
+The original AID is too agressive: it find relationships with everything, sometime linking thinks that where just correlated by chance. *So it's harder to separate meaningful from meaningless relations.*
+
