@@ -35,6 +35,10 @@ jobs:
 
       - name: Setup Node & PNPM
         uses: pnpm/setup@v3
+        with:
+          version: 11
+          cache: true
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
