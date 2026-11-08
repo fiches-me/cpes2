@@ -1,3 +1,8 @@
+---
+title: 📚 Documents
+order: 10
+---
+
 # Documents
 
 ## Exercice 1
