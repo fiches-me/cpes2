@@ -15,7 +15,7 @@
       "copy": false
     }
   },
-  "syntaxHighlight": false,
+  "syntaxHighlight": true,
   "copyButton": false,
   "version": "12.0.10",
   "autoCollapse": false,
@@ -28,7 +28,7 @@
     "fas"
   ],
   "rpgDownloadedOnce": false,
-  "useSnippet": false,
+  "useSnippet": true,
   "snippetPath": "custom-admonitions.c346ce",
   "open": {
     "admonitions": true,
