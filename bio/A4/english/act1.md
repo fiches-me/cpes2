@@ -21,7 +21,7 @@ The most common blood type is **A+** in northen europe and **O+** in UK & United
 
 We can clearely see a gap between sourthen countries & european / developed countries : over a 500% increase for Germany, Greece & Sweden copared to Arbia, Qatar, UAE…
 
-![](images/blood-donation-repartition.png)
+![](../images/blood-donation-repartition.png)
 
 **WE COULD GIVE CELLS OR PLASMA INDIVUDUALLY INSTEAD OF FULL BLOOD**
 
@@ -45,7 +45,7 @@ Poore countires have different donated blood usage than in Europe : while develo
 
 7. Conclude wether the blood donation is a sufficient solution for the blood need worldwide? **NOPE**
 
-![](images/blood-challenges.png)
+![](../images/blood-challenges.png)
 
 1. Explain the existence of the different blood types from a molecular point of view. 
 
