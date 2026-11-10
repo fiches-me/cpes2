@@ -1,9 +1,9 @@
 ---
-title: "Cours 2: XXX"
+title: "Cours 2: Régulation des offres d'emploi"
 order: 2
 ---
 
-# Cours 2
+# Cours 2: Régulation des offres d'emploi
 
 ## Rédaction d'une offre d'emploi
 
@@ -194,10 +194,70 @@ Les femmes ne peuvent pas travailler à proximité de certain produit chimiques 
 
 Le principe d'interdiction des discriminations se base sur la Déclaration des Droits de l'Homme et du Citoyen (article 1). La loi précise que les discriminations directes et indirectes sont interdites. 
 
-### Prohibitions 
+*Quelles comparaisons entre code pénal et code du travail ?*
 
-### Sexe
+🟰 Les discriminations identiques :
+- Origine de la personne
+- Sexe
+- Les moeurs
+- L’orientation sexuelle
+- L’identité de genre.
+- L’âge
+- La situation de famille
+- La grossesse
+- Les caractéristiques génétiques.
+- La vulnérabilité économique
+- Ethnie, nation, race
+- Les opinions politiques
+- Les activités syndicales visées par les 2 textes
+- La religion
+- La résidence
+- L'État de santé
+- La perte d’autonomie
+- Le handicap
+- La capacité linguistique
+- Et l’apparence physique.
 
-### Charge de la preuve
+**Es ce que les discriminations visés dans le code de travail forme une liste exhaustive ou non exhaustive ?** Pour certain, les discriminations forment une liste exhaustive, mais les textes ne sont pas complètement correct. *Il faut lire jusqu'au bout !*
+
+### Agissement Sexiste
+
+L’agissement sexiste peut s’appliquer aux hommes et aux femmes et peut s’appliquer à toutes les étapes de la vie professionnelle. Il porte atteinte au travailleur en tant que tel, mais aussi à ses conditions de travail, à sa digniter...
+
+À la différence du harcèlement moral, la victime doit prouver cet agissement. 
+
+### Discriminations positives
+
+Elles ne sont pas interdites par le code du travail (sauf si elles sont sexuelles donc sexiste).
+
+Les femmes enceinte reçoivent une protection (discrimination positive sexuelle). 
 
 ### Différence 
+
+CDD → Indémnité 
+
+Il peut y avoir des descrimination si 
+Et pour autant que l'objectif 
+
+L'article est flou et ouvert. 
+
+Discrimination de rémunération chez Renaud : salariés en IDF rémunérés plus cher. Justification : le cout de la vie.
+
+Donc le principe de non discrimination est très cosmétique.
+
+### Rugis Prudence
+
+Situation discriminantes :
+
+- Une candidate est exclu du processus du candidat de recrutement
+- La libanaise
+- Imposer à deux compagnons de vie des heures différents
+- Donner des consignes concernant son maquillage à une salariée qui change de sexe
+
+Un Stewart Air France décide de ne pas respecter des indications de coiffure, et respecte les indications des femmes. Il demande une action en discrimination et le licenciement est validé car usage & coutumes. Mais la cours de cassation dit que la coiffure n'est pas un prolongement de l'uniforme.
+
+Idem pour un salarié avec une barbe. Licenciement discriminatoire, refusé.
+
+Enfin, une célèbre affaire, dite du coiffeur
+
+> Un salarié coiffeur en période d'essai prévient son salarié qu'il est malade et qu'il ne peux pas venir. Le lendemain, il reçoit un SMS pas fou sur lui. Il reçoit une lettre de la rupture d'essaie le lendemain et fait appel. 
