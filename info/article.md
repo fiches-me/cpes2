@@ -40,6 +40,10 @@ Decision trees are a way to store data using a tree structure. Each data is boun
 
 ## What does fitness means for a binary tree?
 
+> 3.5. Fitness of trees
+
+Fitness is a real number indicating if a classification tree is relevant or not.
+
 ## Describe how binary trees are represented in this article.
 
 Each tree contain:
@@ -49,6 +53,10 @@ Each tree contain:
 Nodes contains *splits*, mathematical operations applied to each child's value and shown on the edge label.
 
 ## How is a complete tree defined in this article?
+
+We will call a tree of height $n$ where the paths from the top node to every leaf node all have equal length $n$ a complete (binary) $n$-tree.
+
+*En français : le sous arbre gauche et le sous arbre droit ont la même hauteur (récursivement)*
 
 ## What does AID stands for? How does it work?
 
@@ -61,4 +69,3 @@ We choose a list of *predictor variable* and apply the strongest one to make two
 ## Describe the issues with AID in this article.
 
 The original AID is too agressive: it find relationships with everything, sometime linking thinks that where just correlated by chance. *So it's harder to separate meaningful from meaningless relations.*
-

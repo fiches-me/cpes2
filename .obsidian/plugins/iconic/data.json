@@ -68,6 +68,12 @@
     "ens/stats": {
       "icon": "📈"
     },
+    "hec": {
+      "icon": "👑"
+    },
+    "hec/travail": {
+      "icon": "⚖️"
+    },
     "info": {
       "icon": "🖥️"
     },

@@ -101,6 +101,7 @@ const sections = [
   "misc",
   "ens",
   "sdd",
+  "hec",
 ];
 
 const sidebarOptions = sections.map((section) => ({
