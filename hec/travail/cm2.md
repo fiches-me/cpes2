@@ -135,20 +135,69 @@ Dans la pratique, que peut faire/ne peut pas faire l'employeur ?
 
 Aucune rémunération obligatoire sauf si gratification prévue.
 
-✅ L'employeur peut demander les documents suivants :
+✅ L'employeur peut demander les documents suivants (article 9 du code civil) :
 - Certificat de scolarité
 - Relevés de note (sans appréciation)
 - Diplômes (**jamais l'authentique**)
 - Permis de conduire si lien nécessaire
 - Copie de l'extrait du casier judiciaire si lien nécessaire
 
-⛔ L'employeur ne peux pas demander :
+⛔ L'employeur ne peux pas demander (article 9 du code civil) :
 - Les dossiers scolaires complet
 - Les bulletins de paie antérieur
-- Questions sans lien direct avec le contrat : possible de mentir (sans dole possible)
+- Questions sans lien direct avec le contrat : possible de mentir (sans dolle possible)
 
-Également, on **ne peut pas** mentir pendant cet entretient, au risque d'être licencier soit de mener à un Dole. Lors d'un dole, le contrat est annulé, pas d’indemnités, salaire à 
+Également, on **ne peut pas** mentir pendant cet entretient, au risque d'être licencier soit de mener à un Dolle. Lors d'un dolle, le contrat est annulé, pas d’indemnités, salaire à 
 rembourser.
 
 > [!example] 
 > La chambre social de cassation, en 2015, juge un salarié qui a fait croire qu'il avait été employé par la concurrence. Faut grave (donc dole).
+
+## L'embauche
+
+### La visite médicale
+
+Il fut un temps ou les visites médicales étaient obligatoires. Aujourd'hui, de nombreux examens ont été supprimés pour des raisons financières. Il existe encore des examens pour la recherche de drogue (sur certain emplois listé par le médecin du travail). 
+
+## Les limites à la liberté de selection
+
+### Interdictions sur l'âge
+
+- Interdiction d'emploi du fait de l'age et du sexe
+- Obligation de scolarité. Entre 16-18 ans, un jeune est obligé de se former.
+- À partir de 14 ans, les mineurs peuvent travailler pendant leurs vacances 
+- Les mineurs de moins de 16 ans ne peuvent pas effectuer des tours de force périlleux (monde du spectacle).
+- Il est **interdit** de placer leurs enfants auprès de **personnes qui font la manche**
+
+Pour un mineur, le travail de nuit est la plage horaire 20h-6h (22h pour les adultes)
+À partir d'une seule heure travaillé de nuit, le travailleur est considéré comme travailleur de nuit. 
+
+Un mineur ne peut donc pas travailler de nuit sauf dans les secteurs suivants :
+- Dans l'hôtellerie
+- La restauration
+- La boulangerie
+- Les spectacles → *À minuit, il doit être parti...*
+
+**De plus, si un majeur n'est pas disponible pour une action urgence (accident/prévention d'accident), un mineur peu intervenir.**
+
+### Interdictions sur le sexe
+
+Les femmes enceintes et qui ont accouchés ne peuvent pas travailler dans les 2 semaines qui précèdent l'accouchement ni les 6 semaines après l'accouchement. Elle ne peut pas travailler dehors si il fait trop froid ou de porter des charges trop lourdes (brouettes comprises).
+
+L'employeur doit mettre à disposition une chambre d'allaitement *close* si elle le souhaite.
+
+Les femmes ne peuvent pas travailler à proximité de certain produit chimiques (les hommes oui, notamment de l'air comprimé).
+
+## Discriminations
+
+### Traitement sur les discriminations
+
+Le principe d'interdiction des discriminations se base sur la Déclaration des Droits de l'Homme et du Citoyen (article 1). La loi précise que les discriminations directes et indirectes sont interdites. 
+
+### Prohibitions 
+
+### Sexe
+
+### Charge de la preuve
+
+### Différence 

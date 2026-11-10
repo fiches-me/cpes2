@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 🐟 Fish Mi-S1
+title: 🐟 Fish Mi-S1 Éco
 ---
 
 # 🐟 Fish Mi-S1
