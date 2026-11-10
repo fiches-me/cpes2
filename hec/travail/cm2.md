@@ -123,5 +123,32 @@ Il est nécessaire, lors du recrutement d'un candidat,
 > Il n'est pas possible de poser des questions sur la religion, l'orientation politique/sexuelle, la grosesse
 
 Dans la pratique, que peut faire/ne peut pas faire l'employeur ?
-- Pour la graphologie, si le test est effectué à son insu, c'est interdit 
-- Pour l'astrologie, c'est une atteinte à la vie privée (la date de naissance privée)
+- ⛔ Pour la graphologie, si le test est effectué à son insu, c'est interdit 
+- ⛔ Pour l'astrologie, c'est une atteinte à la vie privée (la date de naissance privée)
+- ✅ Test/Essaie professionnel : possible si il suit les règles suivantes :
+
+### Essai professionel
+
+*Dans le cadre d'un essai professionnel*, il n'y a pas encore de lien de hiérarchie brut. Cependant, on ne **doit pas** divulguer de secrets professionnels. 
+
+> [!WARNING] Toute rédaction pendant la période d'essaie reste sous un droit d'auteur.
+
+Aucune rémunération obligatoire sauf si gratification prévue.
+
+✅ L'employeur peut demander les documents suivants :
+- Certificat de scolarité
+- Relevés de note (sans appréciation)
+- Diplômes (**jamais l'authentique**)
+- Permis de conduire si lien nécessaire
+- Copie de l'extrait du casier judiciaire si lien nécessaire
+
+⛔ L'employeur ne peux pas demander :
+- Les dossiers scolaires complet
+- Les bulletins de paie antérieur
+- Questions sans lien direct avec le contrat : possible de mentir (sans dole possible)
+
+Également, on **ne peut pas** mentir pendant cet entretient, au risque d'être licencier soit de mener à un Dole. Lors d'un dole, le contrat est annulé, pas d’indemnités, salaire à 
+rembourser.
+
+> [!example] 
+> La chambre social de cassation, en 2015, juge un salarié qui a fait croire qu'il avait été employé par la concurrence. Faut grave (donc dole).
