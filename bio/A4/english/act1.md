@@ -126,13 +126,17 @@ Blood is composed of:
 ## Worldwide Blood Supply
 
 There is an inequality in both demand & supply regarding blood.
+
 ### An Inegal Distibution
+
 Poorer countries have way less blood donation supply than richers. 4% of European citizens donate their blood, whereas only 5% in Africa & 15% in South America. But the population is not equaly shared between richs & poor on earth!(Source: The Economist)
 
 ### Different needs
+
 54 % of blood transfusions are given to children under 5 years of age in poorer countries;
 
 76% of all transfusions in richer countries are for patient over 60 years old.
+
 ### Blood types
 
 > Icons: AB+ universal receiver, O- universal donor
@@ -144,9 +148,13 @@ A, B, AB & O (in negative an positive)
 Giving the wrong type can lead to hemagglutination (blood coagulation, clog blood vessels)
 
 **We both need more blood, and the right type**
+
 ## Future of Artificial Blood
+
 As Blood demand is still lacking donor offer, scientists thought of creating artificial blood.
+
 ### Past & Present Solution
+
 - 19th century:
 	- Milk
 	- Saline solutions
@@ -154,7 +162,9 @@ As Blood demand is still lacking donor offer, scientists thought of creating art
 - 20th century:
 	- Gum Saline
 	- long chain polymers
+
 ### Artifical cells: a future?
+
 Advantages:
 - can transport more O2
 - can live longer
