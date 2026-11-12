@@ -1,0 +1,11 @@
+mjx-container [style*="color: orange"] {
+  color: #FF954F !important;
+}
+
+mjx-container [style*="color: blue"] {
+  color: #22729B !important;
+}
+
+mjx-container [style*="color: red"] {
+  color: var(--color-l-red-30) !important;
+}
