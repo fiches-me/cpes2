@@ -10,7 +10,7 @@ order: 1
 ## Introduction to Blood
 
 **Blood** is a specialized connective tissue and circulating fluid composed of **plasma** (about 55% of total blood volume) and **formed elements** (about 45%, representing the hematocrit):
-* **Erythrocytes (Red Blood Cells - RBCs):** Biconcave, anucleated cells filled with **hemoglobin** (approx. 250 million molecules per cell) specialized in transporting oxygen (\\(\text{O}_2\\)) from the lungs to tissues and carbon dioxide (\\(\text{CO}_2\\)) back to the lungs.
+* **Erythrocytes (Red Blood Cells - RBCs):** Biconcave, anucleated cells filled with **hemoglobin** (approx. 250 million molecules per cell) specialized in transporting oxygen $\text{O}_2$ from the lungs to tissues and carbon dioxide $\text{CO}_2$ back to the lungs.
 * **Leucocytes (White Blood Cells - WBCs):** Granulocytes (neutrophils, eosinophils, basophils) and agranulocytes (monocytes/macrophages, lymphocytes) dedicated to innate and adaptive immune defense.
 * **Platelets (Thrombocytes):** Anucleated fragments derived from megakaryocytes in the red bone marrow that initiate hemostasis and clot formation.
 
@@ -50,7 +50,8 @@ Certain campaigns specifically target ethnic minority populations or communities
 
 #### 5. Define the "blood transfusion continuum"
 The **blood transfusion continuum** refers to the coordinated, end-to-end supply and safety chain comprising:
-\\[\text{Donor Recruitment} \rightarrow \text{Blood Collection} \rightarrow \text{Testing (ABO/Rh typing \& infectious disease screening)} \rightarrow \text{Fractionation / Processing} \rightarrow \text{Cold-chain Storage} \rightarrow \text{Compatibility Testing (Cross-matching)} \rightarrow \text{Bedside Administration and Hemovigilance.}\\]
+
+$$\text{Donor Recruitment} \rightarrow \text{Blood Collection} \rightarrow \text{Testing (ABO/Rh typing a,d infectious disease screening)} \rightarrow \text{Fractionation / Processing} \rightarrow \text{Cold-chain Storage} \rightarrow \text{Compatibility Testing (Cross-matching)} \rightarrow \text{Bedside Administration and Hemovigilance.}$$
 
 #### 6. Would you say that blood transfusion is a safe process? Discuss this point.
 In modern healthcare systems, blood transfusion is **exceptionally safe**, but risks cannot be reduced to absolute zero:
@@ -120,24 +121,24 @@ The high percentage identities shown in your alignment table illustrate that all
 
 | Allele Pair | Sequence Identity (%) | Molecular & Functional Divergence |
 | :---: | :---: | :--- |
-| **A / B** | **99.62%** | The \\(I^A\\) and \\(I^B\\) alleles differ by only seven single-base nucleotide substitutions across their coding region, leading to **4 critical amino acid differences** (residues 176, 235, 266, and 268) in the catalytic domain. These 4 substitutions alter the binding pocket specificity of the enzyme, determining whether it preferentially binds UDP-GalNAc (A allele) or UDP-Gal (B allele). |
-| **A / O** | **99.91%** | The \\(O\\) (\\(i\\)) allele is almost completely identical to the \\(A\\) allele, but carries a single-nucleotide deletion of guanine at position 261 (**\\(\Delta\text{G261}\\)**). This deletion causes a **frameshift mutation**, introducing a premature stop codon that results in a truncated, completely non-functional enzyme. |
-| **B / O** | **99.53%** | Reflects the combined sequence divergence of the catalytic site polymorphisms found in B plus the nucleotide deletion (\\(\Delta\text{G261}\\)) of the O allele. |
+| **A / B** | **99.62%** | The $I^A$ and $I^B$ alleles differ by only seven single-base nucleotide substitutions across their coding region, leading to **4 critical amino acid differences** (residues 176, 235, 266, and 268) in the catalytic domain. These 4 substitutions alter the binding pocket specificity of the enzyme, determining whether it preferentially binds UDP-GalNAc (A allele) or UDP-Gal (B allele). |
+| **A / O** | **99.91%** | The $O$ ($i$) allele is almost completely identical to the $A$ allele, but carries a single-nucleotide deletion of guanine at position 261 (**$\Delta\text{G261}$**). This deletion causes a **frameshift mutation**, introducing a premature stop codon that results in a truncated, completely non-functional enzyme. |
+| **B / O** | **99.53%** | Reflects the combined sequence divergence of the catalytic site polymorphisms found in B plus the nucleotide deletion ($\Delta\text{G261}$) of the O allele. |
 
 #### 7. Study the composition and biosynthesis of the different blood antigens
 1. **Formation of the H Substance (Foundation):**
-   * A precursor lipid/protein core chain is modified by an enzyme called \\(\alpha\\)-(1,2)-fucosyltransferase (encoded by the **\\(H\\) gene** / *FUT1* on chromosome 19).
-   * This enzyme attaches an **L-fucose** monosaccharide to the terminal \\(\text{D-galactose}\\) of the precursor chain, producing the **H antigen**.
+   * A precursor lipid/protein core chain is modified by an enzyme called $\alpha$-(1,2)-fucosyltransferase (encoded by the **$H$ gene** / *FUT1* on chromosome 19).
+   * This enzyme attaches an **L-fucose** monosaccharide to the terminal $\text{D-galactose}$ of the precursor chain, producing the **H antigen**.
 2. **Biosynthesis of A and B Antigens:**
-   * **Allele A (\\(I^A\\)):** Codes for **\\(\alpha\\)-(1,3)-N-acetylgalactosaminyltransferase**. This enzyme transfers an **N-acetylgalactosamine (GalNAc)** moiety from UDP-GalNAc onto the terminal galactose of the H antigen.
-   * **Allele B (\\(I^B\\)):** Codes for **\\(\alpha\\)-(1,3)-galactosyltransferase**. This enzyme transfers a **\\(\text{D-galactose}\\)** residue from UDP-Gal onto the H antigen.
-   * **Allele O (\\(i\\)):** Lacks transferase activity due to the frameshift truncation. The H antigen remains unmodified on the red blood cell surface.
+   * **Allele A ($I^A$):** Codes for **$\alpha$-(1,3)-N-acetylgalactosaminyltransferase**. This enzyme transfers an **N-acetylgalactosamine (GalNAc)** moiety from UDP-GalNAc onto the terminal galactose of the H antigen.
+   * **Allele B ($I^B$):** Codes for **$\alpha$-(1,3)-galactosyltransferase**. This enzyme transfers a **$\text{D-galactose}$** residue from UDP-Gal onto the H antigen.
+   * **Allele O ($i$):** Lacks transferase activity due to the frameshift truncation. The H antigen remains unmodified on the red blood cell surface.
 
 #### 8. Explain the existence of different blood types from a genetic point of view
 The inheritance of the ABO blood system is governed by **allelic polymorphism** and **Mendelian genetics**:
-* The *ABO* locus possesses three common alleles: **\\(I^A\\)**, **\\(I^B\\)**, and **\\(i\\) (or O)**.
-* **Codominance:** \\(I^A\\) and \\(I^B\\) are codominant. If an individual inherits both (\\(I^A I^B\\)), both functional transferases are synthesized, leading to the simultaneous presence of both A and B antigens (blood group AB).
-* **Complete Dominance over O:** Both \\(I^A\\) and \\(I^B\\) are completely dominant over the recessive allele \\(i\\). Because the \\(i\\) allele produces an inactive enzyme, heterozygous genotypes (\\(I^A i\\) and \\(I^B i\\)) express the A and B phenotypes, respectively. Blood group O requires homozygous inheritance (\\(i i\\)).
+* The *ABO* locus possesses three common alleles: **$I^A$**, **$I^B$**, and **$i$ (or O)**.
+* **Codominance:** $I^A$ and $I^B$ are codominant. If an individual inherits both ($I^A I^B$), both functional transferases are synthesized, leading to the simultaneous presence of both A and B antigens (blood group AB).
+* **Complete Dominance over O:** Both $I^A$ and $I^B$ are completely dominant over the recessive allele $i$. Because the $i$ allele produces an inactive enzyme, heterozygous genotypes ($I^A i$ and $I^B i$) express the A and B phenotypes, respectively. Blood group O requires homozygous inheritance ($i i$).
 
 #### 9. Synthesis: Answer to the overall question
 Blood is a **vital, non-substitutable tissue** because it provides convective long-distance transport for oxygen, carbon dioxide, essential fuels, and regulatory signals across all organs in multicellular organisms, directly preventing cellular hypoxia and maintaining internal physiological homeostasis. 
