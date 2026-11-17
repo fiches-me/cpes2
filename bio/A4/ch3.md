@@ -48,7 +48,8 @@ En coupe interne, on peut distinguer 3 types de couches :
 
 > [!INFO] Le média et l'adventice ne sont pas présent dans les capilaires
 
-< image >
+| ![[Pasted image 20261117102537.png]] | ![[Pasted image 20261117102607.png]] |
+| ------------------------------------ | ------------------------------------ |
 
 Les veines possèdent moins de média et les artères plus de collagène. 
 
@@ -82,6 +83,27 @@ Avec $D$ le débit, $P$ la pression et $R$ la resistance à l'écoulement, *par 
 
 ## Artères
 
-Si on considère les artères : elles sont élastiques et donc, comme vu en haut, peuvent subir de hautes pressions. On trouve donc un tissu conjonctif riche en élastine. *C'est un phénomène spontanée.* L'Adventice est pleine de collagène pour éviter une rupture des vaisseaux.
+Si on considère les artères : elles sont élastiques et donc, comme vu en haut, peuvent subir de hautes pressions. La richesse en cellule musculaires lisse dans le média permet d’augmenter la **vasomotricité**, donc changer le diamètre. On trouve donc un tissu conjonctif riche en élastine, et une adventice **riche en collagène** pour *rétro-contrôle de l'état étiré* (et *éviter la rupture des vaisseaux*).
 
-Plus on avance dans le réseaux, plus la pression diminue pour atteindre celle supportable par les capilaires.
+*→ C'est un phénomène spontanée*. **Compliance**.
+→ Réduire diamètre → augmente la résistance → plus de sang, vite.
+
+Plus on avance dans le réseaux, plus la pression diminue pour atteindre celle supportable par les capillaires.
+
+> [!TIP]- Pourquoi supprimer cette pression ?
+> Cette grande pression permet d'*iriguer l'ensemble des capilaires (beaucoup)*, d'*éviter trop de batements* (économie d'énergie) et *combattre la gravité*.
+
+On a une nervation (présence de nerfs) sur **certaines cellules uniquement** liés par **quelques synapses** 
+
+| ![[Pasted image 20261117102648.png]] | Ici, les points représentent des [jonctions gap]().<br><br>Elles permettent de répandre la dépolarisation<br>créé par les synases. |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+
+### Rétrocontrôle de la vasomotricité
+
+Il y a 3 contrôle de la vasomotricité : 
+
+1. **Hormonal** : contrôlé par deux hormones :
+	- ➖ **Noradrénaline** produit par le système nerveux *orthosympatique* (*autonome*) qui enclenche la **vasoconstruction**.
+	- ➕**Adrénaline** secrété par une glande (donc *non-autonome*) qui lui crée un relâchement et donc une **vasodilatation**.
+2. **Nerveux** : 
+3. **Local** : 
