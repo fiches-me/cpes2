@@ -1,3 +1,9 @@
+---
+title: Quantitatif
+order: 2
+---
+
+
 Let's now take a look at quantitative variables.
 
 With a set of observations $\mathcal{D} = {x_i}_{1 \le i \le n}$ an observation vector, $x = [x_1, x_2, \dots, x_n]^{\text{T}} \in \mathbb{R}$

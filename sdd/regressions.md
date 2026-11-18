@@ -15,6 +15,7 @@ Before starting, let's put on the table our dataset infos:
 **Covariance** between $x$ & $y$ is computed as follows:
 
 $$cov(\boldsymbol{x}, \boldsymbol{y}) = \frac 1n \sum _{i =1} ^n (x_i - \bar{x})(y_i - \bar{y})  \frac 1n \sum _{i =1} ^n x_i y_i - \bar{x} \bar{y}$$
+
 Covariance is:
 - positive, negative or zero
 - the product of the unit of $x$ and $y$
