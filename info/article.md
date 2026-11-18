@@ -1,7 +1,8 @@
-# Article
+---
+title: Article Data Mining
+---
 
-> [!NOTE]
-> La plupart de ces réponses sont rédigés sans sources extérieures ni IA. N'hésitez donc pas à creuser un peu plus :) 
+# Article
 
 ## L4: More data means less info. Explain this sentence.
 
@@ -69,3 +70,15 @@ We choose a list of *predictor variable* and apply the strongest one to make two
 ## Describe the issues with AID in this article.
 
 The original AID is too agressive: it find relationships with everything, sometime linking thinks that where just correlated by chance. *So it's harder to separate meaningful from meaningless relations.*
+
+## What is a genetic operator? Name 3 of them. 
+
+## Describe how the **cross-over** operator work
+
+## Describe how the **switch** operator work
+
+## Describe how the **translocation** operator work
+
+## Explain a problem encountered on previous genetic algorithm on binary trees 
+
+## What is a reproduction operator? Why does the given family represent a xxx

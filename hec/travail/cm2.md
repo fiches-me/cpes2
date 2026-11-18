@@ -261,3 +261,6 @@ Idem pour un salarié avec une barbe. Licenciement discriminatoire, refusé.
 Enfin, une célèbre affaire, dite du coiffeur
 
 > Un salarié coiffeur en période d'essai prévient son salarié qu'il est malade et qu'il ne peux pas venir. Le lendemain, il reçoit un SMS pas fou sur lui. Il reçoit une lettre de la rupture d'essaie le lendemain et fait appel. 
+
+Enfin, remise des livrets d’accueil : c'est après le contrat d'embauche donc pas de promesse bilatérale.
+
