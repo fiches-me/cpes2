@@ -1,3 +1,3 @@
 ---
-title: Politiques Économiques
+title: Limites de la croissance et Décroissance
 ---
