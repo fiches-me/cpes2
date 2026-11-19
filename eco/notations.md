@@ -49,14 +49,14 @@ order: 1
 - $\gamma$ **(ou** $g_a$**)** = **Taux de croissance de la technologie**.
 - $\delta$ = **Taux de dépréciation du capital**.
 
-## Travail **effectif** / *qualifié*
+### Travail **effectif** / *qualifié*
 
 - $\hat{y} = \frac Y {\color{orange}AL}$
 - $\hat{k}= \frac K {\color{orange}AL}$
 - $\tilde{y} = \frac Y {\color{blue}hL}$
 - $\tilde{k}= \frac K {\color{blue}hL}$
 
-## Formules contables
+## Autres formules comptables
 
 - $\large{Y}\normalsize= C + I + G + (X - M)$[^1]
 - $\large{Y}\normalsize= C + S + T$[^2]
