@@ -103,7 +103,20 @@ On a une nervation (présence de nerfs) sur **certaines cellules uniquement** li
 Il y a 3 contrôle de la vasomotricité : 
 
 1. **Hormonal** : contrôlé par deux hormones :
-	- ➖ **Noradrénaline** produit par le système nerveux *orthosympatique* (*autonome*) qui enclenche la **vasoconstruction**.
+	- ➖ **Noradrénaline** produit par le système nerveux *orthosympathique* (*autonome*) qui enclenche la **vasoconstruction**.
 	- ➕**Adrénaline** secrété par une glande (donc *non-autonome*) qui lui crée un relâchement et donc une **vasodilatation**.
-2. **Nerveux** : 
-3. **Local** : 
+2. **Nerveux**
+3. **Local**
+
+En cas d'afflux d'O2/CO2, il faut dilater pour faire circuler plus vite. Idem pour une argumentation du pH. 
+
+## Capillaires
+
+Formé uniquement d'intima ([[#Les Vaisseaux Sanguins|Voir si-dessus]]). Ils forment un lit capilaire, de 3 à 7 micromètres (tout petit). Le sens de circulation est toujours Artères → Veines. Des **Sphincters capilaires** (composés de *cellule musculaires lisses*) qui forment des noeuds et qui controle le débit de sang dans les capilaires (**perfusion**).
+
+Au repos, on estime à 30% le nombre de capillaire irrigués (donc 30% de perfusion). *Cela dépend aussi de la température.*
+
+Quelques points :
+
+1. ...
+2. Il y a autour de 40 milliards de capilaires dans le corps humain, à peu près 40km 
