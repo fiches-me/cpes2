@@ -24,6 +24,7 @@ order: 1
 - $S$ = **Épargne**
 - $I$ = **Investissement**
 - $G$ = **Dépenses publiques**
+- $H$ = **Stock de capital humain**
 - $B$ = **Qualité du système éducatif**
 
 ## Minuscules
@@ -32,6 +33,7 @@ order: 1
 
 - $y$ : **production par tête** $\frac Y L$
 - $k$ : **capital** *des entreprises* **par tête** $\frac K L$
+- $h$ : **capital humain par tête** $\frac H L$
 - $c$ : **consommation par tête** $\frac C L$
 
 ### Accumulation par tête ($x/t$)
