@@ -87,8 +87,8 @@ La preuve apportée par un enquêteur qui suit une salariée dans sa vie privée
 - **La perruque** : l'employeur tolère que le salarié exerce, pendant son temps de travail, une activité à des fins personnelles, même économique, à condition qu'elle reste minime et accessoire par rapport au travail.
 - **Le matériel** : lorsque l'employeur fournit le matériel au salarié, cela indique un lien de subordination, sauf pour certaines professions spécifiques, comme les bouchers.
 - **La géolocalisation** : elle est interdite, sauf si :
-    - elle est indispensable à la sécurité des salariés et des biens ;
-    - le salarié peut la désactiver pendant son temps de vie privée.
+- elle est indispensable à la sécurité des salariés et des biens ;
+- le salarié peut la désactiver pendant son temps de vie privée.
 - **Le bénéfice tiré de l'activité** : si l'employeur tire un bénéfice de l'activité, il y a également lien de subordination.
 
 ### Présomption de salariat
@@ -130,18 +130,55 @@ Existe-t-il réellement ? En pratique, il reste largement théorique :
 
 ---
 
-## Droit de retrait 
+## Droit de retrait
 
-Si il y a un danger exterieur à la profession, on ne peut pas utiliser le droit de retrait
-Si une autre personne est en danger, pas possible non plus
+- S'il y a un danger extérieur à la profession, on ne peut pas utiliser le droit de retrait.
+- Si une autre personne est en danger, ce n'est pas possible non plus.
 
-Quand on confie une tache à un carde, il peut la répartir au sein de son équipe.
-Il a obligation à donner du temps à son travail.
+**Obligations et comportement du salarié**
 
-Même des voles des plus absurdes ont été punis (type ramette à papier).
+- Quand on confie une tâche à un cadre, il peut la répartir au sein de son équipe.
+- Il a l'obligation de consacrer du temps à son travail.
+- Même des vols des plus absurdes ont été punis (type ramette de papier).
+- Insulter, ou toute forme de mésentente, ne peut pas être une cause de licenciement, sauf si cela impacte le fonctionnement de la société (jurisprudence).
+- Le salarié doit être en mesure d'effectuer son travail.
+- Obligation de loyauté pendant le travail et les vacances.
 
-Insulter, toute forme de mésentente, ne peut pas être une cause de licencient sauf si impact le fonctionnement de la société (jurisprudence)
+**Obligation de discrétion et de secret**
 
-Le salarié doit être en mesure d'effectuer son travail. 
+Même en l'absence de disposition dans le contrat de travail (ou tout autre document), toute divulgation de secret professionnel est interdite et constitue une faute grave. *Mais qu'est-ce que le secret en droit ?* L'article 226-13 du Code pénal est extrêmement large (puni d'une amende et d'une peine de prison). *Ici, le curseur est souple pour faire évoluer le texte.*
 
-Obligation de loyauté pendant le travail et les vacances
+Qui est concerné par le secret professionnel ?
+- Avocats
+- Magistrats
+- Médecins
+- Ministres des cultes
+- Jurés
+
+Toutes les autres professions sont moins protégées, mais toute divulgation de document interne nuisant à l'entreprise reste une faute grave. La jurisprudence nous montre qu'un secret n'a qu'à remplir un intérêt pratique ou commercial pour rentrer dans un cas brevetable, et donc devenir un secret protégé.
+
+Exemples :
+- Un cadre divulgue un document sur les difficultés financières d'une entreprise.
+- Une secrétaire qui a ouvert des plis confidentiels : un pli confidentiel ne peut être ouvert que par son destinataire (droit de la poste). *Instruction requise.*
+- **La voyante tarologue** : une salariée était assistante d'un médecin le jour et voyante tarologue la nuit, mais elle avait beaucoup de clients en commun avec le médecin. *À partir du moment où elle exerce ces activités en dehors du cadre du travail, il a été décidé que les obligations ne perdurent pas.*
+
+## Obligations des employeurs
+
+Première obligation simple : fournir le matériel nécessaire au travail et ne demander que la tâche de travail inscrite dans le contrat.
+
+Est constitutif de harcèlement moral :
+- demander au travailleur d'accomplir la tâche sans le matériel ;
+- écraser sous le poids du travail et imposer des réductions d'horaires injurieuses (*marque d'absence de confiance*).
+
+Autres obligations et droits à respecter :
+
+- **Versement du salaire convenu** : non seulement dans son montant, mais aussi dans son mode de calcul, même si le salaire devient plus attractif.
+- **Liberté d'expression du travailleur** (⚠️ ne prend pas en compte le syndicat) :
+- *Jurisprudence* : des travailleurs demandent à un cadre de mettre en forme leurs revendications salariales auprès de leur patron. Le cadre est licencié alors que la situation est licite. **Donc la liberté d'expression fonctionne aussi si l'idée est portée par quelqu'un d'autre.**
+	 -> Inciter à la grève est également licite au titre de cette liberté.
+- **Respecter la vie personnelle du salarié** : si elle n'empiète pas sur le temps de travail, l'employeur n'a pas de droit de regard dessus.
+- **Liberté du mariage** : toute clause qui l'interdirait serait frappée de nullité.
+- **Conduire des ébats amoureux sur le lieu de travail est interdit.**
+- **Temps de pause** : l'employeur doit accorder un temps de pause obligatoire au salarié (dès que le temps de travail quotidien atteint six heures consécutives).
+- **Temps d'habillage** : il faut arriver en avance pour s'habiller.
+- **Astreinte** : décompter des 11h de repos quotidient
