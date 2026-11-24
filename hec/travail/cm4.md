@@ -2,6 +2,7 @@
 title: "Cours 4 : L'exécution du contrat de travail (Droits et obligations)"
 order: 4
 ---
+
 # Cours 4 : L'exécution du contrat de travail (Droits et obligations)
 
 ## Obligations et droits du salarié
@@ -71,3 +72,73 @@ Il y a obligation d'informer le candidat des conditions et des dispositifs de su
 
 - **Proportionnalité** : Seul le vin, pierre, cidre & poiré sont autorisés (boissons traditionnelles). **Interdiction de travailler en état d'ébriété**.
 	- Faute de l'employeur si il y a un problème pendant un événement en lien direct et nécessaire avec la boîte.
+- **Drogue** : souvent, les employeurs protègent leur cardes. Quelques décisions :
+	- Un steewart formé à la sécurité. 
+- **Nourriture** : interdiction de se nourrir sur le lieux de travail ? Conditions ?
+
+## Rédaction du règlement interieur
+
+Certaines mesures **doivent figurer** :
+- règles d'hygiène et de sécurité
+- Normes autour du statut de lanceur d’alerte. → se heurte au secret des affaires
+- Affichage des normes concernant le harcèlement moral/sexuel et les agissements sexistes.
+- Toutes les normes qui concernent la discipline et l’échelle des peines susceptibles d’être applicables (mutation, blâme, etc.)
+- On liste un certain nombre de normes accessibles par le code du travail.
+- Il faut afficher le principe de neutralité (extrêmement difficile ; surtout dans entreprise de tendances) quidésormais est susceptible de gouverner les entreprises.
+
+D'autres sont **interdites** :
+- toutes les clauses qui vont être non conformes aux lois et aux règlements.
+- clauses sur les secret des correspondances interdit
+	- clauses qui permettent l’ouverture systématique du courrier du salarié.
+- clauses sur la liberté des salariés
+	- les salariés ont toutes possibilités d’échanger sur des questions d’orientations politiques/religieuses.
+	- interdiction d’imposer une heure de sport au début du travail.
+	- interdiction de l’employeur à forcer ses salariés à chanter, siffler, danser, etc.
+
+## Le contrôle de l’activité du salarié
+
+*La jurisprudence encadre strictement les pouvoirs de surveillance de l'employeur.*
+
+### Les conditions préalables à tout contrôle
+
+Pour être licite, un dispositif de surveillance doit respecter trois principes fondamentaux :
+- **Information préalable obligatoire** des salariés (et consultation du CSE), **sauf** si le dispositif est installé dans un local où le salarié n'a pas vocation à travailler.
+- **Respect du RGPD** (protection des données personnelles).
+- **Principe de proportionnalité** *(Art. L. 1121-1 du Code du travail)* : la surveillance ne doit être ni constante, ni ciblée abusivement sur un salarié en particulier.
+
+### Florilège de jurisprudence selon les moyens de contrôle
+
+**Téléphonie et communications**
+
+- **Écoutes téléphoniques :** Strictement interdites (atteinte à la vie privée), sauf exceptions très encadrées (ex. centres d'appels à des fins de formation, avec information préalable)
+- **Autocommutateurs (type extensions Teams ou téléphonie fixe) :** Autorisés. L'employeur peut relever les numéros composés, la date, l'heure et la durée des appels, mais **ne peut pas enregistrer le contenu des conversations**.
+
+**Vidéosurveillance**
+- **Dans les locaux de travail :** Autorisée uniquement après information préalable des salariés et pour un motif légitime (sécurité des biens et des personnes).
+    - *Jurisprudence (Cass. soc., 2013) :* Un centre commercial avait installé 240 caméras (dont 140 dans les zones accessibles au public) filmant notamment les accès aux sanitaires et aux vestiaires. Même avec information préalable, le dispositif a été jugé **illicite** : nombre de caméras disproportionné et surveillance constante des salariés.
+- **Hors des locaux de travail :** Autorisée sans information préalable si les salariés n'y travaillent pas habituellement.
+    - *Jurisprudence (2001) :* Caméra installée dans un local de stockage $\rightarrow$ **licite**, car le salarié n'a pas vocation à y séjourner en permanence. (À l'inverse, filmer l'intérieur des toilettes est strictement interdit).
+
+**Filature et stratagèmes (enquêteurs privés, pièges)**
+- **Filature par un détective privé :** Preuve par principe illicite car elle porte atteinte à la vie privée et s'effectue à l'insu du salarié.
+- **Stratagèmes / Provocation à la faute :**
+    - *Affaire dite « La Poste » :* Un salarié (qui n'a pas le droit d'ouvrir les colis suspects, prérogative réservée à la police et aux douanes) était soupçonné de vol. Son chef a piégé une lettre ciblée avec de l'encre bleue indélébile, tachant les mains du salarié.
+    - *Décision :* Moyen de preuve jugé **illicite** (même pour une mission de service public) en raison de l'absence d'information et de la **provocation à commettre une infraction** via un piège ciblé.
+
+**Fouille des effets personnels (sacs)**
+- *Jurisprudence « M6 » (2001) :* À la suite de la vague d'attentats de l'été 1995, la chaîne M6 met en place un contrôle visuel des sacs à l'entrée par un agent de sécurité. Un salarié refuse d'ouvrir son sac et est licencié.
+- *Décision :* Licenciement validé (comportement fautif) au regard des **circonstances exceptionnelles** et des exigences de sécurité.
+    
+- *Distinction des pouvoirs :*
+    - **Agents de sécurité privée :** Peuvent uniquement demander l'**ouverture du sac pour un contrôle visuel** (sans y toucher), avec l'accord du salarié.
+    - **Officiers de Police Judiciaire (OPJ) :** Seuls habilités à fouiller physiquement un sac, procéder à des palpations de sécurité ou ouvrir le coffre d'un véhicule.
+
+**Armoires et vestiaires individuels**
+- L'employeur a l'obligation de mettre une armoire/un vestiaire à disposition (notion de dépôt obligatoire).
+- Les conditions d'accès doivent être prévues dans le **Règlement Intérieur (RI)**.
+- **Principe :** Interdiction d'ouvrir l'armoire sans **information préalable** et présence du salarié, **sauf** en cas de risque ou d'événement particulier (ex. alerte à la bombe, péril imminent, odeur suspecte).
+
+**Constat d'huissier (Commissaire de justice)**
+- **Principe :** Le constat d'huissier est un mode de preuve **licite** (l'huissier se contente d'effectuer des constatations matérielles objectives).
+- **Limite (la loyauté de la preuve) :** L'huissier ne doit pas user de manœuvres déloyales.
+    - *Jurisprudence :* Un huissier se présente sous une fausse identité pour obtenir des renseignements sur une salariée travaillant chez un concurrent $\rightarrow$ **preuve illicite**.
