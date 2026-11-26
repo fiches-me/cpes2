@@ -142,3 +142,6 @@ Pour être licite, un dispositif de surveillance doit respecter trois principes 
 - **Principe :** Le constat d'huissier est un mode de preuve **licite** (l'huissier se contente d'effectuer des constatations matérielles objectives).
 - **Limite (la loyauté de la preuve) :** L'huissier ne doit pas user de manœuvres déloyales.
     - *Jurisprudence :* Un huissier se présente sous une fausse identité pour obtenir des renseignements sur une salariée travaillant chez un concurrent $\rightarrow$ **preuve illicite**.
+
+**On ne peut pas accéder au mails personnels.**
+Les fichiers sur un ordinateur professionnels sont présumés à caractère professionnel. Idem pour une clef USB branchée. On peut consulter **même sans la présence du salarié.**

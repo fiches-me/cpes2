@@ -43,3 +43,5 @@ $$\sum^k_ {g=1} \sum_{i \in C_g} ||\mathbf{x}_i - \bar{\mathbf{x}}_g||^2$$
 On va chercher par itérations k moyennes et k centres pour minimiser la dispersion. On note $c_i^{(h)}$ le groupe à lequel appartient $\mathbf{x}_i$ au temps $h$. On peut alors noter nos groupes $C_g^{(h)} = \{ i : c_i ^{(h)} = g \}$.
 
 ## Hiérarchie aglomérative 
+
+...
