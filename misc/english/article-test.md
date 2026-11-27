@@ -25,3 +25,10 @@ Adjectif invariables en anglais
 revenue (recette) = income (gain)
 salary = wages
 the revenue = le fisc
+
+
+- evloution != more ?
+  When war? What append in 2019 ?
+- what goes from ? Like revenue teleports?
+
+international aid is blocked -> What is the situation rn?
